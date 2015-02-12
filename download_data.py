@@ -19,7 +19,9 @@ for year in YEARS:
     data = data.decode('windows-1252')
     data = data.replace('\r\n', '\n')
     data = html2text(data)
+    data = data.encode('utf-8')
 
     with open(FILE_PATH % year, 'w') as data_file:
-        data_file.write(data.encode('utf-8'))
+        data_file.write(data)
+
     print 'Wrote file with', len(data), 'chars'
