@@ -11,28 +11,12 @@ from sklearn.preprocessing import StandardScaler
 
 RAW_MATCHES_FILE = 'raw_matches.csv'
 RAW_WINNERS_FILE = 'raw_winners.csv'
-TEAM_RENAMES_FILE = 'team_renames.csv'
-
-
-def apply_renames(column):
-    """Apply team renames to a team column from a dataframe."""
-    with open(TEAM_RENAMES_FILE) as renames_file:
-        renames = dict(l.strip().split(',')
-                       for l in renames_file.readlines()
-                       if l.strip())
-
-        def renamer(team):
-            return renames.get(team, team)
-
-    return column.map(renamer)
 
 
 def get_matches(with_team_stats=False, duplicate_with_reversed=False,
                 exclude_ties=False):
     """Create a dataframe with matches info."""
     matches = pd.DataFrame.from_csv(RAW_MATCHES_FILE)
-    for column in ('team1', 'team2'):
-        matches[column] = apply_renames(matches[column])
 
     if duplicate_with_reversed:
         id_offset = len(matches)
@@ -74,8 +58,6 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
 def get_winners():
     """Create a dataframe with podium positions info."""
     winners = pd.DataFrame.from_csv(RAW_WINNERS_FILE)
-    winners.team = apply_renames(winners.team)
-
     return winners
 
 
