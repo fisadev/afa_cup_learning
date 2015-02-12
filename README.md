@@ -1,6 +1,8 @@
 afa_cup_learning
 ================
 
+**WORK IN PROGRESS**: if you clone this, it's incomplete and won't work.
+
 Just because I wanted to win a bet, some machine learning about the afa world cup :)
 
 This work is based (but has important modifications) on my previous work on the world cup predictions: https://github.com/fisadev/world_cup_learning
