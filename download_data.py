@@ -10,8 +10,9 @@ import requests
 
 YEAR_URL = 'http://www.rsssf.com/tablesa/arg%i.html'
 FILE_PATH = 'data/%i.txt'
+YEARS = range(90, 100) + range(2000, 2016)
 
-for year in range(90, 2016):
+for year in YEARS:
     print 'Year:', year
     try:
         data = requests.get(YEAR_URL % year).content
