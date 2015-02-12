@@ -3,3 +3,4 @@ pygal
 pybrain
 ipython[all]
 requests
+nltk
