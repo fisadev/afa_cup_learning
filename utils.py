@@ -12,6 +12,27 @@ from sklearn.preprocessing import StandardScaler
 RAW_MATCHES_FILE = 'raw_matches.csv'
 
 
+def team_year_key(*args):
+    """
+    Create a key string to identify a combination of team and year.
+
+    If 2 arguments are passed, it assumes it must construct a key from a pair of
+    team and year.
+    If 1 argument is passed, it assumes it is a key and must de-construct it
+    into a team and year pair.
+    """
+    if len(args) == 2:
+        team, year = args
+        return team + ':' + str(year)
+    elif len(args) == 1:
+        team, year = args[0].split(':')
+        if year != 'all_time':
+            year = int(year)
+        return team, year
+    else:
+        raise ValueError("Don't know what to do with %i elements" % len(args))
+
+
 def get_matches(with_team_stats=False, duplicate_with_reversed=False,
                 exclude_ties=False, recent_years=1):
     """Create a dataframe with matches info."""
