@@ -9278,7 +9278,7 @@ id,year,team1,score1,score2,team2
 9276,2012,cruz del sur (ingjacobacci),1,0,maronese (neuquen)
 9277,2012,villa mitre (bahia blanca),1,0,alvear fc (intendente alvear)
 9278,2012,rivadavia (lincoln),2,0,la emilia (san nicolas)
-9279,2012,douglas haig (pergamino),2,1,ferro carril sud (tandil)
+9279,2012,douglas haig,2,1,ferro carril sud (tandil)
 9280,2012,racing (olavarria),5,0,grupo universitario (tandil)
 9281,2012,defensores de belgrano (vr),2,0,once tigres (nueve de julio)
 9282,2012,juventud unida (gualeguaychu),0,1,atletico san jorge (santa fe)
@@ -9315,7 +9315,7 @@ id,year,team1,score1,score2,team2
 9313,2012,ramon santamarina,1,0,union (mar del plata)
 9314,2012,atletico parana,2,1,gimnasia y esgrima (cdu)
 9315,2012,talleres (cordoba),1,0,racing (cordoba)
-9316,2012,sportivo belgrano (sfco),1,0,douglas haig (pergamino)
+9316,2012,sportivo belgrano (sfco),1,0,douglas haig
 9317,2012,gimnasia y tiro (salta),2,4,central norte (salta)
 9318,2012,libertad (sunchales),0,3,central cordoba (rosario)
 9319,2012,huracan (tres arroyos),1,3,racing (olavarria)
