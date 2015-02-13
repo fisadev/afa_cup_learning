@@ -75,7 +75,7 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
     return matches
 
 
-def get_team_stats_by_year(recent_years):
+def get_team_stats(recent_years):
     """Create a dataframe with useful stats for each team+year combination."""
     all_matches = get_matches()
 
