@@ -5,11 +5,19 @@ and/or summarization.
 """
 from random import random
 import pandas as pd
+import numpy as np
 import pygal
 from sklearn.preprocessing import StandardScaler
 
 
 RAW_MATCHES_FILE = 'raw_matches.csv'
+
+
+def clean_bad_values(data_frame):
+    """Remove nans, infs, etc."""
+    data_frame = data_frame.fillna(0)
+    data_frame = data_frame.replace(np.inf, 0)
+    return data_frame
 
 
 def team_year_key(*args):
@@ -92,8 +100,8 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
         min_year = matches.year.min()
         matches = matches[matches.year >= min_year + recent_years]
 
-    # stats unable to be calculated => set 0
-    matches.fillna(0)
+    # clean bad values
+    matches = clean_bad_values(matches)
 
     return matches
 
@@ -149,8 +157,8 @@ def get_team_stats(recent_years):
 
     stats['matches_won_percent'] = stats.matches_won / stats.matches_played * 100.0
 
-    # stats unable to be calculated => set 0
-    stats.fillna(0)
+    # clean bad values
+    stats = clean_bad_values(stats)
 
     return stats
 
