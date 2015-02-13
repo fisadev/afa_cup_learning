@@ -86,6 +86,12 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
 
             matches = matches.join(all_time_stats, on='team%i_all_time' % team)
 
+    # if including recent stats, we cannot include matches from begining of
+    # time, because those rows would have garbage as "recent" stats
+    if with_team_stats:
+        min_year = matches.year.min()
+        matches = matches[matches.year >= min_year + recent_years]
+
     return matches
 
 
