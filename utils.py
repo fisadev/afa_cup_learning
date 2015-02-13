@@ -10,7 +10,6 @@ from sklearn.preprocessing import StandardScaler
 
 
 RAW_MATCHES_FILE = 'raw_matches.csv'
-RAW_WINNERS_FILE = 'raw_winners.csv'
 
 
 def get_matches(with_team_stats=False, duplicate_with_reversed=False,
@@ -53,12 +52,6 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
                          .join(stats, on='team2', rsuffix='_2')
 
     return matches
-
-
-def get_winners():
-    """Create a dataframe with podium positions info."""
-    winners = pd.DataFrame.from_csv(RAW_WINNERS_FILE)
-    return winners
 
 
 def get_team_stats():
