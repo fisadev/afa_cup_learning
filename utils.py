@@ -54,7 +54,7 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
     return matches
 
 
-def get_team_stats():
+def get_team_stats(recent_years):
     """Create a dataframe with useful stats for each team."""
     matches = get_matches()
 
@@ -67,7 +67,7 @@ def get_team_stats():
     for team in teams:
         team_matches = matches[(matches.team1 == team) |
                                (matches.team2 == team)]
-        stats.loc[team, 'matches_played'] = len(team_matches)
+        stats.loc[team, 'matches_played_all_time'] = len(team_matches)
 
         # wins where the team was on the left side (team1)
         wins1 = team_matches[(team_matches.team1 == team) &
@@ -76,11 +76,11 @@ def get_team_stats():
         wins2 = team_matches[(team_matches.team2 == team) &
                              (team_matches.score2 > team_matches.score1)]
 
-        stats.loc[team, 'matches_won'] = len(wins1) + len(wins2)
+        stats.loc[team, 'matches_won_all_time'] = len(wins1) + len(wins2)
 
         stats.loc[team, 'years_played'] = len(team_matches.year.unique())
 
-    stats['matches_won_percent'] = stats['matches_won'] / stats['matches_played'] * 100.0
+    stats['matches_won_percent_all_time'] = stats['matches_won_all_time'] / stats['matches_played_all_time'] * 100.0
 
     return stats
 
