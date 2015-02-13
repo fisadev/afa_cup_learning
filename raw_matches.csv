@@ -6179,7 +6179,7 @@ id,year,team1,score1,score2,team2
 6177,2006,quilmes,1,1,newell's old boys
 6178,2006,san lorenzo de almagro,3,2,velez sarsfield
 6179,2006,rosario central,1,1,olimpo
-6180,2006,river plate,2,0,tiro federal
+6180,2006,river plate,2,0,tiro federal argentino
 6181,2006,gimnasia y esgrima (lp),1,0,colon
 6182,2006,boca juniors,4,1,gimnasia y esgrima (j)
 6183,2006,lanus,2,4,independiente
@@ -6188,7 +6188,7 @@ id,year,team1,score1,score2,team2
 6186,2006,velez sarsfield,0,1,argentinos juniors
 6187,2006,arsenal,1,1,gimnasia y esgrima (lp)
 6188,2006,colon,0,2,racing club
-6189,2006,newell's old boys,2,1,tiro federal
+6189,2006,newell's old boys,2,1,tiro federal argentino
 6190,2006,banfield,0,0,quilmes
 6191,2006,boca juniors,2,2,rosario central
 6192,2006,gimnasia y esgrima (j),0,0,river plate
@@ -6196,7 +6196,7 @@ id,year,team1,score1,score2,team2
 6194,2006,estudiantes,0,1,san lorenzo de almagro
 6195,2006,olimpo,1,1,lanus
 6196,2006,argentinos juniors,2,1,estudiantes
-6197,2006,tiro federal,0,1,banfield
+6197,2006,tiro federal argentino,0,1,banfield
 6198,2006,gimnasia y esgrima (lp),0,6,velez sarsfield
 6199,2006,racing club,3,1,arsenal
 6200,2006,quilmes,4,2,colon
@@ -6210,7 +6210,7 @@ id,year,team1,score1,score2,team2
 6208,2006,olimpo,1,1,san lorenzo de almagro
 6209,2006,independiente,1,1,argentinos juniors
 6210,2006,estudiantes,1,0,gimnasia y esgrima (lp)
-6211,2006,colon,4,3,tiro federal
+6211,2006,colon,4,3,tiro federal argentino
 6212,2006,banfield,4,1,river plate
 6213,2006,velez sarsfield,1,0,racing club
 6214,2006,arsenal,1,3,quilmes
@@ -6224,10 +6224,10 @@ id,year,team1,score1,score2,team2
 6222,2006,lanus,2,1,gimnasia y esgrima (j)
 6223,2006,gimnasia y esgrima (lp),3,0,independiente
 6224,2006,instituto,0,0,rosario central
-6225,2006,tiro federal,0,2,arsenal
+6225,2006,tiro federal argentino,0,2,arsenal
 6226,2006,estudiantes,2,0,quilmes
 6227,2006,rosario central,0,4,san lorenzo de almagro
-6228,2006,velez sarsfield,1,0,tiro federal
+6228,2006,velez sarsfield,1,0,tiro federal argentino
 6229,2006,lanus,1,1,instituto
 6230,2006,independiente,4,0,racing club
 6231,2006,colon,1,1,newell's old boys
@@ -6237,7 +6237,7 @@ id,year,team1,score1,score2,team2
 6235,2006,olimpo,2,1,gimnasia y esgrima (lp)
 6236,2006,quilmes,1,1,independiente
 6237,2006,san lorenzo de almagro,1,1,lanus
-6238,2006,tiro federal,0,1,estudiantes
+6238,2006,tiro federal argentino,0,1,estudiantes
 6239,2006,argentinos juniors,1,0,rosario central
 6240,2006,gimnasia y esgrima (lp),0,2,boca juniors
 6241,2006,racing club,2,2,olimpo
@@ -6246,7 +6246,7 @@ id,year,team1,score1,score2,team2
 6244,2006,banfield,2,0,colon
 6245,2006,instituto,0,0,gimnasia y esgrima (j)
 6246,2006,velez sarsfield,1,0,newell's old boys
-6247,2006,independiente,1,0,tiro federal
+6247,2006,independiente,1,0,tiro federal argentino
 6248,2006,rosario central,0,3,gimnasia y esgrima (lp)
 6249,2006,estudiantes,1,0,river plate
 6250,2006,olimpo,1,0,quilmes
@@ -6258,7 +6258,7 @@ id,year,team1,score1,score2,team2
 6256,2006,newell's old boys,3,2,estudiantes
 6257,2006,argentinos juniors,1,0,instituto
 6258,2006,gimnasia y esgrima (lp),1,0,lanus
-6259,2006,tiro federal,1,1,olimpo
+6259,2006,tiro federal argentino,1,1,olimpo
 6260,2006,banfield,0,0,velez sarsfield
 6261,2006,colon,0,0,arsenal
 6262,2006,san lorenzo de almagro,1,1,gimnasia y esgrima (j)
@@ -6270,7 +6270,7 @@ id,year,team1,score1,score2,team2
 6268,2006,lanus,1,0,racing club
 6269,2006,independiente,2,0,newell's old boys
 6270,2006,olimpo,2,1,river plate
-6271,2006,boca juniors,2,1,tiro federal
+6271,2006,boca juniors,2,1,tiro federal argentino
 6272,2006,rosario central,2,1,quilmes
 6273,2006,san lorenzo de almagro,1,3,argentinos juniors
 6274,2006,gimnasia y esgrima (j),1,1,arsenal
@@ -6284,11 +6284,11 @@ id,year,team1,score1,score2,team2
 6282,2006,banfield,2,2,independiente
 6283,2006,colon,2,1,estudiantes
 6284,2006,arsenal,0,1,velez sarsfield
-6285,2006,tiro federal,4,0,rosario central
+6285,2006,tiro federal argentino,4,0,rosario central
 6286,2006,estudiantes,3,1,arsenal
 6287,2006,independiente,1,1,colon
 6288,2006,olimpo,2,2,banfield
-6289,2006,lanus,0,2,tiro federal
+6289,2006,lanus,0,2,tiro federal argentino
 6290,2006,argentinos juniors,0,1,gimnasia y esgrima (lp)
 6291,2006,boca juniors,2,1,newell's old boys
 6292,2006,gimnasia y esgrima (j),1,2,velez sarsfield
@@ -6303,7 +6303,7 @@ id,year,team1,score1,score2,team2
 6301,2006,arsenal,2,4,independiente
 6302,2006,racing club,3,0,argentinos juniors
 6303,2006,quilmes,2,0,san lorenzo de almagro
-6304,2006,tiro federal,2,1,instituto
+6304,2006,tiro federal argentino,2,1,instituto
 6305,2006,river plate,4,1,lanus
 6306,2006,rosario central,0,0,banfield
 6307,2006,argentinos juniors,1,2,quilmes
@@ -6314,7 +6314,7 @@ id,year,team1,score1,score2,team2
 6312,2006,boca juniors,0,1,colon
 6313,2006,lanus,1,1,newell's old boys
 6314,2006,instituto,1,4,river plate
-6315,2006,san lorenzo de almagro,5,3,tiro federal
+6315,2006,san lorenzo de almagro,5,3,tiro federal argentino
 6316,2006,racing club,3,3,gimnasia y esgrima (j)
 6317,2006,quilmes,0,1,gimnasia y esgrima (lp)
 6318,2006,estudiantes,1,1,independiente
@@ -6322,13 +6322,13 @@ id,year,team1,score1,score2,team2
 6320,2006,banfield,1,1,lanus
 6321,2006,arsenal,4,1,boca juniors
 6322,2006,velez sarsfield,2,0,olimpo
-6323,2006,tiro federal,1,4,argentinos juniors
+6323,2006,tiro federal argentino,1,4,argentinos juniors
 6324,2006,river plate,5,1,san lorenzo de almagro
 6325,2006,colon,2,0,rosario central
 6326,2006,gimnasia y esgrima (j),1,1,independiente
 6327,2006,instituto,0,0,banfield
 6328,2006,argentinos juniors,1,0,river plate
-6329,2006,gimnasia y esgrima (lp),1,1,tiro federal
+6329,2006,gimnasia y esgrima (lp),1,1,tiro federal argentino
 6330,2006,racing club,4,1,quilmes
 6331,2006,olimpo,3,0,estudiantes
 6332,2006,boca juniors,2,0,velez sarsfield
@@ -6336,7 +6336,7 @@ id,year,team1,score1,score2,team2
 6334,2006,lanus,3,1,colon
 6335,2006,san lorenzo de almagro,4,2,newell's old boys
 6336,2006,banfield,5,0,san lorenzo de almagro
-6337,2006,tiro federal,1,2,racing club
+6337,2006,tiro federal argentino,1,2,racing club
 6338,2006,velez sarsfield,0,2,rosario central
 6339,2006,arsenal,1,2,lanus
 6340,2006,colon,1,1,instituto
@@ -6346,7 +6346,7 @@ id,year,team1,score1,score2,team2
 6344,2006,quilmes,2,2,gimnasia y esgrima (j)
 6345,2006,newell's old boys,3,0,argentinos juniors
 6346,2006,argentinos juniors,1,1,banfield
-6347,2006,quilmes,1,2,tiro federal
+6347,2006,quilmes,1,2,tiro federal argentino
 6348,2006,san lorenzo de almagro,1,4,colon
 6349,2006,rosario central,1,1,estudiantes
 6350,2006,gimnasia y esgrima (j),2,1,olimpo
@@ -6358,7 +6358,7 @@ id,year,team1,score1,score2,team2
 6356,2006,velez sarsfield,2,2,instituto
 6357,2006,arsenal,1,2,san lorenzo de almagro
 6358,2006,estudiantes,2,2,lanus
-6359,2006,tiro federal,0,0,gimnasia y esgrima (j)
+6359,2006,tiro federal argentino,0,0,gimnasia y esgrima (j)
 6360,2006,river plate,1,1,quilmes
 6361,2006,colon,2,0,argentinos juniors
 6362,2006,independiente,2,2,rosario central
@@ -6372,7 +6372,7 @@ id,year,team1,score1,score2,team2
 6370,2006,banfield,3,0,racing club
 6371,2006,newell's old boys,2,0,quilmes
 6372,2006,olimpo,0,0,rosario central
-6373,2006,tiro federal,0,5,river plate
+6373,2006,tiro federal argentino,0,5,river plate
 6374,2006,gimnasia y esgrima (j),2,1,boca juniors
 6375,2006,independiente,0,0,lanus
 6376,2006,argentinos juniors,0,0,velez sarsfield
@@ -6382,14 +6382,14 @@ id,year,team1,score1,score2,team2
 6380,2006,instituto,0,5,independiente
 6381,2006,lanus,2,1,olimpo
 6382,2006,rosario central,1,2,boca juniors
-6383,2006,tiro federal,2,1,newell's old boys
+6383,2006,tiro federal argentino,2,1,newell's old boys
 6384,2006,river plate,2,0,gimnasia y esgrima (j)
 6385,2006,gimnasia y esgrima (lp),0,0,arsenal
 6386,2006,estudiantes,2,2,argentinos juniors
 6387,2006,velez sarsfield,2,1,gimnasia y esgrima (lp)
 6388,2006,arsenal,1,0,racing club
 6389,2006,colon,1,0,quilmes
-6390,2006,banfield,2,1,tiro federal
+6390,2006,banfield,2,1,tiro federal argentino
 6391,2006,newell's old boys,3,1,river plate
 6392,2006,gimnasia y esgrima (j),1,0,rosario central
 6393,2006,boca juniors,3,0,lanus
@@ -6398,7 +6398,7 @@ id,year,team1,score1,score2,team2
 6396,2006,argentinos juniors,2,1,independiente
 6397,2006,san lorenzo de almagro,2,0,olimpo
 6398,2006,racing club,0,2,velez sarsfield
-6399,2006,tiro federal,0,1,colon
+6399,2006,tiro federal argentino,0,1,colon
 6400,2006,gimnasia y esgrima (lp),1,1,estudiantes
 6401,2006,newell's old boys,3,1,gimnasia y esgrima (j)
 6402,2006,instituto,1,1,boca juniors
@@ -6410,7 +6410,7 @@ id,year,team1,score1,score2,team2
 6408,2006,independiente,0,1,gimnasia y esgrima (lp)
 6409,2006,velez sarsfield,2,0,quilmes
 6410,2006,olimpo,4,1,argentinos juniors
-6411,2006,arsenal,3,0,tiro federal
+6411,2006,arsenal,3,0,tiro federal argentino
 6412,2006,colon,2,2,river plate
 6413,2006,gimnasia y esgrima (j),1,0,lanus
 6414,2006,rosario central,1,0,instituto
@@ -6421,7 +6421,7 @@ id,year,team1,score1,score2,team2
 6419,2006,gimnasia y esgrima (lp),3,1,olimpo
 6420,2006,banfield,2,1,gimnasia y esgrima (j)
 6421,2006,river plate,3,1,arsenal
-6422,2006,tiro federal,3,3,velez sarsfield
+6422,2006,tiro federal argentino,3,3,velez sarsfield
 6423,2006,argentinos juniors,1,2,boca juniors
 6424,2006,san lorenzo de almagro,0,0,rosario central
 6425,2006,instituto,2,1,lanus
@@ -6430,12 +6430,12 @@ id,year,team1,score1,score2,team2
 6428,2006,independiente,0,0,quilmes
 6429,2006,rosario central,1,1,argentinos juniors
 6430,2006,boca juniors,3,0,gimnasia y esgrima (lp)
-6431,2006,estudiantes,0,3,tiro federal
+6431,2006,estudiantes,0,3,tiro federal argentino
 6432,2006,velez sarsfield,1,1,river plate
 6433,2006,arsenal,0,1,newell's old boys
 6434,2006,gimnasia y esgrima (j),2,0,instituto
 6435,2006,lanus,2,0,san lorenzo de almagro
-6436,2006,tiro federal,0,2,independiente
+6436,2006,tiro federal argentino,0,2,independiente
 6437,2006,san lorenzo de almagro,1,1,instituto
 6438,2006,newell's old boys,1,0,velez sarsfield
 6439,2006,river plate,3,1,estudiantes
@@ -6452,7 +6452,7 @@ id,year,team1,score1,score2,team2
 6450,2006,arsenal,1,1,colon
 6451,2006,instituto,0,1,argentinos juniors
 6452,2006,boca juniors,3,1,quilmes
-6453,2006,olimpo,3,0,tiro federal
+6453,2006,olimpo,3,0,tiro federal argentino
 6454,2006,independiente,1,1,river plate
 6455,2006,estudiantes,2,1,newell's old boys
 6456,2006,argentinos juniors,0,1,san lorenzo de almagro
@@ -6460,7 +6460,7 @@ id,year,team1,score1,score2,team2
 6458,2006,newell's old boys,2,0,independiente
 6459,2006,river plate,3,0,olimpo
 6460,2006,arsenal,2,5,gimnasia y esgrima (j)
-6461,2006,tiro federal,0,0,boca juniors
+6461,2006,tiro federal argentino,0,0,boca juniors
 6462,2006,quilmes,1,1,rosario central
 6463,2006,racing club,0,0,lanus
 6464,2006,gimnasia y esgrima (lp),2,0,instituto
@@ -6469,7 +6469,7 @@ id,year,team1,score1,score2,team2
 6467,2006,gimnasia y esgrima (j),3,1,argentinos juniors
 6468,2006,lanus,2,0,quilmes
 6469,2006,velez sarsfield,0,0,arsenal
-6470,2006,rosario central,3,0,tiro federal
+6470,2006,rosario central,3,0,tiro federal argentino
 6471,2006,boca juniors,1,1,river plate
 6472,2006,olimpo,0,2,newell's old boys
 6473,2006,estudiantes,1,2,colon
@@ -6483,13 +6483,13 @@ id,year,team1,score1,score2,team2
 6481,2006,banfield,0,1,olimpo
 6482,2006,newell's old boys,1,1,boca juniors
 6483,2006,river plate,2,0,rosario central
-6484,2006,tiro federal,0,1,lanus
+6484,2006,tiro federal argentino,0,1,lanus
 6485,2006,estudiantes,1,1,velez sarsfield
 6486,2006,san lorenzo de almagro,0,0,quilmes
 6487,2006,independiente,0,2,arsenal
 6488,2006,gimnasia y esgrima (j),0,0,gimnasia y esgrima (lp)
 6489,2006,argentinos juniors,2,0,racing club
-6490,2006,instituto,3,4,tiro federal
+6490,2006,instituto,3,4,tiro federal argentino
 6491,2006,lanus,4,1,river plate
 6492,2006,rosario central,0,0,newell's old boys
 6493,2006,boca juniors,2,1,banfield
@@ -6497,7 +6497,7 @@ id,year,team1,score1,score2,team2
 6495,2006,newell's old boys,1,2,lanus
 6496,2006,velez sarsfield,0,2,independiente
 6497,2006,arsenal,0,0,olimpo
-6498,2006,tiro federal,0,1,san lorenzo de almagro
+6498,2006,tiro federal argentino,0,1,san lorenzo de almagro
 6499,2006,estudiantes,0,4,gimnasia y esgrima (j)
 6500,2006,racing club,0,1,gimnasia y esgrima (lp)
 6501,2006,quilmes,2,1,argentinos juniors
@@ -6506,7 +6506,7 @@ id,year,team1,score1,score2,team2
 6504,2006,river plate,3,1,instituto
 6505,2006,instituto,1,2,newell's old boys
 6506,2006,olimpo,2,2,velez sarsfield
-6507,2006,argentinos juniors,4,0,tiro federal
+6507,2006,argentinos juniors,4,0,tiro federal argentino
 6508,2006,lanus,0,2,banfield
 6509,2006,independiente,0,3,estudiantes
 6510,2006,gimnasia y esgrima (j),0,1,racing club
@@ -6519,13 +6519,13 @@ id,year,team1,score1,score2,team2
 6517,2006,colon,1,3,lanus
 6518,2006,newell's old boys,1,1,san lorenzo de almagro
 6519,2006,river plate,2,2,argentinos juniors
-6520,2006,tiro federal,0,2,gimnasia y esgrima (lp)
+6520,2006,tiro federal argentino,0,2,gimnasia y esgrima (lp)
 6521,2006,quilmes,0,3,racing club
 6522,2006,arsenal,1,1,rosario central
 6523,2006,banfield,2,0,instituto
 6524,2006,san lorenzo de almagro,1,0,banfield
 6525,2006,olimpo,0,2,independiente
-6526,2006,racing club,2,0,tiro federal
+6526,2006,racing club,2,0,tiro federal argentino
 6527,2006,rosario central,1,0,velez sarsfield
 6528,2006,boca juniors,4,0,estudiantes
 6529,2006,gimnasia y esgrima (j),2,1,quilmes
@@ -6538,7 +6538,7 @@ id,year,team1,score1,score2,team2
 6536,2006,velez sarsfield,0,0,lanus
 6537,2006,arsenal,1,1,instituto
 6538,2006,river plate,0,2,racing club
-6539,2006,tiro federal,1,1,quilmes
+6539,2006,tiro federal argentino,1,1,quilmes
 6540,2006,olimpo,1,0,gimnasia y esgrima (j)
 6541,2006,independiente,0,2,boca juniors
 6542,2006,estudiantes,1,1,rosario central
@@ -6550,7 +6550,7 @@ id,year,team1,score1,score2,team2
 6548,2006,lanus,1,1,estudiantes
 6549,2006,rosario central,2,0,independiente
 6550,2006,boca juniors,2,0,olimpo
-6551,2006,gimnasia y esgrima (j),2,1,tiro federal
+6551,2006,gimnasia y esgrima (j),2,1,tiro federal argentino
 6552,2006,argentinos juniors,1,0,colon
 6553,2006,huracan (ba),1,1,argentinos juniors
 6554,2006,belgrano,2,1,olimpo
@@ -8487,7 +8487,7 @@ id,year,team1,score1,score2,team2
 8485,2011,san martin (sj),0,0,san martin (t)
 8486,2011,defensa y justicia,0,1,atl rafaela
 8487,2011,gimnasia y esgrima,0,0,ferro carril oeste
-8488,2011,tiro federal,1,1,chacarita juniors
+8488,2011,tiro federal argentino,1,1,chacarita juniors
 8489,2011,almirante brown,1,0,rosario central
 8490,2011,instituto,0,0,patronato
 8491,2011,atl rafaela,1,1,almirante brown
@@ -8497,7 +8497,7 @@ id,year,team1,score1,score2,team2
 8495,2011,rosario central,1,1,san martin (sj)
 8496,2011,san martin (t),1,0,belgrano
 8497,2011,boca unidos,2,0,atl tucuman
-8498,2011,indep rivadavia,2,0,tiro federal
+8498,2011,indep rivadavia,2,0,tiro federal argentino
 8499,2011,chacarita juniors,1,0,union (santa fe)
 8500,2011,almirante brown,1,0,cai
 8501,2011,aldosivi,1,0,dvo merlo
@@ -8507,10 +8507,10 @@ id,year,team1,score1,score2,team2
 8505,2011,patronato,0,0,san martin (t)
 8506,2011,defensa y justicia,1,1,ferro carril oeste
 8507,2011,atl tucuman,1,2,instituto
-8508,2011,tiro federal,1,2,boca unidos
+8508,2011,tiro federal argentino,1,2,boca unidos
 8509,2011,gimnasia y esgrima,0,0,chacarita juniors
 8510,2011,atl rafaela,2,1,belgrano
-8511,2011,instituto,1,1,tiro federal
+8511,2011,instituto,1,1,tiro federal argentino
 8512,2011,dvo merlo,1,0,defensa y justicia
 8513,2011,ferro carril oeste,0,0,almirante brown
 8514,2011,cai,0,1,san martin (sj)
@@ -8520,7 +8520,7 @@ id,year,team1,score1,score2,team2
 8518,2011,indep rivadavia,0,1,gimnasia y esgrima
 8519,2011,chacarita juniors,1,1,aldosivi
 8520,2011,almirante brown,0,1,dvo merlo
-8521,2011,tiro federal,2,4,atl tucuman
+8521,2011,tiro federal argentino,2,4,atl tucuman
 8522,2011,belgrano,0,0,cai
 8523,2011,patronato,2,2,rosario central
 8524,2011,union (santa fe),1,0,instituto
@@ -8531,7 +8531,7 @@ id,year,team1,score1,score2,team2
 8529,2011,san martin (sj),3,1,ferro carril oeste
 8530,2011,chacarita juniors,0,1,almirante brown
 8531,2011,atl rafaela,0,1,rosario central
-8532,2011,tiro federal,1,0,patronato
+8532,2011,tiro federal argentino,1,0,patronato
 8533,2011,instituto,2,0,gimnasia y esgrima
 8534,2011,dvo merlo,0,3,san martin (sj)
 8535,2011,ferro carril oeste,1,1,belgrano
@@ -8543,7 +8543,7 @@ id,year,team1,score1,score2,team2
 8541,2011,patronato,0,1,atl rafaela
 8542,2011,belgrano,1,0,dvo merlo
 8543,2011,aldosivi,0,0,instituto
-8544,2011,union (santa fe),3,0,tiro federal
+8544,2011,union (santa fe),3,0,tiro federal argentino
 8545,2011,almirante brown,2,2,indep rivadavia
 8546,2011,defensa y justicia,1,0,boca unidos
 8547,2011,gimnasia y esgrima,2,1,atl tucuman
@@ -8552,7 +8552,7 @@ id,year,team1,score1,score2,team2
 8550,2011,chacarita juniors,1,0,belgrano
 8551,2011,union (santa fe),0,2,patronato
 8552,2011,instituto,2,0,defensa y justicia
-8553,2011,tiro federal,1,0,gimnasia y esgrima
+8553,2011,tiro federal argentino,1,0,gimnasia y esgrima
 8554,2011,dvo merlo,1,1,san martin (t)
 8555,2011,ferro carril oeste,1,0,rosario central
 8556,2011,cai,0,0,atl rafaela
@@ -8564,13 +8564,13 @@ id,year,team1,score1,score2,team2
 8562,2011,rosario central,2,1,dvo merlo
 8563,2011,belgrano,3,0,indep rivadavia
 8564,2011,defensa y justicia,1,1,atl tucuman
-8565,2011,aldosivi,1,1,tiro federal
+8565,2011,aldosivi,1,1,tiro federal argentino
 8566,2011,patronato,1,0,cai
 8567,2011,gimnasia y esgrima,0,2,union (santa fe)
 8568,2011,san martin (sj),2,1,boca unidos
 8569,2011,almirante brown,1,1,instituto
 8570,2011,chacarita juniors,0,2,rosario central
-8571,2011,tiro federal,0,0,defensa y justicia
+8571,2011,tiro federal argentino,0,0,defensa y justicia
 8572,2011,union (santa fe),0,3,aldosivi
 8573,2011,dvo merlo,1,0,atl rafaela
 8574,2011,ferro carril oeste,2,2,cai
@@ -8587,7 +8587,7 @@ id,year,team1,score1,score2,team2
 8585,2011,san martin (sj),0,1,atl tucuman
 8586,2011,defensa y justicia,0,1,union (santa fe)
 8587,2011,rosario central,1,1,indep rivadavia
-8588,2011,almirante brown,2,0,tiro federal
+8588,2011,almirante brown,2,0,tiro federal argentino
 8589,2011,aldosivi,0,0,gimnasia y esgrima
 8590,2011,chacarita juniors,0,1,cai
 8591,2011,aldosivi,4,1,patronato
@@ -8596,21 +8596,21 @@ id,year,team1,score1,score2,team2
 8594,2011,boca unidos,2,0,rosario central
 8595,2011,dvo merlo,2,1,ferro carril oeste
 8596,2011,gimnasia y esgrima,0,0,defensa y justicia
-8597,2011,tiro federal,1,1,san martin (sj)
+8597,2011,tiro federal argentino,1,1,san martin (sj)
 8598,2011,indep rivadavia,3,1,atl rafaela
 8599,2011,union (santa fe),1,0,almirante brown
 8600,2011,ferro carril oeste,3,0,chacarita juniors
 8601,2011,atl rafaela,3,0,boca unidos
 8602,2011,patronato,0,1,dvo merlo
 8603,2011,san martin (t),1,1,atl tucuman
-8604,2011,belgrano,2,3,tiro federal
+8604,2011,belgrano,2,3,tiro federal argentino
 8605,2011,defensa y justicia,0,0,aldosivi
 8606,2011,san martin (sj),3,1,union (santa fe)
 8607,2011,almirante brown,0,0,gimnasia y esgrima
 8608,2011,rosario central,1,0,instituto
 8609,2011,cai,3,3,indep rivadavia
 8610,2011,chacarita juniors,0,0,dvo merlo
-8611,2011,tiro federal,0,2,san martin (t)
+8611,2011,tiro federal argentino,0,2,san martin (t)
 8612,2011,defensa y justicia,1,1,patronato
 8613,2011,aldosivi,1,0,almirante brown
 8614,2011,union (santa fe),0,3,belgrano
@@ -8623,7 +8623,7 @@ id,year,team1,score1,score2,team2
 8621,2011,dvo merlo,3,2,indep rivadavia
 8622,2011,ferro carril oeste,0,2,boca unidos
 8623,2011,cai,0,1,instituto
-8624,2011,rosario central,1,0,tiro federal
+8624,2011,rosario central,1,0,tiro federal argentino
 8625,2011,belgrano,1,1,gimnasia y esgrima
 8626,2011,patronato,3,1,chacarita juniors
 8627,2011,san martin (t),1,1,union (santa fe)
@@ -8632,7 +8632,7 @@ id,year,team1,score1,score2,team2
 8630,2011,instituto,1,1,ferro carril oeste
 8631,2011,gimnasia y esgrima,1,1,san martin (t)
 8632,2011,union (santa fe),1,1,rosario central
-8633,2011,tiro federal,2,4,atl rafaela
+8633,2011,tiro federal argentino,2,4,atl rafaela
 8634,2011,defensa y justicia,2,0,san martin (sj)
 8635,2011,aldosivi,2,1,belgrano
 8636,2011,atl tucuman,4,1,cai
@@ -8640,7 +8640,7 @@ id,year,team1,score1,score2,team2
 8638,2011,indep rivadavia,0,2,chacarita juniors
 8639,2011,almirante brown,1,2,patronato
 8640,2011,atl rafaela,1,2,union (santa fe)
-8641,2011,cai,1,2,tiro federal
+8641,2011,cai,1,2,tiro federal argentino
 8642,2011,rosario central,0,1,gimnasia y esgrima
 8643,2011,belgrano,2,0,defensa y justicia
 8644,2011,patronato,2,2,indep rivadavia
@@ -8654,7 +8654,7 @@ id,year,team1,score1,score2,team2
 8652,2011,almirante brown,1,2,belgrano
 8653,2011,defensa y justicia,0,0,san martin (t)
 8654,2011,aldosivi,0,5,rosario central
-8655,2011,tiro federal,4,1,ferro carril oeste
+8655,2011,tiro federal argentino,4,1,ferro carril oeste
 8656,2011,instituto,0,0,chacarita juniors
 8657,2011,boca unidos,1,0,indep rivadavia
 8658,2011,san martin (sj),4,0,patronato
@@ -8663,7 +8663,7 @@ id,year,team1,score1,score2,team2
 8661,2011,atl rafaela,2,0,aldosivi
 8662,2011,belgrano,1,1,san martin (sj)
 8663,2011,chacarita juniors,1,0,atl tucuman
-8664,2011,dvo merlo,0,0,tiro federal
+8664,2011,dvo merlo,0,0,tiro federal argentino
 8665,2011,rosario central,0,0,defensa y justicia
 8666,2011,patronato,3,1,boca unidos
 8667,2011,cai,1,0,gimnasia y esgrima
@@ -8676,12 +8676,12 @@ id,year,team1,score1,score2,team2
 8674,2011,belgrano,2,1,patronato
 8675,2011,cai,2,2,aldosivi
 8676,2011,dvo merlo,1,1,union (santa fe)
-8677,2011,chacarita juniors,0,0,tiro federal
+8677,2011,chacarita juniors,0,0,tiro federal argentino
 8678,2011,boca unidos,1,3,instituto
 8679,2011,san martin (t),2,1,san martin (sj)
 8680,2011,belgrano,4,0,san martin (t)
 8681,2011,gimnasia y esgrima,0,0,dvo merlo
-8682,2011,tiro federal,1,2,indep rivadavia
+8682,2011,tiro federal argentino,1,2,indep rivadavia
 8683,2011,aldosivi,5,1,ferro carril oeste
 8684,2011,defensa y justicia,2,1,cai
 8685,2011,almirante brown,0,1,atl rafaela
@@ -8696,7 +8696,7 @@ id,year,team1,score1,score2,team2
 8694,2011,dvo merlo,0,2,aldosivi
 8695,2011,chacarita juniors,0,0,gimnasia y esgrima
 8696,2011,indep rivadavia,1,2,union (santa fe)
-8697,2011,boca unidos,1,0,tiro federal
+8697,2011,boca unidos,1,0,tiro federal argentino
 8698,2011,san martin (t),1,2,patronato
 8699,2011,instituto,0,1,atl tucuman
 8700,2011,almirante brown,1,1,ferro carril oeste
@@ -8706,7 +8706,7 @@ id,year,team1,score1,score2,team2
 8704,2011,belgrano,0,0,atl rafaela
 8705,2011,san martin (sj),2,2,cai
 8706,2011,patronato,2,1,atl tucuman
-8707,2011,tiro federal,0,0,instituto
+8707,2011,tiro federal argentino,0,0,instituto
 8708,2011,union (santa fe),3,0,boca unidos
 8709,2011,san martin (t),2,1,rosario central
 8710,2011,indep rivadavia,2,3,aldosivi
@@ -8717,20 +8717,20 @@ id,year,team1,score1,score2,team2
 8715,2011,chacarita juniors,1,0,defensa y justicia
 8716,2011,rosario central,1,0,patronato
 8717,2011,boca unidos,0,0,gimnasia y esgrima
-8718,2011,atl tucuman,0,0,tiro federal
+8718,2011,atl tucuman,0,0,tiro federal argentino
 8719,2011,instituto,0,1,union (santa fe)
 8720,2011,almirante brown,0,1,chacarita juniors
 8721,2011,rosario central,0,1,atl rafaela
 8722,2011,belgrano,1,1,ferro carril oeste
 8723,2011,union (santa fe),1,0,atl tucuman
 8724,2011,aldosivi,2,0,boca unidos
-8725,2011,patronato,4,1,tiro federal
+8725,2011,patronato,4,1,tiro federal argentino
 8726,2011,gimnasia y esgrima,3,3,instituto
 8727,2011,defensa y justicia,2,2,indep rivadavia
 8728,2011,san martin (sj),0,0,dvo merlo
 8729,2011,san martin (t),1,2,cai
 8730,2011,chacarita juniors,0,1,san martin (sj)
-8731,2011,tiro federal,0,2,union (santa fe)
+8731,2011,tiro federal argentino,0,2,union (santa fe)
 8732,2011,atl rafaela,1,0,patronato
 8733,2011,cai,3,1,rosario central
 8734,2011,dvo merlo,0,2,belgrano
@@ -8744,7 +8744,7 @@ id,year,team1,score1,score2,team2
 8742,2011,defensa y justicia,2,0,instituto
 8743,2011,almirante brown,3,1,boca unidos
 8744,2011,atl rafaela,5,1,cai
-8745,2011,gimnasia y esgrima,2,1,tiro federal
+8745,2011,gimnasia y esgrima,2,1,tiro federal argentino
 8746,2011,san martin (sj),1,0,indep rivadavia
 8747,2011,san martin (t),2,0,dvo merlo
 8748,2011,rosario central,3,0,ferro carril oeste
@@ -8756,12 +8756,12 @@ id,year,team1,score1,score2,team2
 8754,2011,chacarita juniors,1,1,san martin (t)
 8755,2011,indep rivadavia,0,2,belgrano
 8756,2011,boca unidos,1,1,san martin (sj)
-8757,2011,tiro federal,3,1,aldosivi
+8757,2011,tiro federal argentino,3,1,aldosivi
 8758,2011,instituto,1,1,almirante brown
 8759,2011,union (santa fe),1,2,gimnasia y esgrima
 8760,2011,atl rafaela,2,0,dvo merlo
 8761,2011,patronato,1,0,gimnasia y esgrima
-8762,2011,defensa y justicia,5,1,tiro federal
+8762,2011,defensa y justicia,5,1,tiro federal argentino
 8763,2011,almirante brown,0,0,atl tucuman
 8764,2011,san martin (sj),2,0,instituto
 8765,2011,belgrano,2,1,boca unidos
@@ -8769,7 +8769,7 @@ id,year,team1,score1,score2,team2
 8767,2011,san martin (t),1,2,indep rivadavia
 8768,2011,rosario central,2,1,chacarita juniors
 8769,2011,aldosivi,0,1,union (santa fe)
-8770,2011,tiro federal,1,1,almirante brown
+8770,2011,tiro federal argentino,1,1,almirante brown
 8771,2011,chacarita juniors,1,2,atl rafaela
 8772,2011,instituto,0,0,belgrano
 8773,2011,ferro carril oeste,0,2,patronato
@@ -8783,7 +8783,7 @@ id,year,team1,score1,score2,team2
 8781,2011,almirante brown,2,0,union (santa fe)
 8782,2011,patronato,3,0,aldosivi
 8783,2011,defensa y justicia,1,3,gimnasia y esgrima
-8784,2011,san martin (sj),0,2,tiro federal
+8784,2011,san martin (sj),0,2,tiro federal argentino
 8785,2011,san martin (t),2,3,instituto
 8786,2011,atl rafaela,2,2,indep rivadavia
 8787,2011,cai,1,3,chacarita juniors
@@ -8793,7 +8793,7 @@ id,year,team1,score1,score2,team2
 8791,2011,dvo merlo,1,1,patronato
 8792,2011,indep rivadavia,0,0,cai
 8793,2011,instituto,3,3,rosario central
-8794,2011,tiro federal,0,2,belgrano
+8794,2011,tiro federal argentino,0,2,belgrano
 8795,2011,union (santa fe),1,2,san martin (sj)
 8796,2011,gimnasia y esgrima,2,1,almirante brown
 8797,2011,atl tucuman,1,0,san martin (t)
@@ -8801,7 +8801,7 @@ id,year,team1,score1,score2,team2
 8799,2011,boca unidos,0,1,atl rafaela
 8800,2011,belgrano,3,2,union (santa fe)
 8801,2011,patronato,0,2,defensa y justicia
-8802,2011,san martin (t),2,0,tiro federal
+8802,2011,san martin (t),2,0,tiro federal argentino
 8803,2011,almirante brown,1,0,aldosivi
 8804,2011,rosario central,2,0,atl tucuman
 8805,2011,atl rafaela,4,0,instituto
@@ -8818,7 +8818,7 @@ id,year,team1,score1,score2,team2
 8816,2011,boca unidos,3,2,ferro carril oeste
 8817,2011,gimnasia y esgrima,1,1,belgrano
 8818,2011,instituto,1,1,cai
-8819,2011,tiro federal,1,2,rosario central
+8819,2011,tiro federal argentino,1,2,rosario central
 8820,2011,patronato,0,1,almirante brown
 8821,2011,belgrano,1,0,aldosivi
 8822,2011,san martin (t),2,1,gimnasia y esgrima
@@ -8827,7 +8827,7 @@ id,year,team1,score1,score2,team2
 8825,2011,dvo merlo,2,2,boca unidos
 8826,2011,chacarita juniors,0,0,indep rivadavia
 8827,2011,rosario central,0,1,union (santa fe)
-8828,2011,atl rafaela,1,1,tiro federal
+8828,2011,atl rafaela,1,1,tiro federal argentino
 8829,2011,san martin (sj),1,0,defensa y justicia
 8830,2011,atl tucuman,0,0,ferro carril oeste
 8831,2011,indep rivadavia,3,0,patronato
@@ -8837,12 +8837,12 @@ id,year,team1,score1,score2,team2
 8835,2011,almirante brown,0,0,san martin (sj)
 8836,2011,gimnasia y esgrima,3,3,rosario central
 8837,2011,boca unidos,0,0,chacarita juniors
-8838,2011,tiro federal,1,1,cai
+8838,2011,tiro federal argentino,1,1,cai
 8839,2011,instituto,1,2,dvo merlo
 8840,2011,belgrano,1,2,almirante brown
 8841,2011,san martin (t),0,2,defensa y justicia
 8842,2011,atl rafaela,6,0,gimnasia y esgrima
-8843,2011,ferro carril oeste,1,3,tiro federal
+8843,2011,ferro carril oeste,1,3,tiro federal argentino
 8844,2011,dvo merlo,3,2,atl tucuman
 8845,2011,chacarita juniors,2,0,instituto
 8846,2011,indep rivadavia,3,1,boca unidos
@@ -8855,7 +8855,7 @@ id,year,team1,score1,score2,team2
 8853,2011,union (santa fe),1,0,ferro carril oeste
 8854,2011,san martin (sj),0,0,belgrano
 8855,2011,boca unidos,1,0,patronato
-8856,2011,tiro federal,1,1,dvo merlo
+8856,2011,tiro federal argentino,1,1,dvo merlo
 8857,2011,aldosivi,3,2,atl rafaela
 8858,2011,defensa y justicia,2,1,rosario central
 8859,2011,almirante brown,1,0,san martin (t)
@@ -10182,7 +10182,7 @@ id,year,team1,score1,score2,team2
 10180,2013,ben hur,2,1,atletico san jorge
 10181,2013,boca rio gallegos,2,0,newbery (comodoro rivadavia)
 10182,2013,club deportivo juventud unida,0,1,atletico parana
-10183,2013,club tiro federal,0,1,villa mitre
+10183,2013,tiro federal argentino,0,1,villa mitre
 10184,2013,colegiales (concordia),1,0,la emilia
 10185,2013,comision actividades infantiles,5,2,deportivo madryn
 10186,2013,deportivo general roca,0,2,sol de mayo
@@ -11868,7 +11868,7 @@ id,year,team1,score1,score2,team2
 11866,2015,club sportivo juan b del bono,4,1,club atletico colon junior
 11867,2015,cs cultural y deportivo belgrano,0,1,ac club deportivo cruz del sur
 11868,2015,club atletico trinidad,3,0,club atenas de pocito
-11869,2015,club bella vista soc civil,1,4,club tiro federal
+11869,2015,club bella vista soc civil,1,4,tiro federal argentino
 11870,2015,club villa mitre,1,2,club atletico liniers
 11871,2015,a de tiro y deportes rio grande,1,3,ca independiente de h yrigoyen
 11872,2015,asociacion atletica estudiantes,2,1,caa biblioteca y mutual sarmiento
