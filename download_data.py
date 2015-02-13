@@ -1,7 +1,7 @@
 # coding: utf-8
 """
 Script to download the raw data from http://www.rsssf.com/
-The data was processed mostly by interactive sessions in ipython. Almost every
+The data was processed mostly by interactive sessions in vim. Almost every
 file had it's own format, so there is no point in trying to automate it in a
 fully automatic script, but this downloading script may be useful for future
 dowloads.
