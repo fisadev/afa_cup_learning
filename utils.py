@@ -55,7 +55,7 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
 
 
 def get_team_stats(recent_years):
-    """Create a dataframe with useful stats for each team."""
+    """Create a dataframe with useful stats for each team+year combination."""
     matches = get_matches()
 
     teams = set(matches.team1.unique()).union(matches.team2.unique())
