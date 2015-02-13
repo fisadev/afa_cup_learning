@@ -92,6 +92,9 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
         min_year = matches.year.min()
         matches = matches[matches.year >= min_year + recent_years]
 
+    # stats unable to be calculated => set 0
+    matches.fillna(0)
+
     return matches
 
 
@@ -145,6 +148,9 @@ def get_team_stats(recent_years):
             stats.loc[team_year, 'years_played'] = len(team_matches.year.unique())
 
     stats['matches_won_percent'] = stats.matches_won / stats.matches_played * 100.0
+
+    # stats unable to be calculated => set 0
+    stats.fillna(0)
 
     return stats
 
