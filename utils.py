@@ -91,8 +91,8 @@ def get_team_stats(recent_years):
     stats = pd.DataFrame([(team_year_key(team, year), team, year)
                           for year in years
                           for team in teams],
-                         columns=('team-year', 'team', 'year'))
-    stats = stats.set_index('team-year')
+                         columns=('team_year', 'team', 'year'))
+    stats = stats.set_index('team_year')
 
     for year in years:
         if year == 'all_time':
