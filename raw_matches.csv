@@ -9349,7 +9349,7 @@ id,year,team1,score1,score2,team2
 9347,2012,racing club,3,1,patronato (parana)
 9348,2012,sarmiento (resistencia),2,1,arsenal
 9349,2012,atletico policial (catamarca),0,4,barracas central
-9350,2012,aldosivi (mdp),0,2,argentinos juniors
+9350,2012,aldosivi,0,2,argentinos juniors
 9351,2012,quilmes,1,2,river plate
 9352,2012,tigre,1,0,argentinos juniors
 9353,2012,racing club,2,0,sarmiento (resistencia)
@@ -9360,7 +9360,7 @@ id,year,team1,score1,score2,team2
 9358,2012,deportivo merlo,2,1,tigre
 9359,2012,boca juniors,2,1,racing club
 9360,2012,defensa y justicia,1,2,rosario central
-9361,2012,atlanta,1,1,aldosivi (mdp)
+9361,2012,atlanta,1,1,aldosivi
 9362,2012,gmobrown (ptomadryn),1,1,deportivo merlo
 9363,2012,boca unidos (corrientes),3,1,quilmes
 9364,2012,gimnasia y esgrima (jujuy),0,0,ferro carril oeste
@@ -9374,7 +9374,7 @@ id,year,team1,score1,score2,team2
 9372,2012,deportivo merlo,1,0,boca unidos (corrientes)
 9373,2012,ferro carril oeste,2,0,gmobrown (ptomadryn)
 9374,2012,huracan,0,2,gimnasia y esgrima (jujuy)
-9375,2012,aldosivi (mdp),2,2,instituto (cordoba)
+9375,2012,aldosivi,2,2,instituto (cordoba)
 9376,2012,rosario central,1,0,gimnasia y esgrima lp
 9377,2012,atletico tucuman,0,0,atlanta
 9378,2012,patronato (parana),3,2,defensa y justicia
@@ -9384,7 +9384,7 @@ id,year,team1,score1,score2,team2
 9382,2012,atlanta,0,0,rosario central
 9383,2012,independiente rivadavia (mza),0,1,quilmes
 9384,2012,defensa y justicia,3,0,chacarita juniors
-9385,2012,gimnasia y esgrima (jujuy),1,0,aldosivi (mdp)
+9385,2012,gimnasia y esgrima (jujuy),1,0,aldosivi
 9386,2012,gmobrown (ptomadryn),1,3,huracan
 9387,2012,boca unidos (corrientes),1,1,ferro carril oeste
 9388,2012,almirante brown,1,0,deportivo merlo
@@ -9393,7 +9393,7 @@ id,year,team1,score1,score2,team2
 9391,2012,deportivo merlo,1,0,independiente rivadavia (mza)
 9392,2012,ferro carril oeste,1,0,almirante brown
 9393,2012,huracan,2,2,boca unidos (corrientes)
-9394,2012,aldosivi (mdp),5,0,gmobrown (ptomadryn)
+9394,2012,aldosivi,5,0,gmobrown (ptomadryn)
 9395,2012,sportivo desamparados (sj),1,2,defensa y justicia
 9396,2012,atletico tucuman,0,2,gimnasia y esgrima (jujuy)
 9397,2012,rosario central,2,1,instituto (cordoba)
@@ -9405,13 +9405,13 @@ id,year,team1,score1,score2,team2
 9403,2012,gimnasia y esgrima (jujuy),2,0,rosario central
 9404,2012,almirante brown,2,1,huracan
 9405,2012,gmobrown (ptomadryn),0,2,atletico tucuman
-9406,2012,boca unidos (corrientes),2,0,aldosivi (mdp)
+9406,2012,boca unidos (corrientes),2,0,aldosivi
 9407,2012,independiente rivadavia (mza),3,0,ferro carril oeste
 9408,2012,quilmes,0,0,deportivo merlo
 9409,2012,gimnasia y esgrima lp,1,1,sportivo desamparados (sj)
 9410,2012,deportivo merlo,0,0,river plate
 9411,2012,ferro carril oeste,1,0,quilmes
-9412,2012,aldosivi (mdp),0,0,almirante brown
+9412,2012,aldosivi,0,0,almirante brown
 9413,2012,chacarita juniors,0,1,instituto (cordoba)
 9414,2012,defensa y justicia,1,0,gimnasia y esgrima lp
 9415,2012,huracan,3,0,independiente rivadavia (mza)
@@ -9427,10 +9427,10 @@ id,year,team1,score1,score2,team2
 9425,2012,deportivo merlo,0,0,ferro carril oeste
 9426,2012,gmobrown (ptomadryn),2,0,patronato (parana)
 9427,2012,boca unidos (corrientes),0,1,rosario central
-9428,2012,independiente rivadavia (mza),2,2,aldosivi (mdp)
+9428,2012,independiente rivadavia (mza),2,2,aldosivi
 9429,2012,gimnasia y esgrima (jujuy),0,1,chacarita juniors
 9430,2012,defensa y justicia,1,3,instituto (cordoba)
-9431,2012,aldosivi (mdp),0,0,quilmes
+9431,2012,aldosivi,0,0,quilmes
 9432,2012,atletico tucuman,0,1,independiente rivadavia (mza)
 9433,2012,chacarita juniors,1,2,gmobrown (ptomadryn)
 9434,2012,sportivo desamparados (sj),2,2,gimnasia y esgrima (jujuy)
@@ -9447,9 +9447,9 @@ id,year,team1,score1,score2,team2
 9445,2012,boca unidos (corrientes),0,0,chacarita juniors
 9446,2012,almirante brown,1,0,patronato (parana)
 9447,2012,independiente rivadavia (mza),2,0,rosario central
-9448,2012,deportivo merlo,1,1,aldosivi (mdp)
+9448,2012,deportivo merlo,1,1,aldosivi
 9449,2012,ferro carril oeste,0,1,huracan
-9450,2012,aldosivi (mdp),0,1,ferro carril oeste
+9450,2012,aldosivi,0,1,ferro carril oeste
 9451,2012,defensa y justicia,2,2,gmobrown (ptomadryn)
 9452,2012,atlanta,0,4,instituto (cordoba)
 9453,2012,huracan,1,2,river plate
@@ -9467,11 +9467,11 @@ id,year,team1,score1,score2,team2
 9465,2012,gmobrown (ptomadryn),0,1,gimnasia y esgrima lp
 9466,2012,quilmes,1,1,patronato (parana)
 9467,2012,ferro carril oeste,1,0,atletico tucuman
-9468,2012,huracan,3,0,aldosivi (mdp)
+9468,2012,huracan,3,0,aldosivi
 9469,2012,boca unidos (corrientes),4,1,defensa y justicia
 9470,2012,rosario central,3,0,ferro carril oeste
 9471,2012,instituto (cordoba),1,0,gimnasia y esgrima (jujuy)
-9472,2012,river plate,1,2,aldosivi (mdp)
+9472,2012,river plate,1,2,aldosivi
 9473,2012,atletico tucuman,2,0,huracan
 9474,2012,sportivo desamparados (sj),3,0,independiente rivadavia (mza)
 9475,2012,defensa y justicia,2,0,almirante brown
@@ -9484,12 +9484,12 @@ id,year,team1,score1,score2,team2
 9482,2012,deportivo merlo,1,1,chacarita juniors
 9483,2012,ferro carril oeste,1,1,patronato (parana)
 9484,2012,huracan,0,1,rosario central
-9485,2012,aldosivi (mdp),0,0,atletico tucuman
+9485,2012,aldosivi,0,0,atletico tucuman
 9486,2012,gmobrown (ptomadryn),1,1,instituto (cordoba)
 9487,2012,almirante brown,0,1,gimnasia y esgrima lp
 9488,2012,independiente rivadavia (mza),2,2,defensa y justicia
 9489,2012,boca unidos (corrientes),1,0,atlanta
-9490,2012,rosario central,3,1,aldosivi (mdp)
+9490,2012,rosario central,3,1,aldosivi
 9491,2012,chacarita juniors,1,1,ferro carril oeste
 9492,2012,defensa y justicia,2,1,quilmes
 9493,2012,gimnasia y esgrima lp,0,0,independiente rivadavia (mza)
@@ -9504,7 +9504,7 @@ id,year,team1,score1,score2,team2
 9502,2012,independiente rivadavia (mza),0,0,atlanta
 9503,2012,deportivo merlo,1,2,defensa y justicia
 9504,2012,huracan,1,0,chacarita juniors
-9505,2012,aldosivi (mdp),1,0,patronato (parana)
+9505,2012,aldosivi,1,0,patronato (parana)
 9506,2012,atletico tucuman,2,1,rosario central
 9507,2012,boca unidos (corrientes),1,0,gimnasia y esgrima (jujuy)
 9508,2012,almirante brown,0,0,instituto (cordoba)
@@ -9514,7 +9514,7 @@ id,year,team1,score1,score2,team2
 9512,2012,river plate,1,1,rosario central
 9513,2012,patronato (parana),1,2,atletico tucuman
 9514,2012,sportivo desamparados (sj),0,1,huracan
-9515,2012,chacarita juniors,0,2,aldosivi (mdp)
+9515,2012,chacarita juniors,0,2,aldosivi
 9516,2012,gimnasia y esgrima (jujuy),1,2,almirante brown
 9517,2012,gmobrown (ptomadryn),2,1,boca unidos (corrientes)
 9518,2012,atlanta,0,1,quilmes
@@ -9524,7 +9524,7 @@ id,year,team1,score1,score2,team2
 9522,2012,independiente rivadavia (mza),4,2,gimnasia y esgrima (jujuy)
 9523,2012,quilmes,1,1,instituto (cordoba)
 9524,2012,deportivo merlo,3,1,atlanta
-9525,2012,aldosivi (mdp),0,0,sportivo desamparados (sj)
+9525,2012,aldosivi,0,0,sportivo desamparados (sj)
 9526,2012,rosario central,1,0,patronato (parana)
 9527,2012,almirante brown,1,1,gmobrown (ptomadryn)
 9528,2012,ferro carril oeste,0,0,gimnasia y esgrima lp
@@ -9534,7 +9534,7 @@ id,year,team1,score1,score2,team2
 9532,2012,gimnasia y esgrima lp,2,1,huracan
 9533,2012,boca unidos (corrientes),0,1,almirante brown
 9534,2012,river plate,1,0,patronato (parana)
-9535,2012,defensa y justicia,0,2,aldosivi (mdp)
+9535,2012,defensa y justicia,0,2,aldosivi
 9536,2012,instituto (cordoba),2,1,deportivo merlo
 9537,2012,gimnasia y esgrima (jujuy),0,1,quilmes
 9538,2012,gmobrown (ptomadryn),2,0,independiente rivadavia (mza)
@@ -9542,7 +9542,7 @@ id,year,team1,score1,score2,team2
 9540,2012,independiente rivadavia (mza),1,3,boca unidos (corrientes)
 9541,2012,deportivo merlo,3,1,gimnasia y esgrima (jujuy)
 9542,2012,huracan,2,2,atlanta
-9543,2012,aldosivi (mdp),1,1,gimnasia y esgrima lp
+9543,2012,aldosivi,1,1,gimnasia y esgrima lp
 9544,2012,almirante brown,1,1,river plate
 9545,2012,ferro carril oeste,0,0,instituto (cordoba)
 9546,2012,atletico tucuman,0,1,defensa y justicia
@@ -9552,7 +9552,7 @@ id,year,team1,score1,score2,team2
 9550,2012,huracan,0,0,instituto (cordoba)
 9551,2012,independiente rivadavia (mza),3,1,almirante brown
 9552,2012,rosario central,3,2,defensa y justicia
-9553,2012,aldosivi (mdp),3,0,atlanta
+9553,2012,aldosivi,3,0,atlanta
 9554,2012,ferro carril oeste,1,0,gimnasia y esgrima (jujuy)
 9555,2012,deportivo merlo,2,1,gmobrown (ptomadryn)
 9556,2012,chacarita juniors,0,2,river plate
@@ -9567,14 +9567,14 @@ id,year,team1,score1,score2,team2
 9565,2012,boca unidos (corrientes),1,1,deportivo merlo
 9566,2012,gmobrown (ptomadryn),1,0,ferro carril oeste
 9567,2012,sportivo desamparados (sj),1,1,chacarita juniors
-9568,2012,instituto (cordoba),3,1,aldosivi (mdp)
+9568,2012,instituto (cordoba),3,1,aldosivi
 9569,2012,atlanta,1,1,atletico tucuman
 9570,2012,patronato (parana),2,0,gimnasia y esgrima lp
 9571,2012,deportivo merlo,0,0,almirante brown
 9572,2012,quilmes,7,1,independiente rivadavia (mza)
 9573,2012,chacarita juniors,1,1,defensa y justicia
 9574,2012,rosario central,2,0,atlanta
-9575,2012,aldosivi (mdp),4,3,gimnasia y esgrima (jujuy)
+9575,2012,aldosivi,4,3,gimnasia y esgrima (jujuy)
 9576,2012,huracan,1,1,gmobrown (ptomadryn)
 9577,2012,ferro carril oeste,1,0,boca unidos (corrientes)
 9578,2012,sportivo desamparados (sj),1,4,river plate
@@ -9585,7 +9585,7 @@ id,year,team1,score1,score2,team2
 9583,2012,instituto (cordoba),3,0,rosario central
 9584,2012,atlanta,0,0,patronato (parana)
 9585,2012,defensa y justicia,2,0,sportivo desamparados (sj)
-9586,2012,gmobrown (ptomadryn),1,2,aldosivi (mdp)
+9586,2012,gmobrown (ptomadryn),1,2,aldosivi
 9587,2012,gimnasia y esgrima (jujuy),1,1,atletico tucuman
 9588,2012,boca unidos (corrientes),1,2,huracan
 9589,2012,gimnasia y esgrima lp,2,0,chacarita juniors
@@ -9594,7 +9594,7 @@ id,year,team1,score1,score2,team2
 9592,2012,defensa y justicia,3,3,river plate
 9593,2012,sportivo desamparados (sj),0,1,gimnasia y esgrima lp
 9594,2012,atletico tucuman,2,1,gmobrown (ptomadryn)
-9595,2012,aldosivi (mdp),2,1,boca unidos (corrientes)
+9595,2012,aldosivi,2,1,boca unidos (corrientes)
 9596,2012,ferro carril oeste,1,1,independiente rivadavia (mza)
 9597,2012,chacarita juniors,1,1,atlanta
 9598,2012,rosario central,2,0,gimnasia y esgrima (jujuy)
@@ -9607,12 +9607,12 @@ id,year,team1,score1,score2,team2
 9605,2012,gimnasia y esgrima (jujuy),0,0,patronato (parana)
 9606,2012,atlanta,1,2,sportivo desamparados (sj)
 9607,2012,quilmes,0,0,ferro carril oeste
-9608,2012,almirante brown,1,1,aldosivi (mdp)
+9608,2012,almirante brown,1,1,aldosivi
 9609,2012,instituto (cordoba),3,1,chacarita juniors
 9610,2012,defensa y justicia,0,0,atlanta
 9611,2012,gimnasia y esgrima lp,0,0,river plate
 9612,2012,rosario central,2,2,boca unidos (corrientes)
-9613,2012,aldosivi (mdp),2,0,independiente rivadavia (mza)
+9613,2012,aldosivi,2,0,independiente rivadavia (mza)
 9614,2012,huracan,1,1,quilmes
 9615,2012,ferro carril oeste,0,0,deportivo merlo
 9616,2012,chacarita juniors,1,1,gimnasia y esgrima (jujuy)
@@ -9625,21 +9625,21 @@ id,year,team1,score1,score2,team2
 9623,2012,boca unidos (corrientes),1,0,patronato (parana)
 9624,2012,gmobrown (ptomadryn),5,2,chacarita juniors
 9625,2012,gimnasia y esgrima (jujuy),1,0,sportivo desamparados (sj)
-9626,2012,quilmes,4,1,aldosivi (mdp)
+9626,2012,quilmes,4,1,aldosivi
 9627,2012,almirante brown,2,1,rosario central
 9628,2012,instituto (cordoba),2,1,defensa y justicia
 9629,2012,deportivo merlo,2,1,huracan
 9630,2012,huracan,1,1,ferro carril oeste
 9631,2012,defensa y justicia,2,1,gimnasia y esgrima (jujuy)
 9632,2012,atletico tucuman,0,4,quilmes
-9633,2012,aldosivi (mdp),1,0,deportivo merlo
+9633,2012,aldosivi,1,0,deportivo merlo
 9634,2012,atlanta,1,0,river plate
 9635,2012,sportivo desamparados (sj),1,1,gmobrown (ptomadryn)
 9636,2012,patronato (parana),0,2,almirante brown
 9637,2012,rosario central,1,0,independiente rivadavia (mza)
 9638,2012,gimnasia y esgrima lp,0,0,instituto (cordoba)
 9639,2012,chacarita juniors,0,4,boca unidos (corrientes)
-9640,2012,ferro carril oeste,4,0,aldosivi (mdp)
+9640,2012,ferro carril oeste,4,0,aldosivi
 9641,2012,river plate,2,0,huracan
 9642,2012,independiente rivadavia (mza),0,1,patronato (parana)
 9643,2012,deportivo merlo,0,2,atletico tucuman
@@ -9649,7 +9649,7 @@ id,year,team1,score1,score2,team2
 9647,2012,instituto (cordoba),1,0,atlanta
 9648,2012,quilmes,0,1,rosario central
 9649,2012,almirante brown,0,0,chacarita juniors
-9650,2012,aldosivi (mdp),5,1,huracan
+9650,2012,aldosivi,5,1,huracan
 9651,2012,river plate,1,0,instituto (cordoba)
 9652,2012,atlanta,0,0,gimnasia y esgrima (jujuy)
 9653,2012,defensa y justicia,1,0,boca unidos (corrientes)
@@ -9662,14 +9662,14 @@ id,year,team1,score1,score2,team2
 9660,2012,huracan,2,0,atletico tucuman
 9661,2012,deportivo merlo,3,1,patronato (parana)
 9662,2012,gimnasia y esgrima (jujuy),0,1,instituto (cordoba)
-9663,2012,aldosivi (mdp),1,1,river plate
+9663,2012,aldosivi,1,1,river plate
 9664,2012,quilmes,1,0,chacarita juniors
 9665,2012,independiente rivadavia (mza),1,0,sportivo desamparados (sj)
 9666,2012,ferro carril oeste,0,2,rosario central
 9667,2012,almirante brown,2,0,defensa y justicia
 9668,2012,boca unidos (corrientes),2,1,gimnasia y esgrima lp
 9669,2012,gmobrown (ptomadryn),3,0,atlanta
-9670,2012,atletico tucuman,2,2,aldosivi (mdp)
+9670,2012,atletico tucuman,2,2,aldosivi
 9671,2012,river plate,1,0,gimnasia y esgrima (jujuy)
 9672,2012,instituto (cordoba),0,0,gmobrown (ptomadryn)
 9673,2012,patronato (parana),3,0,ferro carril oeste
@@ -9684,7 +9684,7 @@ id,year,team1,score1,score2,team2
 9682,2012,ferro carril oeste,0,0,chacarita juniors
 9683,2012,deportivo merlo,0,0,sportivo desamparados (sj)
 9684,2012,independiente rivadavia (mza),2,1,gimnasia y esgrima lp
-9685,2012,aldosivi (mdp),1,2,rosario central
+9685,2012,aldosivi,1,2,rosario central
 9686,2012,gmobrown (ptomadryn),1,2,gimnasia y esgrima (jujuy)
 9687,2012,quilmes,2,0,defensa y justicia
 9688,2012,almirante brown,2,0,atlanta
@@ -9697,11 +9697,11 @@ id,year,team1,score1,score2,team2
 9695,2012,gimnasia y esgrima (jujuy),0,0,boca unidos (corrientes)
 9696,2012,instituto (cordoba),3,1,almirante brown
 9697,2012,sportivo desamparados (sj),0,2,ferro carril oeste
-9698,2012,patronato (parana),1,0,aldosivi (mdp)
+9698,2012,patronato (parana),1,0,aldosivi
 9699,2012,gimnasia y esgrima lp,1,1,quilmes
 9700,2012,ferro carril oeste,1,0,defensa y justicia
 9701,2012,rosario central,0,0,river plate
-9702,2012,aldosivi (mdp),1,0,chacarita juniors
+9702,2012,aldosivi,1,0,chacarita juniors
 9703,2012,huracan,2,1,sportivo desamparados (sj)
 9704,2012,quilmes,1,1,atlanta
 9705,2012,independiente rivadavia (mza),1,1,instituto (cordoba)
@@ -9716,12 +9716,12 @@ id,year,team1,score1,score2,team2
 9714,2012,river plate,2,1,boca unidos (corrientes)
 9715,2012,gmobrown (ptomadryn),1,1,almirante brown
 9716,2012,gimnasia y esgrima (jujuy),0,0,independiente rivadavia (mza)
-9717,2012,sportivo desamparados (sj),2,0,aldosivi (mdp)
+9717,2012,sportivo desamparados (sj),2,0,aldosivi
 9718,2012,gimnasia y esgrima lp,0,1,ferro carril oeste
 9719,2012,patronato (parana),1,0,rosario central
 9720,2012,patronato (parana),1,0,river plate
 9721,2012,atletico tucuman,1,1,sportivo desamparados (sj)
-9722,2012,aldosivi (mdp),0,0,defensa y justicia
+9722,2012,aldosivi,0,0,defensa y justicia
 9723,2012,ferro carril oeste,2,3,atlanta
 9724,2012,deportivo merlo,0,2,instituto (cordoba)
 9725,2012,quilmes,4,0,gimnasia y esgrima (jujuy)
@@ -9730,7 +9730,7 @@ id,year,team1,score1,score2,team2
 9728,2012,almirante brown,3,0,boca unidos (corrientes)
 9729,2012,huracan,2,0,gimnasia y esgrima lp
 9730,2012,gimnasia y esgrima (jujuy),3,0,deportivo merlo
-9731,2012,gimnasia y esgrima lp,3,3,aldosivi (mdp)
+9731,2012,gimnasia y esgrima lp,3,3,aldosivi
 9732,2012,defensa y justicia,1,0,atletico tucuman
 9733,2012,river plate,2,0,almirante brown
 9734,2012,boca unidos (corrientes),1,0,independiente rivadavia (mza)
@@ -10276,7 +10276,7 @@ id,year,team1,score1,score2,team2
 10274,2013,rosario central,0,1,sarmiento (junin)
 10275,2013,defensa y justicia,4,2,nueva chicago
 10276,2013,gimnasia y esgrima lp,2,0,boca unidos (corrientes)
-10277,2013,aldosivi (mdp),3,1,huracan
+10277,2013,aldosivi,3,1,huracan
 10278,2013,crucero del norte,1,0,atletico tucuman
 10279,2013,douglas haig,2,1,patronato (parana)
 10280,2013,almirante brown,0,0,independiente rivadavia (mza)
@@ -10289,11 +10289,11 @@ id,year,team1,score1,score2,team2
 10287,2013,huracan,2,4,gimnasia y esgrima lp
 10288,2013,atletico tucuman,3,0,ferro carril oeste
 10289,2013,olimpo (bahia blanca),0,1,defensa y justicia
-10290,2013,banfield,1,1,aldosivi (mdp)
+10290,2013,banfield,1,1,aldosivi
 10291,2013,patronato (parana),3,5,crucero del norte
 10292,2013,nueva chicago,0,0,gimnasia y esgrima (jujuy)
 10293,2013,rosario central,0,0,huracan
-10294,2013,aldosivi (mdp),2,1,nueva chicago
+10294,2013,aldosivi,2,1,nueva chicago
 10295,2013,defensa y justicia,2,5,atletico tucuman
 10296,2013,instituto (cordoba),1,3,sarmiento (junin)
 10297,2013,gimnasia y esgrima lp,1,0,banfield
@@ -10309,12 +10309,12 @@ id,year,team1,score1,score2,team2
 10307,2013,douglas haig,2,1,instituto (cordoba)
 10308,2013,patronato (parana),4,0,defensa y justicia
 10309,2013,atletico tucuman,1,1,gimnasia y esgrima (jujuy)
-10310,2013,olimpo (bahia blanca),4,0,aldosivi (mdp)
+10310,2013,olimpo (bahia blanca),4,0,aldosivi
 10311,2013,nueva chicago,1,1,gimnasia y esgrima lp
 10312,2013,boca unidos (corrientes),0,0,sarmiento (junin)
 10313,2013,sarmiento (junin),2,1,huracan
 10314,2013,rosario central,2,0,nueva chicago
-10315,2013,aldosivi (mdp),1,1,atletico tucuman
+10315,2013,aldosivi,1,1,atletico tucuman
 10316,2013,defensa y justicia,2,3,independiente rivadavia (mza)
 10317,2013,deportivo merlo,0,2,banfield
 10318,2013,gimnasia y esgrima (jujuy),2,1,patronato (parana)
@@ -10328,7 +10328,7 @@ id,year,team1,score1,score2,team2
 10326,2013,nueva chicago,5,1,deportivo merlo
 10327,2013,crucero del norte,1,1,instituto (cordoba)
 10328,2013,douglas haig,0,1,ferro carril oeste
-10329,2013,patronato (parana),0,3,aldosivi (mdp)
+10329,2013,patronato (parana),0,3,aldosivi
 10330,2013,atletico tucuman,1,1,gimnasia y esgrima lp
 10331,2013,banfield,2,0,sarmiento (junin)
 10332,2013,huracan,0,2,boca unidos (corrientes)
@@ -10336,7 +10336,7 @@ id,year,team1,score1,score2,team2
 10334,2013,deportivo merlo,1,0,olimpo (bahia blanca)
 10335,2013,rosario central,3,1,atletico tucuman
 10336,2013,gimnasia y esgrima lp,3,1,patronato (parana)
-10337,2013,aldosivi (mdp),0,2,independiente rivadavia (mza)
+10337,2013,aldosivi,0,2,independiente rivadavia (mza)
 10338,2013,ferro carril oeste,0,2,crucero del norte
 10339,2013,gimnasia y esgrima (jujuy),1,0,almirante brown
 10340,2013,defensa y justicia,2,0,douglas haig
@@ -10346,7 +10346,7 @@ id,year,team1,score1,score2,team2
 10344,2013,independiente rivadavia (mza),1,1,gimnasia y esgrima lp
 10345,2013,patronato (parana),2,1,rosario central
 10346,2013,ferro carril oeste,1,1,instituto (cordoba)
-10347,2013,almirante brown,1,1,aldosivi (mdp)
+10347,2013,almirante brown,1,1,aldosivi
 10348,2013,nueva chicago,0,0,boca unidos (corrientes)
 10349,2013,banfield,1,2,huracan
 10350,2013,douglas haig,3,1,gimnasia y esgrima (jujuy)
@@ -10354,7 +10354,7 @@ id,year,team1,score1,score2,team2
 10352,2013,olimpo (bahia blanca),1,0,sarmiento (junin)
 10353,2013,instituto (cordoba),1,2,banfield
 10354,2013,sarmiento (junin),4,0,atletico tucuman
-10355,2013,aldosivi (mdp),2,3,douglas haig
+10355,2013,aldosivi,2,3,douglas haig
 10356,2013,defensa y justicia,0,2,ferro carril oeste
 10357,2013,boca unidos (corrientes),0,1,olimpo (bahia blanca)
 10358,2013,deportivo merlo,1,2,patronato (parana)
@@ -10366,7 +10366,7 @@ id,year,team1,score1,score2,team2
 10364,2013,ferro carril oeste,0,0,gimnasia y esgrima (jujuy)
 10365,2013,almirante brown,0,0,rosario central
 10366,2013,olimpo (bahia blanca),3,2,huracan
-10367,2013,crucero del norte,2,1,aldosivi (mdp)
+10367,2013,crucero del norte,2,1,aldosivi
 10368,2013,douglas haig,0,1,gimnasia y esgrima lp
 10369,2013,independiente rivadavia (mza),0,1,deportivo merlo
 10370,2013,patronato (parana),1,1,sarmiento (junin)
@@ -10379,12 +10379,12 @@ id,year,team1,score1,score2,team2
 10377,2013,boca unidos (corrientes),0,1,patronato (parana)
 10378,2013,deportivo merlo,2,6,almirante brown
 10379,2013,rosario central,1,3,douglas haig
-10380,2013,aldosivi (mdp),1,4,ferro carril oeste
+10380,2013,aldosivi,1,4,ferro carril oeste
 10381,2013,huracan,1,1,atletico tucuman
 10382,2013,gimnasia y esgrima lp,5,0,crucero del norte
 10383,2013,ferro carril oeste,0,1,gimnasia y esgrima lp
 10384,2013,independiente rivadavia (mza),3,0,boca unidos (corrientes)
-10385,2013,defensa y justicia,0,2,aldosivi (mdp)
+10385,2013,defensa y justicia,0,2,aldosivi
 10386,2013,almirante brown,2,2,sarmiento (junin)
 10387,2013,patronato (parana),3,0,huracan
 10388,2013,gimnasia y esgrima (jujuy),2,3,instituto (cordoba)
@@ -10398,11 +10398,11 @@ id,year,team1,score1,score2,team2
 10396,2013,huracan,0,1,independiente rivadavia (mza)
 10397,2013,sarmiento (junin),0,0,douglas haig
 10398,2013,deportivo merlo,1,0,crucero del norte
-10399,2013,aldosivi (mdp),1,1,gimnasia y esgrima (jujuy)
+10399,2013,aldosivi,1,1,gimnasia y esgrima (jujuy)
 10400,2013,nueva chicago,0,1,atletico tucuman
 10401,2013,boca unidos (corrientes),0,0,almirante brown
 10402,2013,rosario central,1,1,ferro carril oeste
-10403,2013,aldosivi (mdp),1,0,instituto (cordoba)
+10403,2013,aldosivi,1,0,instituto (cordoba)
 10404,2013,defensa y justicia,0,1,rosario central
 10405,2013,ferro carril oeste,0,0,deportivo merlo
 10406,2013,almirante brown,0,4,huracan
@@ -10415,7 +10415,7 @@ id,year,team1,score1,score2,team2
 10413,2013,huracan,2,1,douglas haig
 10414,2013,deportivo merlo,2,1,defensa y justicia
 10415,2013,rosario central,2,0,gimnasia y esgrima (jujuy)
-10416,2013,gimnasia y esgrima lp,0,0,aldosivi (mdp)
+10416,2013,gimnasia y esgrima lp,0,0,aldosivi
 10417,2013,instituto (cordoba),0,0,atletico tucuman
 10418,2013,olimpo (bahia blanca),1,1,patronato (parana)
 10419,2013,nueva chicago,2,0,independiente rivadavia (mza)
@@ -10429,7 +10429,7 @@ id,year,team1,score1,score2,team2
 10427,2013,douglas haig,0,1,banfield
 10428,2013,patronato (parana),1,1,atletico tucuman
 10429,2013,gimnasia y esgrima (jujuy),2,0,deportivo merlo
-10430,2013,aldosivi (mdp),0,1,rosario central
+10430,2013,aldosivi,0,1,rosario central
 10431,2013,crucero del norte,1,2,huracan
 10432,2013,almirante brown,2,0,nueva chicago
 10433,2013,instituto (cordoba),1,0,patronato (parana)
@@ -10440,13 +10440,13 @@ id,year,team1,score1,score2,team2
 10438,2013,huracan,1,0,ferro carril oeste
 10439,2013,olimpo (bahia blanca),0,0,almirante brown
 10440,2013,banfield,2,0,crucero del norte
-10441,2013,deportivo merlo,1,2,aldosivi (mdp)
+10441,2013,deportivo merlo,1,2,aldosivi
 10442,2013,rosario central,2,0,gimnasia y esgrima lp
 10443,2013,gimnasia y esgrima (jujuy),1,0,boca unidos (corrientes)
 10444,2013,almirante brown,0,1,atletico tucuman
 10445,2013,independiente rivadavia (mza),0,1,patronato (parana)
 10446,2013,defensa y justicia,2,1,huracan
-10447,2013,aldosivi (mdp),1,1,sarmiento (junin)
+10447,2013,aldosivi,1,1,sarmiento (junin)
 10448,2013,ferro carril oeste,3,0,banfield
 10449,2013,crucero del norte,1,0,nueva chicago
 10450,2013,douglas haig,0,2,olimpo (bahia blanca)
@@ -10458,7 +10458,7 @@ id,year,team1,score1,score2,team2
 10456,2013,huracan,1,0,gimnasia y esgrima (jujuy)
 10457,2013,deportivo merlo,1,2,rosario central
 10458,2013,patronato (parana),0,0,almirante brown
-10459,2013,boca unidos (corrientes),3,1,aldosivi (mdp)
+10459,2013,boca unidos (corrientes),3,1,aldosivi
 10460,2013,sarmiento (junin),1,0,gimnasia y esgrima lp
 10461,2013,instituto (cordoba),0,0,independiente rivadavia (mza)
 10462,2013,olimpo (bahia blanca),0,0,crucero del norte
@@ -10466,14 +10466,14 @@ id,year,team1,score1,score2,team2
 10464,2013,banfield,2,0,gimnasia y esgrima (jujuy)
 10465,2013,nueva chicago,1,2,defensa y justicia
 10466,2013,atletico tucuman,2,0,crucero del norte
-10467,2013,huracan,1,1,aldosivi (mdp)
+10467,2013,huracan,1,1,aldosivi
 10468,2013,olimpo (bahia blanca),2,0,ferro carril oeste
 10469,2013,patronato (parana),1,0,douglas haig
 10470,2013,independiente rivadavia (mza),3,0,almirante brown
 10471,2013,deportivo merlo,1,1,instituto (cordoba)
 10472,2013,boca unidos (corrientes),0,1,gimnasia y esgrima lp
 10473,2013,gimnasia y esgrima (jujuy),1,0,nueva chicago
-10474,2013,aldosivi (mdp),1,1,banfield
+10474,2013,aldosivi,1,1,banfield
 10475,2013,instituto (cordoba),2,3,almirante brown
 10476,2013,douglas haig,3,0,independiente rivadavia (mza)
 10477,2013,defensa y justicia,1,0,olimpo (bahia blanca)
@@ -10484,7 +10484,7 @@ id,year,team1,score1,score2,team2
 10482,2013,gimnasia y esgrima lp,1,0,huracan
 10483,2013,almirante brown,1,3,douglas haig
 10484,2013,sarmiento (junin),2,3,instituto (cordoba)
-10485,2013,nueva chicago,0,0,aldosivi (mdp)
+10485,2013,nueva chicago,0,0,aldosivi
 10486,2013,boca unidos (corrientes),2,0,deportivo merlo
 10487,2013,atletico tucuman,1,2,defensa y justicia
 10488,2013,patronato (parana),0,0,ferro carril oeste
@@ -10496,7 +10496,7 @@ id,year,team1,score1,score2,team2
 10494,2013,deportivo merlo,1,2,huracan
 10495,2013,sarmiento (junin),2,0,boca unidos (corrientes)
 10496,2013,gimnasia y esgrima (jujuy),0,0,atletico tucuman
-10497,2013,aldosivi (mdp),0,3,olimpo (bahia blanca)
+10497,2013,aldosivi,0,3,olimpo (bahia blanca)
 10498,2013,gimnasia y esgrima lp,4,0,nueva chicago
 10499,2013,rosario central,2,0,banfield
 10500,2013,crucero del norte,0,2,almirante brown
@@ -10506,7 +10506,7 @@ id,year,team1,score1,score2,team2
 10504,2013,banfield,3,1,deportivo merlo
 10505,2013,boca unidos (corrientes),1,1,instituto (cordoba)
 10506,2013,olimpo (bahia blanca),0,3,gimnasia y esgrima lp
-10507,2013,atletico tucuman,0,0,aldosivi (mdp)
+10507,2013,atletico tucuman,0,0,aldosivi
 10508,2013,patronato (parana),0,0,gimnasia y esgrima (jujuy)
 10509,2013,independiente rivadavia (mza),1,1,defensa y justicia
 10510,2013,douglas haig,1,0,crucero del norte
@@ -10516,7 +10516,7 @@ id,year,team1,score1,score2,team2
 10514,2013,instituto (cordoba),1,1,crucero del norte
 10515,2013,boca unidos (corrientes),0,1,huracan
 10516,2013,gimnasia y esgrima (jujuy),2,1,independiente rivadavia (mza)
-10517,2013,aldosivi (mdp),0,0,patronato (parana)
+10517,2013,aldosivi,0,0,patronato (parana)
 10518,2013,deportivo merlo,0,1,nueva chicago
 10519,2013,ferro carril oeste,0,0,douglas haig
 10520,2013,defensa y justicia,1,1,almirante brown
@@ -10525,7 +10525,7 @@ id,year,team1,score1,score2,team2
 10523,2013,banfield,0,0,boca unidos (corrientes)
 10524,2013,nueva chicago,0,1,sarmiento (junin)
 10525,2013,olimpo (bahia blanca),0,0,deportivo merlo
-10526,2013,independiente rivadavia (mza),2,0,aldosivi (mdp)
+10526,2013,independiente rivadavia (mza),2,0,aldosivi
 10527,2013,huracan,2,2,instituto (cordoba)
 10528,2013,atletico tucuman,3,4,rosario central
 10529,2013,patronato (parana),2,3,gimnasia y esgrima lp
@@ -10535,7 +10535,7 @@ id,year,team1,score1,score2,team2
 10533,2013,defensa y justicia,0,0,crucero del norte
 10534,2013,gimnasia y esgrima lp,3,0,independiente rivadavia (mza)
 10535,2013,instituto (cordoba),0,1,ferro carril oeste
-10536,2013,aldosivi (mdp),4,2,almirante brown
+10536,2013,aldosivi,4,2,almirante brown
 10537,2013,rosario central,2,0,patronato (parana)
 10538,2013,deportivo merlo,0,1,atletico tucuman
 10539,2013,gimnasia y esgrima (jujuy),0,2,douglas haig
@@ -10548,7 +10548,7 @@ id,year,team1,score1,score2,team2
 10546,2013,olimpo (bahia blanca),0,1,boca unidos (corrientes)
 10547,2013,atletico tucuman,0,1,sarmiento (junin)
 10548,2013,patronato (parana),1,2,deportivo merlo
-10549,2013,douglas haig,1,0,aldosivi (mdp)
+10549,2013,douglas haig,1,0,aldosivi
 10550,2013,crucero del norte,0,0,gimnasia y esgrima (jujuy)
 10551,2013,independiente rivadavia (mza),1,3,rosario central
 10552,2013,banfield,0,0,instituto (cordoba)
@@ -10560,19 +10560,19 @@ id,year,team1,score1,score2,team2
 10558,2013,deportivo merlo,1,0,independiente rivadavia (mza)
 10559,2013,sarmiento (junin),4,3,patronato (parana)
 10560,2013,boca unidos (corrientes),0,0,atletico tucuman
-10561,2013,aldosivi (mdp),0,0,crucero del norte
+10561,2013,aldosivi,0,0,crucero del norte
 10562,2013,banfield,3,1,nueva chicago
 10563,2013,nueva chicago,0,0,instituto (cordoba)
 10564,2013,independiente rivadavia (mza),1,0,sarmiento (junin)
 10565,2013,almirante brown,2,0,deportivo merlo
 10566,2013,douglas haig,1,1,rosario central
-10567,2013,ferro carril oeste,0,1,aldosivi (mdp)
+10567,2013,ferro carril oeste,0,1,aldosivi
 10568,2013,patronato (parana),1,0,boca unidos (corrientes)
 10569,2013,crucero del norte,1,1,gimnasia y esgrima lp
 10570,2013,defensa y justicia,1,0,gimnasia y esgrima (jujuy)
 10571,2013,olimpo (bahia blanca),0,0,banfield
 10572,2013,atletico tucuman,1,1,huracan
-10573,2013,aldosivi (mdp),1,1,defensa y justicia
+10573,2013,aldosivi,1,1,defensa y justicia
 10574,2013,rosario central,2,1,crucero del norte
 10575,2013,huracan,0,0,patronato (parana)
 10576,2013,instituto (cordoba),0,1,gimnasia y esgrima (jujuy)
@@ -10589,13 +10589,13 @@ id,year,team1,score1,score2,team2
 10587,2013,douglas haig,1,1,sarmiento (junin)
 10588,2013,crucero del norte,2,0,deportivo merlo
 10589,2013,defensa y justicia,1,0,gimnasia y esgrima lp
-10590,2013,gimnasia y esgrima (jujuy),0,0,aldosivi (mdp)
+10590,2013,gimnasia y esgrima (jujuy),0,0,aldosivi
 10591,2013,olimpo (bahia blanca),1,1,instituto (cordoba)
 10592,2013,almirante brown,0,1,boca unidos (corrientes)
 10593,2013,deportivo merlo,2,1,ferro carril oeste
 10594,2013,gimnasia y esgrima lp,1,0,gimnasia y esgrima (jujuy)
 10595,2013,sarmiento (junin),1,0,crucero del norte
-10596,2013,instituto (cordoba),2,0,aldosivi (mdp)
+10596,2013,instituto (cordoba),2,0,aldosivi
 10597,2013,rosario central,1,1,defensa y justicia
 10598,2013,boca unidos (corrientes),3,1,douglas haig
 10599,2013,nueva chicago,2,0,patronato (parana)
@@ -10606,7 +10606,7 @@ id,year,team1,score1,score2,team2
 10604,2013,patronato (parana),1,0,olimpo (bahia blanca)
 10605,2013,douglas haig,1,0,huracan
 10606,2013,crucero del norte,3,0,boca unidos (corrientes)
-10607,2013,aldosivi (mdp),0,1,gimnasia y esgrima lp
+10607,2013,aldosivi,0,1,gimnasia y esgrima lp
 10608,2013,independiente rivadavia (mza),2,0,nueva chicago
 10609,2013,defensa y justicia,2,0,deportivo merlo
 10610,2013,gimnasia y esgrima (jujuy),0,3,rosario central
@@ -10620,10 +10620,10 @@ id,year,team1,score1,score2,team2
 10618,2013,atletico tucuman,0,1,patronato (parana)
 10619,2013,olimpo (bahia blanca),2,0,independiente rivadavia (mza)
 10620,2013,instituto (cordoba),0,2,gimnasia y esgrima lp
-10621,2013,rosario central,2,0,aldosivi (mdp)
+10621,2013,rosario central,2,0,aldosivi
 10622,2013,sarmiento (junin),2,2,defensa y justicia
 10623,2013,ferro carril oeste,1,1,huracan
-10624,2013,aldosivi (mdp),4,1,deportivo merlo
+10624,2013,aldosivi,4,1,deportivo merlo
 10625,2013,patronato (parana),3,2,instituto (cordoba)
 10626,2013,douglas haig,0,0,nueva chicago
 10627,2013,gimnasia y esgrima (jujuy),0,0,sarmiento (junin)
@@ -10633,7 +10633,7 @@ id,year,team1,score1,score2,team2
 10631,2013,defensa y justicia,2,1,boca unidos (corrientes)
 10632,2013,independiente rivadavia (mza),1,0,atletico tucuman
 10633,2013,deportivo merlo,1,1,gimnasia y esgrima lp
-10634,2013,sarmiento (junin),1,0,aldosivi (mdp)
+10634,2013,sarmiento (junin),1,0,aldosivi
 10635,2013,huracan,0,1,defensa y justicia
 10636,2013,nueva chicago,0,0,crucero del norte
 10637,2013,olimpo (bahia blanca),0,0,douglas haig
@@ -10645,7 +10645,7 @@ id,year,team1,score1,score2,team2
 10643,2013,ferro carril oeste,3,0,nueva chicago
 10644,2013,defensa y justicia,2,4,banfield
 10645,2013,gimnasia y esgrima (jujuy),0,2,huracan
-10646,2013,aldosivi (mdp),2,0,boca unidos (corrientes)
+10646,2013,aldosivi,2,0,boca unidos (corrientes)
 10647,2013,independiente rivadavia (mza),1,1,instituto (cordoba)
 10648,2013,crucero del norte,1,0,olimpo (bahia blanca)
 10649,2013,gimnasia y esgrima lp,3,0,sarmiento (junin)
@@ -11895,17 +11895,17 @@ id,year,team1,score1,score2,team2
 11893,2015,ac instituto deportivo santiago,0,1,club sportivo tintina
 11894,2015,club deportivo aguilares,0,1,club social y deportivo lastenia
 11895,2015,club sportivo baradero,1,0,club deportivo social obrero
-11896,2015,a atletica argentinos juniors,1,0,club atletico boca unidos
+11896,2015,argentinos juniors,1,0,club atletico boca unidos
 11897,2015,a civil club atletico colon,0,0,instituto atletico ctral cordoba
 11898,2015,club atletico aldosivi,1,1,club atletico nueva chicago
 11899,2015,cd guarani antonio franco,0,0,club atletico gimnasia y esgrima
 11900,2015,club atletico san martin,2,0,club atletico douglas haig
 11901,2015,club atletico gimnasia y esgrima,1,1,a civil club atletico colon
 11902,2015,club atletico nueva chicago,3,1,cd guarani antonio franco
-11903,2015,instituto atletico ctral cordoba,1,1,a atletica argentinos juniors
+11903,2015,instituto atletico ctral cordoba,1,1,argentinos juniors
 11904,2015,club atletico boca unidos,1,0,club atletico san martin
 11905,2015,club atletico douglas haig,2,0,club ferro carril oeste
-11906,2015,a atletica argentinos juniors,0,2,club atletico gimnasia y esgrima
+11906,2015,argentinos juniors,0,2,club atletico gimnasia y esgrima
 11907,2015,club atletico san martin,2,0,instituto atletico ctral cordoba
 11908,2015,cd guarani antonio franco,0,0,club atletico aldosivi
 11909,2015,club ferro carril oeste,0,1,club atletico boca unidos
@@ -11914,13 +11914,13 @@ id,year,team1,score1,score2,team2
 11912,2015,club atletico gimnasia y esgrima,1,0,club atletico san martin
 11913,2015,club atletico aldosivi,2,1,a civil club atletico colon
 11914,2015,club atletico boca unidos,0,0,club atletico douglas haig
-11915,2015,club atletico nueva chicago,0,1,a atletica argentinos juniors
-11916,2015,a atletica argentinos juniors,1,0,club atletico aldosivi
+11915,2015,club atletico nueva chicago,0,1,argentinos juniors
+11916,2015,argentinos juniors,1,0,club atletico aldosivi
 11917,2015,a civil club atletico colon,4,1,cd guarani antonio franco
 11918,2015,club atletico douglas haig,2,1,instituto atletico ctral cordoba
 11919,2015,club atletico san martin,2,0,club atletico nueva chicago
 11920,2015,club ferro carril oeste,0,1,club atletico gimnasia y esgrima
-11921,2015,cd guarani antonio franco,0,0,a atletica argentinos juniors
+11921,2015,cd guarani antonio franco,0,0,argentinos juniors
 11922,2015,club atletico aldosivi,1,2,club atletico san martin
 11923,2015,club atletico gimnasia y esgrima,3,0,club atletico douglas haig
 11924,2015,instituto atletico ctral cordoba,1,3,club atletico boca unidos
@@ -11929,7 +11929,7 @@ id,year,team1,score1,score2,team2
 11927,2015,club atletico san martin,1,0,cd guarani antonio franco
 11928,2015,club atletico douglas haig,1,2,club atletico nueva chicago
 11929,2015,club ferro carril oeste,0,1,club atletico aldosivi
-11930,2015,a atletica argentinos juniors,0,2,a civil club atletico colon
+11930,2015,argentinos juniors,0,2,a civil club atletico colon
 11931,2015,cd guarani antonio franco,1,1,club ferro carril oeste
 11932,2015,club atletico aldosivi,1,1,club atletico douglas haig
 11933,2015,club atletico gimnasia y esgrima,1,2,instituto atletico ctral cordoba
@@ -11938,25 +11938,25 @@ id,year,team1,score1,score2,team2
 11936,2015,club atletico boca unidos,1,0,club atletico aldosivi
 11937,2015,instituto atletico ctral cordoba,1,2,club atletico nueva chicago
 11938,2015,club atletico douglas haig,1,1,cd guarani antonio franco
-11939,2015,club atletico san martin,2,0,a atletica argentinos juniors
+11939,2015,club atletico san martin,2,0,argentinos juniors
 11940,2015,club ferro carril oeste,1,1,a civil club atletico colon
 11941,2015,club atletico aldosivi,2,0,instituto atletico ctral cordoba
-11942,2015,a atletica argentinos juniors,0,1,club ferro carril oeste
+11942,2015,argentinos juniors,0,1,club ferro carril oeste
 11943,2015,cd guarani antonio franco,2,1,club atletico boca unidos
 11944,2015,club atletico nueva chicago,0,0,club atletico gimnasia y esgrima
 11945,2015,a civil club atletico colon,3,1,club atletico douglas haig
 11946,2015,club atletico boca unidos,0,0,a civil club atletico colon
 11947,2015,club atletico gimnasia y esgrima,1,1,club atletico aldosivi
 11948,2015,instituto atletico ctral cordoba,1,1,cd guarani antonio franco
-11949,2015,club atletico douglas haig,0,1,a atletica argentinos juniors
+11949,2015,club atletico douglas haig,0,1,argentinos juniors
 11950,2015,club ferro carril oeste,0,0,club atletico san martin
 11951,2015,club atletico gimnasia y esgrima,2,1,cd guarani antonio franco
 11952,2015,instituto atletico ctral cordoba,0,3,a civil club atletico colon
 11953,2015,club atletico nueva chicago,3,0,club atletico aldosivi
 11954,2015,club atletico douglas haig,1,0,club atletico san martin
-11955,2015,club atletico boca unidos,0,4,a atletica argentinos juniors
+11955,2015,club atletico boca unidos,0,4,argentinos juniors
 11956,2015,a civil club atletico colon,0,0,club atletico gimnasia y esgrima
-11957,2015,a atletica argentinos juniors,0,0,instituto atletico ctral cordoba
+11957,2015,argentinos juniors,0,0,instituto atletico ctral cordoba
 11958,2015,club ferro carril oeste,0,0,club atletico douglas haig
 11959,2015,cd guarani antonio franco,0,1,club atletico nueva chicago
 11960,2015,club atletico san martin,1,1,club atletico boca unidos
@@ -11964,25 +11964,25 @@ id,year,team1,score1,score2,team2
 11962,2015,club atletico nueva chicago,0,0,a civil club atletico colon
 11963,2015,club atletico boca unidos,2,0,club ferro carril oeste
 11964,2015,instituto atletico ctral cordoba,2,0,club atletico san martin
-11965,2015,club atletico gimnasia y esgrima,1,0,a atletica argentinos juniors
+11965,2015,club atletico gimnasia y esgrima,1,0,argentinos juniors
 11966,2015,a civil club atletico colon,2,0,club atletico aldosivi
 11967,2015,club atletico douglas haig,2,1,club atletico boca unidos
-11968,2015,a atletica argentinos juniors,1,2,club atletico nueva chicago
+11968,2015,argentinos juniors,1,2,club atletico nueva chicago
 11969,2015,club atletico san martin,2,0,club atletico gimnasia y esgrima
 11970,2015,club ferro carril oeste,1,3,instituto atletico ctral cordoba
 11971,2015,cd guarani antonio franco,2,1,a civil club atletico colon
 11972,2015,club atletico gimnasia y esgrima,0,0,club ferro carril oeste
 11973,2015,instituto atletico ctral cordoba,0,1,club atletico douglas haig
 11974,2015,club atletico nueva chicago,2,0,club atletico san martin
-11975,2015,club atletico aldosivi,2,0,a atletica argentinos juniors
+11975,2015,club atletico aldosivi,2,0,argentinos juniors
 11976,2015,club atletico boca unidos,1,2,instituto atletico ctral cordoba
 11977,2015,club atletico douglas haig,0,1,club atletico gimnasia y esgrima
 11978,2015,club ferro carril oeste,1,0,club atletico nueva chicago
-11979,2015,a atletica argentinos juniors,2,0,cd guarani antonio franco
+11979,2015,argentinos juniors,2,0,cd guarani antonio franco
 11980,2015,club atletico san martin,0,0,club atletico aldosivi
 11981,2015,club atletico nueva chicago,1,1,club atletico douglas haig
 11982,2015,club atletico gimnasia y esgrima,2,2,club atletico boca unidos
-11983,2015,a civil club atletico colon,0,2,a atletica argentinos juniors
+11983,2015,a civil club atletico colon,0,2,argentinos juniors
 11984,2015,cd guarani antonio franco,2,0,club atletico san martin
 11985,2015,club atletico aldosivi,2,1,club ferro carril oeste
 11986,2015,club atletico boca unidos,0,0,club atletico nueva chicago
@@ -11991,17 +11991,17 @@ id,year,team1,score1,score2,team2
 11989,2015,club atletico san martin,0,0,a civil club atletico colon
 11990,2015,club atletico douglas haig,0,0,club atletico aldosivi
 11991,2015,a civil club atletico colon,1,0,club ferro carril oeste
-11992,2015,a atletica argentinos juniors,1,0,club atletico san martin
+11992,2015,argentinos juniors,1,0,club atletico san martin
 11993,2015,cd guarani antonio franco,3,1,club atletico douglas haig
 11994,2015,club atletico aldosivi,2,1,club atletico boca unidos
 11995,2015,club atletico nueva chicago,1,1,instituto atletico ctral cordoba
 11996,2015,club atletico douglas haig,1,0,a civil club atletico colon
 11997,2015,club atletico boca unidos,1,0,cd guarani antonio franco
 11998,2015,club atletico gimnasia y esgrima,1,1,club atletico nueva chicago
-11999,2015,club ferro carril oeste,0,1,a atletica argentinos juniors
+11999,2015,club ferro carril oeste,0,1,argentinos juniors
 12000,2015,instituto atletico ctral cordoba,3,2,club atletico aldosivi
 12001,2015,cd guarani antonio franco,1,2,instituto atletico ctral cordoba
-12002,2015,a atletica argentinos juniors,1,1,club atletico douglas haig
+12002,2015,argentinos juniors,1,1,club atletico douglas haig
 12003,2015,a civil club atletico colon,3,0,club atletico boca unidos
 12004,2015,club atletico aldosivi,2,0,club atletico gimnasia y esgrima
 12005,2015,club atletico san martin,3,0,club ferro carril oeste
