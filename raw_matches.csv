@@ -8859,9 +8859,9 @@ id,year,team1,score1,score2,team2
 8857,2011,aldosivi,3,2,atl rafaela
 8858,2011,defensa y justicia,2,1,rosario central
 8859,2011,almirante brown,1,0,san martin (t)
-8860,2011,def de belgrano,0,0,indep rivadavia
+8860,2011,defensores de belgrano (buenos aires),0,0,indep rivadavia
 8861,2011,svo desamparados,1,0,san martin (t)
-8862,2011,indep rivadavia,2,2,def de belgrano
+8862,2011,indep rivadavia,2,2,defensores de belgrano (buenos aires)
 8863,2011,san martin (t),1,1,svo desamparados
 8864,2012,banfield,0,2,atletico rafaela
 8865,2012,union (santa fe),1,1,argentinos juniors
@@ -9311,7 +9311,7 @@ id,year,team1,score1,score2,team2
 9309,2012,comunicaciones,1,2,colegiales
 9310,2012,deportivo moron,0,1,sarmiento (junin)
 9311,2012,general lamadrid,2,1,nueva chicago
-9312,2012,almagro,0,1,defensores de belgrano
+9312,2012,almagro,0,1,defensores de belgrano (buenos aires)
 9313,2012,ramon santamarina,1,0,union (mar del plata)
 9314,2012,atletico parana,2,1,gimnasia y esgrima (cdu)
 9315,2012,talleres (cordoba),1,0,racing (cordoba)
@@ -9335,7 +9335,7 @@ id,year,team1,score1,score2,team2
 9333,2012,sarmiento (resistencia),1,0,gimnasia y esgrima (jujuy)
 9334,2012,deportivo guaymallen (mza),0,2,deportivo merlo
 9335,2012,atletico policial (catamarca),4,1,instituto (cordoba)
-9336,2012,river plate,1,0,defensores de belgrano
+9336,2012,river plate,1,0,defensores de belgrano (buenos aires)
 9337,2012,rosario central,1,0,guillermo brown (pm)
 9338,2012,argentinos juniors,3,0,racing (olavarria)
 9339,2012,velez sarsfield,2,0,racing (trelew)
@@ -10175,7 +10175,7 @@ id,year,team1,score1,score2,team2
 10173,2013,villa san carlos,0,2,el porvenir
 10174,2013,almagro,1,0,mercado central sacachispas fc
 10175,2013,central cordoba (rosario),1,0,justo j de urquiza
-10176,2013,defensores de belgrano,0,1,berazategui
+10176,2013,defensores de belgrano (buenos aires),0,1,berazategui
 10177,2013,atletico americo tesorieri,6,0,mitre (salta)
 10178,2013,asociacion deportiva nueve de julio,2,1,general paz juniors
 10179,2013,atenas,3,1,sportivo estudiantes
@@ -10199,7 +10199,7 @@ id,year,team1,score1,score2,team2
 10197,2013,deportivo libertad,0,1,ben hur
 10198,2013,guillermo brown,1,0,comision actividades infantiles
 10199,2013,santamarina,1,0,grupo universitario de tandil
-10200,2013,social defensores de belgrano,3,0,once tigres
+10200,2013,social defensores de belgrano (buenos aires),3,0,once tigres
 10201,2013,c cordoba (santiago del estero),2,0,sarmiento (la banda)
 10202,2013,club atletico racing,2,0,colegiales (concordia)
 10203,2013,deportivo maipu,1,2,atletico club san martin
@@ -10219,7 +10219,7 @@ id,year,team1,score1,score2,team2
 10217,2013,guillermo brown,1,0,boca rio gallegos
 10218,2013,jorge gibson brown,2,1,deportivo mandiyu
 10219,2013,san martin (san miguel tucuman),3,1,san jorge juniors
-10220,2013,santamarina,2,0,social defensores de belgrano
+10220,2013,santamarina,2,0,social defensores de belgrano (buenos aires)
 10221,2013,sportivo belgrano,2,1,atenas
 10222,2013,talleres (cordoba),3,0,club atletico racing
 10223,2013,union rawson,2,1,atletico club san martin
@@ -11138,7 +11138,7 @@ id,year,team1,score1,score2,team2
 11136,2014,defensores de cambaceres,1,0,centro espanol
 11137,2014,acassuso,3,0,tristan suarez
 11138,2014,chacarita juniors,1,0,nueva chicago
-11139,2014,defensores de belgrano (b aires),2,1,flandria
+11139,2014,defensores de belgrano (buenos aires),2,1,flandria
 11140,2014,deportivo merlo,0,3,los andes (lomas de zamora)
 11141,2014,temperley,1,0,villa dalmine
 11142,2014,deportivo espanol,2,0,berazategui
