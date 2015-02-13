@@ -7,7 +7,7 @@ id,year,team1,score1,score2,team2
 5,1990,gimnasia y esgrima(lp),0,1,san lorenzo
 6,1990,racing club,0,0,talleres (cordoba)
 7,1990,river plate,0,0,newell's old boys
-8,1990,dep espanol,1,1,union(stafe)
+8,1990,dep espanol,1,1,union (santa fe)
 9,1990,rosario central,0,0,boca juniors
 10,1990,talleres (cordoba),1,2,gimnasia y esgrima(lp)
 11,1990,newell's old boys,2,1,dep espanol
@@ -17,11 +17,11 @@ id,year,team1,score1,score2,team2
 15,1990,platense,3,1,racing(cba)
 16,1990,argentinos juniors,0,0,rosario central
 17,1990,estudiantes(lp),1,1,independiente
-18,1990,union(stafe),0,0,velez sarsfield
+18,1990,union (santa fe),0,0,velez sarsfield
 19,1990,boca juniors,1,0,river plate
 20,1990,instituto(cba),0,0,estudiantes(lp)
 21,1990,independiente,0,0,mandiyu(ctes)
-22,1990,ferro carril oeste,2,1,union(stafe)
+22,1990,ferro carril oeste,2,1,union (santa fe)
 23,1990,velez sarsfield,1,0,newell's old boys
 24,1990,dep espanol,1,0,boca juniors
 25,1990,river plate,1,0,argentinos juniors
@@ -37,10 +37,10 @@ id,year,team1,score1,score2,team2
 35,1990,argentinos juniors,0,1,dep espanol
 36,1990,boca juniors,1,1,velez sarsfield
 37,1990,newell's old boys,1,0,ferro carril oeste
-38,1990,union(stafe),1,1,independiente
+38,1990,union (santa fe),1,1,independiente
 39,1990,mandiyu(ctes),0,0,estudiantes(lp)
 40,1990,instituto(cba),1,0,mandiyu(ctes)
-41,1990,estudiantes(lp),4,2,union(stafe)
+41,1990,estudiantes(lp),4,2,union (santa fe)
 42,1990,independiente,2,1,newell's old boys
 43,1990,ferro carril oeste,0,0,boca juniors
 44,1990,velez sarsfield,1,0,argentinos juniors
@@ -59,8 +59,8 @@ id,year,team1,score1,score2,team2
 57,1990,argentinos juniors,1,0,ferro carril oeste
 58,1990,boca juniors,1,0,independiente
 59,1990,newell's old boys,0,0,estudiantes(lp)
-60,1990,union(stafe),1,1,mandiyu(ctes)
-61,1990,instituto(cba),0,0,union(stafe)
+60,1990,union (santa fe),1,1,mandiyu(ctes)
+61,1990,instituto(cba),0,0,union (santa fe)
 62,1990,mandiyu(ctes),0,0,newell's old boys
 63,1990,estudiantes(lp),1,1,boca juniors
 64,1990,independiente,4,3,argentinos juniors
@@ -79,9 +79,9 @@ id,year,team1,score1,score2,team2
 77,1990,platense,2,2,independiente
 78,1990,argentinos juniors,2,1,estudiantes(lp)
 79,1990,boca juniors,4,2,mandiyu(ctes)
-80,1990,newell's old boys,2,2,union(stafe)
+80,1990,newell's old boys,2,2,union (santa fe)
 81,1990,instituto(cba),0,1,newell's old boys
-82,1990,union(stafe),2,2,boca juniors
+82,1990,union (santa fe),2,2,boca juniors
 83,1990,mandiyu(ctes),0,0,argentinos juniors
 84,1990,estudiantes(lp),0,1,platense
 85,1990,independiente,4,1,san lorenzo
@@ -98,11 +98,11 @@ id,year,team1,score1,score2,team2
 96,1990,talleres (cordoba),0,0,independiente
 97,1990,san lorenzo,0,0,estudiantes(lp)
 98,1990,platense,1,1,mandiyu(ctes)
-99,1990,argentinos juniors,2,0,union(stafe)
+99,1990,argentinos juniors,2,0,union (santa fe)
 100,1990,boca juniors,4,2,newell's old boys
 101,1990,instituto(cba),1,1,boca juniors
 102,1990,newell's old boys,1,2,argentinos juniors
-103,1990,union(stafe),0,0,platense
+103,1990,union (santa fe),0,0,platense
 104,1990,mandiyu(ctes),0,0,san lorenzo
 105,1990,estudiantes(lp),2,1,talleres (cordoba)
 106,1990,independiente,2,2,racing club
@@ -117,14 +117,14 @@ id,year,team1,score1,score2,team2
 115,1990,gimnasia y esgrima(lp),1,2,independiente
 116,1990,racing club,0,0,estudiantes(lp)
 117,1990,talleres (cordoba),2,0,mandiyu(ctes)
-118,1990,san lorenzo,2,3,union(stafe)
+118,1990,san lorenzo,2,3,union (santa fe)
 119,1990,platense,0,0,newell's old boys
 120,1990,argentinos juniors,0,0,boca juniors
 121,1990,argentinos juniors,0,0,boca juniors
 122,1990,instituto(cba),2,0,argentinos juniors
 123,1990,boca juniors,0,1,platense
 124,1990,newell's old boys,2,0,san lorenzo
-125,1990,union(stafe),2,2,talleres (cordoba)
+125,1990,union (santa fe),2,2,talleres (cordoba)
 126,1990,mandiyu(ctes),4,3,racing club
 127,1990,estudiantes(lp),0,0,gimnasia y esgrima(lp)
 128,1990,independiente,7,1,chaco for ever
@@ -138,13 +138,13 @@ id,year,team1,score1,score2,team2
 136,1990,racing(cba),0,1,independiente
 137,1990,chaco for ever,3,1,estudiantes(lp)
 138,1990,gimnasia y esgrima(lp),2,1,mandiyu(ctes)
-139,1990,racing club,1,0,union(stafe)
+139,1990,racing club,1,0,union (santa fe)
 140,1990,talleres (cordoba),1,1,newell's old boys
 141,1990,platense,2,1,argentinos juniors
 142,1990,instituto(cba),0,0,platense
 143,1990,argentinos juniors,5,3,san lorenzo
 144,1990,newell's old boys,0,0,racing club
-145,1990,union(stafe),1,1,gimnasia y esgrima(lp)
+145,1990,union (santa fe),1,1,gimnasia y esgrima(lp)
 146,1990,mandiyu(ctes),2,1,chaco for ever
 147,1990,estudiantes(lp),5,3,racing(cba)
 148,1990,independiente,0,0,rosario central
@@ -156,12 +156,12 @@ id,year,team1,score1,score2,team2
 154,1990,river plate,0,0,independiente
 155,1990,rosario central,2,0,estudiantes(lp)
 156,1990,racing(cba),1,1,mandiyu(ctes)
-157,1990,chaco for ever,1,1,union(stafe)
+157,1990,chaco for ever,1,1,union (santa fe)
 158,1990,gimnasia y esgrima(lp),1,0,newell's old boys
 159,1990,racing club,1,1,boca juniors
 160,1990,talleres (cordoba),2,1,argentinos juniors
 161,1990,san lorenzo,1,0,platense
-162,1990,union(stafe),2,0,racing(cba)
+162,1990,union (santa fe),2,0,racing(cba)
 163,1990,instituto(cba),2,2,san lorenzo
 164,1990,platense,1,1,talleres (cordoba)
 165,1990,argentinos juniors,1,2,racing club
@@ -171,7 +171,7 @@ id,year,team1,score1,score2,team2
 169,1990,estudiantes(lp),2,1,river plate
 170,1990,independiente,0,1,dep espanol
 171,1990,ferro carril oeste,0,0,velez sarsfield
-172,1990,rosario central,2,3,union(stafe)
+172,1990,rosario central,2,3,union (santa fe)
 173,1990,ferro carril oeste,2,0,instituto(cba)
 174,1990,velez sarsfield,0,1,independiente
 175,1990,dep espanol,2,0,estudiantes(lp)
@@ -187,14 +187,14 @@ id,year,team1,score1,score2,team2
 185,1990,argentinos juniors,4,2,chaco for ever
 186,1990,boca juniors,1,1,racing(cba)
 187,1990,newell's old boys,2,2,rosario central
-188,1990,union(stafe),1,0,river plate
+188,1990,union (santa fe),1,0,river plate
 189,1990,mandiyu(ctes),0,0,dep espanol
 190,1990,estudiantes(lp),1,1,velez sarsfield
 191,1990,independiente,1,0,ferro carril oeste
 192,1990,independiente,1,0,instituto(cba)
 193,1990,estudiantes(lp),2,2,ferro carril oeste
 194,1990,mandiyu(ctes),0,1,velez sarsfield
-195,1990,union(stafe),3,0,dep espanol
+195,1990,union (santa fe),3,0,dep espanol
 196,1990,newell's old boys,1,1,river plate
 197,1990,boca juniors,2,0,rosario central
 198,1990,argentinos juniors,0,0,racing(cba)
@@ -208,13 +208,13 @@ id,year,team1,score1,score2,team2
 206,1990,rosario central,2,1,argentinos juniors
 207,1990,river plate,1,1,boca juniors
 208,1990,dep espanol,0,1,newell's old boys
-209,1990,velez sarsfield,3,0,union(stafe)
+209,1990,velez sarsfield,3,0,union (santa fe)
 210,1990,ferro carril oeste,1,1,mandiyu(ctes)
 211,1990,independiente,0,0,estudiantes(lp)
 212,1990,estudiantes(lp),1,2,instituto(cba)
 213,1990,newell's old boys,2,2,velez sarsfield
 214,1990,mandiyu(ctes),3,0,independiente
-215,1990,union(stafe),1,0,ferro carril oeste
+215,1990,union (santa fe),1,0,ferro carril oeste
 216,1990,talleres (cordoba),3,0,chaco for ever
 217,1990,boca juniors,2,0,dep espanol
 218,1990,argentinos juniors,0,0,river plate
@@ -229,10 +229,10 @@ id,year,team1,score1,score2,team2
 227,1990,dep espanol,1,0,argentinos juniors
 228,1990,velez sarsfield,3,3,boca juniors
 229,1990,ferro carril oeste,0,0,newell's old boys
-230,1990,independiente,1,0,union(stafe)
+230,1990,independiente,1,0,union (santa fe)
 231,1990,estudiantes(lp),2,0,mandiyu(ctes)
 232,1990,mandiyu(ctes),4,1,instituto(cba)
-233,1990,union(stafe),0,0,estudiantes(lp)
+233,1990,union (santa fe),0,0,estudiantes(lp)
 234,1990,newell's old boys,1,3,independiente
 235,1990,boca juniors,0,1,ferro carril oeste
 236,1990,argentinos juniors,1,0,velez sarsfield
@@ -250,8 +250,8 @@ id,year,team1,score1,score2,team2
 248,1990,ferro carril oeste,1,1,argentinos juniors
 249,1990,independiente,1,1,boca juniors
 250,1990,estudiantes(lp),1,1,newell's old boys
-251,1990,mandiyu(ctes),0,0,union(stafe)
-252,1990,union(stafe),2,1,instituto(cba)
+251,1990,mandiyu(ctes),0,0,union (santa fe)
+252,1990,union (santa fe),2,1,instituto(cba)
 253,1990,newell's old boys,3,0,mandiyu(ctes)
 254,1990,boca juniors,2,1,estudiantes(lp)
 255,1990,argentinos juniors,2,1,independiente
@@ -270,8 +270,8 @@ id,year,team1,score1,score2,team2
 268,1990,independiente,1,2,platense
 269,1990,estudiantes(lp),1,1,argentinos juniors
 270,1990,mandiyu(ctes),2,2,boca juniors
-271,1990,union(stafe),3,0,newell's old boys
-272,1990,boca juniors,0,1,union(stafe)
+271,1990,union (santa fe),3,0,newell's old boys
+272,1990,boca juniors,0,1,union (santa fe)
 273,1990,argentinos juniors,1,0,mandiyu(ctes)
 274,1990,platense,0,0,estudiantes(lp)
 275,1990,san lorenzo,3,3,independiente
@@ -289,11 +289,11 @@ id,year,team1,score1,score2,team2
 287,1990,independiente,2,1,talleres (cordoba)
 288,1990,estudiantes(lp),0,0,san lorenzo
 289,1990,mandiyu(ctes),2,1,platense
-290,1990,union(stafe),0,1,argentinos juniors
+290,1990,union (santa fe),0,1,argentinos juniors
 291,1990,newell's old boys,1,2,boca juniors
 292,1990,boca juniors,3,0,instituto(cba)
 293,1990,argentinos juniors,0,2,newell's old boys
-294,1990,platense,0,0,union(stafe)
+294,1990,platense,0,0,union (santa fe)
 295,1990,san lorenzo,2,3,mandiyu(ctes)
 296,1990,talleres (cordoba),0,2,estudiantes(lp)
 297,1990,racing club,1,0,independiente
@@ -308,10 +308,10 @@ id,year,team1,score1,score2,team2
 306,1990,independiente,3,0,gimnasia y esgrima(lp)
 307,1990,estudiantes(lp),0,1,racing club
 308,1990,mandiyu(ctes),4,0,talleres (cordoba)
-309,1990,union(stafe),2,0,san lorenzo
+309,1990,union (santa fe),2,0,san lorenzo
 310,1990,newell's old boys,2,1,platense
 311,1990,boca juniors,2,2,argentinos juniors
-312,1990,talleres (cordoba),3,1,union(stafe)
+312,1990,talleres (cordoba),3,1,union (santa fe)
 313,1990,racing club,3,1,mandiyu(ctes)
 314,1990,gimnasia y esgrima(lp),1,1,estudiantes(lp)
 315,1990,chaco for ever,0,0,independiente
@@ -327,7 +327,7 @@ id,year,team1,score1,score2,team2
 325,1990,independiente,2,1,racing(cba)
 326,1990,estudiantes(lp),2,1,chaco for ever
 327,1990,mandiyu(ctes),0,0,gimnasia y esgrima(lp)
-328,1990,union(stafe),0,1,racing club
+328,1990,union (santa fe),0,1,racing club
 329,1990,newell's old boys,2,1,talleres (cordoba)
 330,1990,boca juniors,1,1,san lorenzo
 331,1990,argentinos juniors,0,1,platense
@@ -335,7 +335,7 @@ id,year,team1,score1,score2,team2
 333,1990,san lorenzo,2,1,argentinos juniors
 334,1990,talleres (cordoba),1,1,boca juniors
 335,1990,racing club,0,0,newell's old boys
-336,1990,gimnasia y esgrima(lp),3,0,union(stafe)
+336,1990,gimnasia y esgrima(lp),3,0,union (santa fe)
 337,1990,chaco for ever,1,0,mandiyu(ctes)
 338,1990,racing(cba),1,1,estudiantes(lp)
 339,1990,rosario central,2,1,independiente
@@ -346,7 +346,7 @@ id,year,team1,score1,score2,team2
 344,1990,independiente,1,1,river plate
 345,1990,estudiantes(lp),2,3,rosario central
 346,1990,mandiyu(ctes),4,0,racing(cba)
-347,1990,union(stafe),1,2,chaco for ever
+347,1990,union (santa fe),1,2,chaco for ever
 348,1990,newell's old boys,1,0,gimnasia y esgrima(lp)
 349,1990,boca juniors,2,1,racing club
 350,1990,argentinos juniors,1,1,talleres (cordoba)
@@ -356,7 +356,7 @@ id,year,team1,score1,score2,team2
 354,1990,racing club,1,2,argentinos juniors
 355,1990,gimnasia y esgrima(lp),0,0,boca juniors
 356,1990,chaco for ever,3,0,newell's old boys
-357,1990,racing(cba),2,1,union(stafe)
+357,1990,racing(cba),2,1,union (santa fe)
 358,1990,rosario central,0,1,mandiyu(ctes)
 359,1990,river plate,2,0,estudiantes(lp)
 360,1990,dep espanol,0,2,independiente
@@ -365,7 +365,7 @@ id,year,team1,score1,score2,team2
 363,1990,independiente,0,0,velez sarsfield
 364,1990,estudiantes(lp),0,0,dep espanol
 365,1990,mandiyu(ctes),0,1,river plate
-366,1990,union(stafe),0,0,rosario central
+366,1990,union (santa fe),0,0,rosario central
 367,1990,newell's old boys,2,4,racing(cba)
 368,1990,boca juniors,0,0,chaco for ever
 369,1990,argentinos juniors,3,2,gimnasia y esgrima(lp)
@@ -377,7 +377,7 @@ id,year,team1,score1,score2,team2
 375,1990,chaco for ever,1,1,argentinos juniors
 376,1990,racing(cba),1,0,boca juniors
 377,1990,rosario central,1,0,newell's old boys
-378,1990,river plate,2,2,union(stafe)
+378,1990,river plate,2,2,union (santa fe)
 379,1990,dep espanol,0,0,mandiyu(ctes)
 380,1990,velez sarsfield,2,0,estudiantes(lp)
 381,1990,ferro carril oeste,2,0,independiente
@@ -392,7 +392,7 @@ id,year,team1,score1,score2,team2
 390,1991,newell's old boys,1,0,platense
 391,1991,boca juniors,3,2,argentinos juniors
 392,1991,mandiyu (ctes),2,2,huracan
-393,1991,racing club,2,2,union (sta fe)
+393,1991,racing club,2,2,union (santa fe)
 394,1991,talleres (cordoba),1,1,independiente
 395,1991,dep espanol,0,1,river plate
 396,1991,ferro carril oeste,0,0,gimnasia y esgrima (lp)
@@ -403,7 +403,7 @@ id,year,team1,score1,score2,team2
 401,1991,rosario central,2,0,dep espanol
 402,1991,chaco for ever,2,0,talleres (cordoba)
 403,1991,independiente,1,1,racing club
-404,1991,union (sta fe),1,0,mandiyu (ctes)
+404,1991,union (santa fe),1,0,mandiyu (ctes)
 405,1991,huracan,0,2,boca juniors
 406,1991,argentinos juniors,0,0,newell's old boys
 407,1991,platense,1,1,san lorenzo
@@ -411,7 +411,7 @@ id,year,team1,score1,score2,team2
 409,1991,estudiantes (lp),1,1,platense
 410,1991,san lorenzo,1,2,argentinos juniors
 411,1991,newell's old boys,1,2,huracan
-412,1991,boca juniors,2,0,union (sta fe)
+412,1991,boca juniors,2,0,union (santa fe)
 413,1991,mandiyu (ctes),1,0,independiente
 414,1991,racing club,0,0,chaco for ever
 415,1991,talleres (cordoba),1,2,river plate
@@ -425,12 +425,12 @@ id,year,team1,score1,score2,team2
 423,1991,river plate,1,1,racing club
 424,1991,chaco for ever,2,0,mandiyu (ctes)
 425,1991,independiente,1,2,boca juniors
-426,1991,union (sta fe),1,3,newell's old boys
+426,1991,union (santa fe),1,3,newell's old boys
 427,1991,huracan,0,0,san lorenzo
 428,1991,argentinos juniors,1,2,platense
 429,1991,estudiantes (lp),0,1,argentinos juniors
 430,1991,platense,0,0,huracan
-431,1991,san lorenzo,2,1,union (sta fe)
+431,1991,san lorenzo,2,1,union (santa fe)
 432,1991,newell's old boys,1,0,independiente
 433,1991,boca juniors,0,0,chaco for ever
 434,1991,mandiyu (ctes),2,1,river plate
@@ -446,10 +446,10 @@ id,year,team1,score1,score2,team2
 444,1991,river plate,2,0,boca juniors
 445,1991,chaco for ever,1,5,newell's old boys
 446,1991,independiente,1,1,san lorenzo
-447,1991,union (sta fe),1,0,platense
+447,1991,union (santa fe),1,0,platense
 448,1991,huracan,3,1,argentinos juniors
 449,1991,estudiantes (lp),1,1,huracan
-450,1991,argentinos juniors,1,0,union (sta fe)
+450,1991,argentinos juniors,1,0,union (santa fe)
 451,1991,platense,3,1,independiente
 452,1991,san lorenzo,1,0,chaco for ever
 453,1991,newell's old boys,0,1,river plate
@@ -458,7 +458,7 @@ id,year,team1,score1,score2,team2
 456,1991,racing club,0,0,ferro carril oeste
 457,1991,talleres (cordoba),1,0,velez sarsfield
 458,1991,lanus,0,2,dep espanol
-459,1991,union (sta fe),1,3,huracan
+459,1991,union (santa fe),1,3,huracan
 460,1991,chaco for ever,1,0,platense
 461,1991,lanus,0,1,estudiantes (lp)
 462,1991,dep espanol,1,2,talleres (cordoba)
@@ -468,7 +468,7 @@ id,year,team1,score1,score2,team2
 466,1991,rosario central,3,4,newell's old boys
 467,1991,river plate,4,0,san lorenzo
 468,1991,independiente,1,1,argentinos juniors
-469,1991,estudiantes (lp),1,0,union (sta fe)
+469,1991,estudiantes (lp),1,0,union (santa fe)
 470,1991,huracan,0,1,independiente
 471,1991,argentinos juniors,1,0,chaco for ever
 472,1991,platense,0,1,river plate
@@ -479,7 +479,7 @@ id,year,team1,score1,score2,team2
 477,1991,racing club,2,2,dep espanol
 478,1991,talleres (cordoba),2,1,lanus
 479,1991,ferro carril oeste,1,1,newell's old boys
-480,1991,independiente,2,2,union (sta fe)
+480,1991,independiente,2,2,union (santa fe)
 481,1991,talleres (cordoba),1,2,estudiantes (lp)
 482,1991,lanus,1,4,racing club
 483,1991,dep espanol,1,1,mandiyu (ctes)
@@ -490,7 +490,7 @@ id,year,team1,score1,score2,team2
 488,1991,chaco for ever,2,2,huracan
 489,1991,newell's old boys,1,1,velez sarsfield
 490,1991,estudiantes (lp),1,2,independiente
-491,1991,union (sta fe),1,2,chaco for ever
+491,1991,union (santa fe),1,2,chaco for ever
 492,1991,huracan,0,1,river plate
 493,1991,argentinos juniors,2,0,rosario central
 494,1991,platense,0,0,gimnasia y esgrima (lp)
@@ -506,10 +506,10 @@ id,year,team1,score1,score2,team2
 504,1991,velez sarsfield,0,0,san lorenzo
 505,1991,ferro carril oeste,2,2,platense
 506,1991,gimnasia y esgrima (lp),0,4,argentinos juniors
-507,1991,river plate,0,0,union (sta fe)
+507,1991,river plate,0,0,union (santa fe)
 508,1991,chaco for ever,0,1,independiente
 509,1991,velez sarsfield,0,0,san lorenzo
-510,1991,union (sta fe),2,0,rosario central
+510,1991,union (santa fe),2,0,rosario central
 511,1991,estudiantes (lp),1,0,chaco for ever
 512,1991,independiente,2,1,river plate
 513,1991,huracan,1,1,gimnasia y esgrima (lp)
@@ -526,10 +526,10 @@ id,year,team1,score1,score2,team2
 524,1991,dep espanol,3,1,platense
 525,1991,velez sarsfield,2,2,argentinos juniors
 526,1991,ferro carril oeste,0,2,huracan
-527,1991,gimnasia y esgrima (lp),1,1,union (sta fe)
+527,1991,gimnasia y esgrima (lp),1,1,union (santa fe)
 528,1991,rosario central,1,0,independiente
 529,1991,river plate,4,1,chaco for ever
-530,1991,union (sta fe),2,3,ferro carril oeste
+530,1991,union (santa fe),2,3,ferro carril oeste
 531,1991,estudiantes (lp),0,2,river plate
 532,1991,chaco for ever,2,3,rosario central
 533,1991,independiente,1,1,gimnasia y esgrima (lp)
@@ -543,7 +543,7 @@ id,year,team1,score1,score2,team2
 541,1991,racing club,2,1,san lorenzo
 542,1991,talleres (cordoba),0,2,platense
 543,1991,lanus,1,0,argentinos juniors
-544,1991,velez sarsfield,1,0,union (sta fe)
+544,1991,velez sarsfield,1,0,union (santa fe)
 545,1991,ferro carril oeste,1,0,independiente
 546,1991,gimnasia y esgrima (lp),4,0,chaco for ever
 547,1991,rosario central,2,2,river plate
@@ -553,7 +553,7 @@ id,year,team1,score1,score2,team2
 551,1991,river plate,1,0,gimnasia y esgrima (lp)
 552,1991,chaco for ever,1,1,ferro carril oeste
 553,1991,independiente,3,4,velez sarsfield
-554,1991,union (sta fe),2,1,dep espanol
+554,1991,union (santa fe),2,1,dep espanol
 555,1991,argentinos juniors,0,1,talleres (cordoba)
 556,1991,platense,0,0,racing club
 557,1991,san lorenzo,1,1,mandiyu (ctes)
@@ -564,7 +564,7 @@ id,year,team1,score1,score2,team2
 562,1991,mandiyu (ctes),1,2,platense
 563,1991,racing club,2,2,argentinos juniors
 564,1991,talleres (cordoba),1,2,huracan
-565,1991,lanus,0,0,union (sta fe)
+565,1991,lanus,0,0,union (santa fe)
 566,1991,dep espanol,0,2,independiente
 567,1991,velez sarsfield,1,2,chaco for ever
 568,1991,ferro carril oeste,0,3,river plate
@@ -575,11 +575,11 @@ id,year,team1,score1,score2,team2
 573,1991,rosario central,0,1,ferro carril oeste
 574,1991,river plate,1,2,velez sarsfield
 575,1991,independiente,1,0,lanus
-576,1991,union (sta fe),4,4,talleres (cordoba)
+576,1991,union (santa fe),4,4,talleres (cordoba)
 577,1991,huracan,0,0,racing club
 578,1991,platense,1,0,boca juniors
 579,1991,san lorenzo,1,1,newell's old boys
-580,1991,union (sta fe),3,1,racing club
+580,1991,union (santa fe),3,1,racing club
 581,1991,rosario central,1,1,velez sarsfield
 582,1991,san lorenzo,2,1,estudiantes (lp)
 583,1991,platense,0,2,newell's old boys
@@ -595,11 +595,11 @@ id,year,team1,score1,score2,team2
 593,1991,lanus,1,1,river plate
 594,1991,talleres (cordoba),2,1,chaco for ever
 595,1991,racing club,0,0,independiente
-596,1991,mandiyu (ctes),2,0,union (sta fe)
+596,1991,mandiyu (ctes),2,0,union (santa fe)
 597,1991,boca juniors,2,0,huracan
 598,1991,newell's old boys,3,1,argentinos juniors
 599,1991,san lorenzo,0,0,platense
-600,1991,union (sta fe),0,4,boca juniors
+600,1991,union (santa fe),0,4,boca juniors
 601,1991,platense,1,0,estudiantes (lp)
 602,1991,argentinos juniors,1,2,san lorenzo
 603,1991,huracan,1,1,newell's old boys
@@ -616,12 +616,12 @@ id,year,team1,score1,score2,team2
 614,1991,racing club,5,2,river plate
 615,1991,mandiyu (ctes),2,0,chaco for ever
 616,1991,boca juniors,0,0,independiente
-617,1991,newell's old boys,1,1,union (sta fe)
+617,1991,newell's old boys,1,1,union (santa fe)
 618,1991,san lorenzo,0,1,huracan
 619,1991,platense,1,1,argentinos juniors
 620,1991,argentinos juniors,3,2,estudiantes (lp)
 621,1991,huracan,1,0,platense
-622,1991,union (sta fe),0,2,san lorenzo
+622,1991,union (santa fe),0,2,san lorenzo
 623,1991,independiente,1,0,newell's old boys
 624,1991,chaco for ever,0,0,boca juniors
 625,1991,river plate,2,2,mandiyu (ctes)
@@ -637,10 +637,10 @@ id,year,team1,score1,score2,team2
 635,1991,boca juniors,1,0,river plate
 636,1991,newell's old boys,1,0,chaco for ever
 637,1991,san lorenzo,1,0,independiente
-638,1991,platense,1,1,union (sta fe)
+638,1991,platense,1,1,union (santa fe)
 639,1991,argentinos juniors,0,0,huracan
 640,1991,huracan,0,0,estudiantes (lp)
-641,1991,union (sta fe),3,1,argentinos juniors
+641,1991,union (santa fe),3,1,argentinos juniors
 642,1991,independiente,5,1,platense
 643,1991,chaco for ever,0,0,san lorenzo
 644,1991,river plate,1,1,newell's old boys
@@ -658,8 +658,8 @@ id,year,team1,score1,score2,team2
 656,1991,san lorenzo,2,2,river plate
 657,1991,platense,1,1,chaco for ever
 658,1991,argentinos juniors,1,1,independiente
-659,1991,huracan,1,1,union (sta fe)
-660,1991,union (sta fe),1,1,estudiantes (lp)
+659,1991,huracan,1,1,union (santa fe)
+660,1991,union (santa fe),1,1,estudiantes (lp)
 661,1991,independiente,1,0,huracan
 662,1991,chaco for ever,1,0,argentinos juniors
 663,1991,river plate,0,0,platense
@@ -678,9 +678,9 @@ id,year,team1,score1,score2,team2
 676,1991,platense,0,0,rosario central
 677,1991,argentinos juniors,1,1,river plate
 678,1991,huracan,4,3,chaco for ever
-679,1991,union (sta fe),0,0,independiente
+679,1991,union (santa fe),0,0,independiente
 680,1991,independiente,1,1,estudiantes (lp)
-681,1991,chaco for ever,2,2,union (sta fe)
+681,1991,chaco for ever,2,2,union (santa fe)
 682,1991,river plate,0,0,huracan
 683,1991,rosario central,2,1,argentinos juniors
 684,1991,gimnasia y esgrima (lp),0,0,platense
@@ -697,11 +697,11 @@ id,year,team1,score1,score2,team2
 695,1991,platense,0,0,ferro carril oeste
 696,1991,argentinos juniors,3,1,gimnasia y esgrima (lp)
 697,1991,huracan,3,0,rosario central
-698,1991,union (sta fe),1,1,river plate
+698,1991,union (santa fe),1,1,river plate
 699,1991,independiente,1,1,chaco for ever
 700,1991,chaco for ever,0,0,estudiantes (lp)
 701,1991,river plate,1,1,independiente
-702,1991,rosario central,0,0,union (sta fe)
+702,1991,rosario central,0,0,union (santa fe)
 703,1991,gimnasia y esgrima (lp),1,0,huracan
 704,1991,ferro carril oeste,2,2,argentinos juniors
 705,1991,velez sarsfield,2,0,platense
@@ -716,13 +716,13 @@ id,year,team1,score1,score2,team2
 714,1991,platense,1,0,dep espanol
 715,1991,argentinos juniors,0,3,velez sarsfield
 716,1991,huracan,1,0,ferro carril oeste
-717,1991,union (sta fe),1,1,gimnasia y esgrima (lp)
+717,1991,union (santa fe),1,1,gimnasia y esgrima (lp)
 718,1991,independiente,1,2,rosario central
 719,1991,chaco for ever,1,3,river plate
 720,1991,river plate,0,1,estudiantes (lp)
 721,1991,rosario central,1,0,chaco for ever
 722,1991,gimnasia y esgrima (lp),2,1,independiente
-723,1991,ferro carril oeste,2,0,union (sta fe)
+723,1991,ferro carril oeste,2,0,union (santa fe)
 724,1991,velez sarsfield,1,1,huracan
 725,1991,dep espanol,1,0,argentinos juniors
 726,1991,lanus,0,0,platense
@@ -735,7 +735,7 @@ id,year,team1,score1,score2,team2
 733,1991,platense,2,0,talleres (cordoba)
 734,1991,argentinos juniors,0,0,lanus
 735,1991,huracan,0,4,dep espanol
-736,1991,union (sta fe),2,2,velez sarsfield
+736,1991,union (santa fe),2,2,velez sarsfield
 737,1991,independiente,1,1,ferro carril oeste
 738,1991,chaco for ever,0,0,gimnasia y esgrima (lp)
 739,1991,river plate,1,0,rosario central
@@ -743,7 +743,7 @@ id,year,team1,score1,score2,team2
 741,1991,gimnasia y esgrima (lp),0,0,river plate
 742,1991,ferro carril oeste,4,2,chaco for ever
 743,1991,velez sarsfield,1,1,independiente
-744,1991,dep espanol,1,1,union (sta fe)
+744,1991,dep espanol,1,1,union (santa fe)
 745,1991,lanus,0,0,huracan
 746,1991,talleres (cordoba),2,3,argentinos juniors
 747,1991,racing club,0,2,platense
@@ -754,7 +754,7 @@ id,year,team1,score1,score2,team2
 752,1991,platense,0,0,mandiyu (ctes)
 753,1991,argentinos juniors,0,0,racing club
 754,1991,huracan,1,0,talleres (cordoba)
-755,1991,union (sta fe),3,2,lanus
+755,1991,union (santa fe),3,2,lanus
 756,1991,independiente,3,1,dep espanol
 757,1991,chaco for ever,1,1,velez sarsfield
 758,1991,river plate,1,1,ferro carril oeste
@@ -764,7 +764,7 @@ id,year,team1,score1,score2,team2
 762,1991,velez sarsfield,1,0,river plate
 763,1991,dep espanol,1,1,chaco for ever
 764,1991,lanus,1,1,independiente
-765,1991,talleres (cordoba),1,1,union (sta fe)
+765,1991,talleres (cordoba),1,1,union (santa fe)
 766,1991,racing club,0,2,huracan
 767,1991,mandiyu (ctes),2,0,argentinos juniors
 768,1991,boca juniors,3,0,platense
@@ -816,7 +816,7 @@ id,year,team1,score1,score2,team2
 814,1992,quilmes,0,1,newell's old boys
 815,1992,gimnasia y esgrima (lp),1,0,dep espanol
 816,1992,rosario central,0,0,huracan
-817,1992,union (sta fe),1,2,river plate
+817,1992,union (santa fe),1,2,river plate
 818,1992,argentinos juniors,0,0,estudiantes (lp)
 819,1992,racing club,2,3,depmandiyu (ctes)
 820,1992,belgrano (cba),1,1,ferro carril oeste
@@ -827,7 +827,7 @@ id,year,team1,score1,score2,team2
 825,1992,talleres (cordoba),2,0,argentinos juniors
 826,1992,estudiantes (lp),0,0,platense
 827,1992,independiente,2,0,quilmes
-828,1992,newell's old boys,0,0,union (sta fe)
+828,1992,newell's old boys,0,0,union (santa fe)
 829,1992,huracan,1,1,racing club
 830,1992,depmandiyu (ctes),0,0,gimnasia y esgrima (lp)
 831,1992,dep espanol,1,0,belgrano (cba)
@@ -838,7 +838,7 @@ id,year,team1,score1,score2,team2
 836,1992,gimnasia y esgrima (lp),0,0,huracan
 837,1992,racing club,0,0,river plate
 838,1992,rosario central,1,0,newell's old boys
-839,1992,union (sta fe),0,0,independiente
+839,1992,union (santa fe),0,0,independiente
 840,1992,quilmes,0,0,estudiantes (lp)
 841,1992,platense,1,2,talleres (cordoba)
 842,1992,argentinos juniors,0,0,san lorenzo
@@ -846,7 +846,7 @@ id,year,team1,score1,score2,team2
 844,1992,argentinos juniors,3,1,boca juniors
 845,1992,san lorenzo,1,1,platense
 846,1992,talleres (cordoba),2,1,quilmes
-847,1992,estudiantes (lp),1,1,union (sta fe)
+847,1992,estudiantes (lp),1,1,union (santa fe)
 848,1992,independiente,0,0,rosario central
 849,1992,newell's old boys,0,0,racing club
 850,1992,huracan,1,1,belgrano (cba)
@@ -859,10 +859,10 @@ id,year,team1,score1,score2,team2
 857,1992,gimnasia y esgrima (lp),1,0,newell's old boys
 858,1992,racing club,0,0,independiente
 859,1992,rosario central,2,0,estudiantes (lp)
-860,1992,union (sta fe),0,0,talleres (cordoba)
+860,1992,union (santa fe),0,0,talleres (cordoba)
 861,1992,quilmes,0,0,san lorenzo
 862,1992,platense,0,0,argentinos juniors
-863,1992,san lorenzo,1,2,union (sta fe)
+863,1992,san lorenzo,1,2,union (santa fe)
 864,1992,platense,0,2,boca juniors
 865,1992,argentinos juniors,1,0,quilmes
 866,1992,talleres (cordoba),3,1,rosario central
@@ -880,10 +880,10 @@ id,year,team1,score1,score2,team2
 878,1992,belgrano (cba),0,1,independiente
 879,1992,gimnasia y esgrima (lp),2,0,estudiantes (lp)
 880,1992,rosario central,0,1,san lorenzo
-881,1992,union (sta fe),2,1,argentinos juniors
+881,1992,union (santa fe),2,1,argentinos juniors
 882,1992,quilmes,1,0,platense
 883,1992,quilmes,1,2,boca juniors
-884,1992,platense,2,2,union (sta fe)
+884,1992,platense,2,2,union (santa fe)
 885,1992,argentinos juniors,2,2,rosario central
 886,1992,san lorenzo,0,0,racing club
 887,1992,talleres (cordoba),1,0,gimnasia y esgrima (lp)
@@ -894,7 +894,7 @@ id,year,team1,score1,score2,team2
 892,1992,huracan,3,2,depmandiyu (ctes)
 893,1992,racing club,0,0,argentinos juniors
 894,1992,rosario central,1,3,platense
-895,1992,union (sta fe),0,0,quilmes
+895,1992,union (santa fe),0,0,quilmes
 896,1992,boca juniors,1,1,huracan
 897,1992,dep espanol,1,0,newell's old boys
 898,1992,ferro carril oeste,2,3,independiente
@@ -903,7 +903,7 @@ id,year,team1,score1,score2,team2
 901,1992,gimnasia y esgrima (lp),0,2,san lorenzo
 902,1992,depmandiyu (ctes),0,0,river plate
 903,1992,independiente,1,0,dep espanol
-904,1992,union (sta fe),0,0,boca juniors
+904,1992,union (santa fe),0,0,boca juniors
 905,1992,quilmes,0,0,rosario central
 906,1992,platense,2,1,racing club
 907,1992,argentinos juniors,0,0,gimnasia y esgrima (lp)
@@ -921,10 +921,10 @@ id,year,team1,score1,score2,team2
 919,1992,belgrano (cba),1,1,argentinos juniors
 920,1992,gimnasia y esgrima (lp),0,0,platense
 921,1992,racing club,1,1,quilmes
-922,1992,rosario central,1,0,union (sta fe)
+922,1992,rosario central,1,0,union (santa fe)
 923,1992,independiente,2,0,huracan
 924,1992,boca juniors,1,1,rosario central
-925,1992,union (sta fe),0,1,racing club
+925,1992,union (santa fe),0,1,racing club
 926,1992,quilmes,1,1,gimnasia y esgrima (lp)
 927,1992,platense,0,0,belgrano (cba)
 928,1992,argentinos juniors,1,1,velez sarsfield
@@ -941,10 +941,10 @@ id,year,team1,score1,score2,team2
 939,1992,ferro carril oeste,1,1,argentinos juniors
 940,1992,velez sarsfield,2,2,platense
 941,1992,belgrano (cba),0,0,quilmes
-942,1992,gimnasia y esgrima (lp),3,1,union (sta fe)
+942,1992,gimnasia y esgrima (lp),3,1,union (santa fe)
 943,1992,boca juniors,0,0,racing club
 944,1992,rosario central,0,0,gimnasia y esgrima (lp)
-945,1992,union (sta fe),1,2,belgrano (cba)
+945,1992,union (santa fe),1,2,belgrano (cba)
 946,1992,quilmes,1,2,velez sarsfield
 947,1992,platense,0,0,ferro carril oeste
 948,1992,argentinos juniors,5,2,dep espanol
@@ -959,10 +959,10 @@ id,year,team1,score1,score2,team2
 957,1992,depmandiyu (ctes),3,0,argentinos juniors
 958,1992,dep espanol,1,1,platense
 959,1992,ferro carril oeste,1,0,quilmes
-960,1992,velez sarsfield,2,0,union (sta fe)
+960,1992,velez sarsfield,2,0,union (santa fe)
 961,1992,belgrano (cba),1,1,rosario central
 962,1992,gimnasia y esgrima (lp),1,1,racing club
-963,1992,union (sta fe),0,0,ferro carril oeste
+963,1992,union (santa fe),0,0,ferro carril oeste
 964,1992,boca juniors,3,1,gimnasia y esgrima (lp)
 965,1992,racing club,2,1,belgrano (cba)
 966,1992,rosario central,0,2,velez sarsfield
@@ -978,7 +978,7 @@ id,year,team1,score1,score2,team2
 976,1992,river plate,0,1,argentinos juniors
 977,1992,huracan,0,1,platense
 978,1992,depmandiyu (ctes),3,0,quilmes
-979,1992,dep espanol,2,1,union (sta fe)
+979,1992,dep espanol,2,1,union (santa fe)
 980,1992,ferro carril oeste,1,3,rosario central
 981,1992,velez sarsfield,0,2,racing club
 982,1992,belgrano (cba),0,1,gimnasia y esgrima (lp)
@@ -987,7 +987,7 @@ id,year,team1,score1,score2,team2
 985,1992,gimnasia y esgrima (lp),1,0,velez sarsfield
 986,1992,racing club,0,0,ferro carril oeste
 987,1992,rosario central,1,1,dep espanol
-988,1992,union (sta fe),1,0,depmandiyu (ctes)
+988,1992,union (santa fe),1,0,depmandiyu (ctes)
 989,1992,quilmes,0,0,huracan
 990,1992,argentinos juniors,1,1,newell's old boys
 991,1992,san lorenzo,2,2,independiente
@@ -997,12 +997,12 @@ id,year,team1,score1,score2,team2
 995,1992,independiente,1,1,argentinos juniors
 996,1992,newell's old boys,0,0,platense
 997,1992,river plate,5,1,quilmes
-998,1992,huracan,3,1,union (sta fe)
+998,1992,huracan,3,1,union (santa fe)
 999,1992,depmandiyu (ctes),3,1,rosario central
 1000,1992,dep espanol,0,1,racing club
 1001,1992,ferro carril oeste,3,1,gimnasia y esgrima (lp)
 1002,1992,velez sarsfield,2,2,belgrano (cba)
-1003,1992,river plate,2,1,union (sta fe)
+1003,1992,river plate,2,1,union (santa fe)
 1004,1992,velez sarsfield,1,0,boca juniors
 1005,1992,ferro carril oeste,2,1,belgrano (cba)
 1006,1992,dep espanol,2,1,gimnasia y esgrima (lp)
@@ -1013,7 +1013,7 @@ id,year,team1,score1,score2,team2
 1011,1992,estudiantes (lp),2,2,argentinos juniors
 1012,1992,talleres (cordoba),2,0,san lorenzo
 1013,1992,racing club,0,0,huracan
-1014,1992,union (sta fe),0,0,newell's old boys
+1014,1992,union (santa fe),0,0,newell's old boys
 1015,1992,boca juniors,2,0,san lorenzo
 1016,1992,argentinos juniors,0,1,talleres (cordoba)
 1017,1992,platense,5,1,estudiantes (lp)
@@ -1022,7 +1022,7 @@ id,year,team1,score1,score2,team2
 1020,1992,gimnasia y esgrima (lp),3,3,depmandiyu (ctes)
 1021,1992,belgrano (cba),0,1,dep espanol
 1022,1992,velez sarsfield,1,1,ferro carril oeste
-1023,1992,independiente,1,1,union (sta fe)
+1023,1992,independiente,1,1,union (santa fe)
 1024,1992,ferro carril oeste,0,1,boca juniors
 1025,1992,dep espanol,1,1,velez sarsfield
 1026,1992,depmandiyu (ctes),1,0,belgrano (cba)
@@ -1035,7 +1035,7 @@ id,year,team1,score1,score2,team2
 1033,1992,boca juniors,1,0,argentinos juniors
 1034,1992,platense,1,0,san lorenzo
 1035,1992,quilmes,2,0,talleres (cordoba)
-1036,1992,union (sta fe),1,1,estudiantes (lp)
+1036,1992,union (santa fe),1,1,estudiantes (lp)
 1037,1992,rosario central,0,3,independiente
 1038,1992,racing club,0,1,newell's old boys
 1039,1992,gimnasia y esgrima (lp),2,3,river plate
@@ -1049,13 +1049,13 @@ id,year,team1,score1,score2,team2
 1047,1992,newell's old boys,1,0,gimnasia y esgrima (lp)
 1048,1992,independiente,0,0,racing club
 1049,1992,estudiantes (lp),0,3,rosario central
-1050,1992,talleres (cordoba),0,0,union (sta fe)
+1050,1992,talleres (cordoba),0,0,union (santa fe)
 1051,1992,san lorenzo,1,0,quilmes
 1052,1992,argentinos juniors,0,1,platense
 1053,1992,racing club,1,1,estudiantes (lp)
 1054,1992,boca juniors,2,0,platense
 1055,1992,quilmes,2,2,argentinos juniors
-1056,1992,union (sta fe),2,0,san lorenzo
+1056,1992,union (santa fe),2,0,san lorenzo
 1057,1992,rosario central,1,0,talleres (cordoba)
 1058,1992,gimnasia y esgrima (lp),1,1,independiente
 1059,1992,belgrano (cba),1,3,newell's old boys
@@ -1070,11 +1070,11 @@ id,year,team1,score1,score2,team2
 1068,1992,independiente,1,2,belgrano (cba)
 1069,1992,estudiantes (lp),0,1,gimnasia y esgrima (lp)
 1070,1992,talleres (cordoba),1,1,racing club
-1071,1992,argentinos juniors,0,0,union (sta fe)
+1071,1992,argentinos juniors,0,0,union (santa fe)
 1072,1992,platense,3,1,quilmes
 1073,1992,velez sarsfield,2,2,independiente
 1074,1992,boca juniors,1,0,quilmes
-1075,1992,union (sta fe),0,2,platense
+1075,1992,union (santa fe),0,2,platense
 1076,1992,rosario central,3,0,argentinos juniors
 1077,1992,racing club,1,2,san lorenzo
 1078,1992,gimnasia y esgrima (lp),2,0,talleres (cordoba)
@@ -1091,8 +1091,8 @@ id,year,team1,score1,score2,team2
 1089,1992,san lorenzo,0,0,gimnasia y esgrima (lp)
 1090,1992,argentinos juniors,0,0,racing club
 1091,1992,platense,5,0,rosario central
-1092,1992,quilmes,2,1,union (sta fe)
-1093,1992,boca juniors,2,1,union (sta fe)
+1092,1992,quilmes,2,1,union (santa fe)
+1093,1992,boca juniors,2,1,union (santa fe)
 1094,1992,rosario central,1,0,quilmes
 1095,1992,racing club,0,1,platense
 1096,1992,gimnasia y esgrima (lp),3,2,argentinos juniors
@@ -1111,9 +1111,9 @@ id,year,team1,score1,score2,team2
 1109,1992,argentinos juniors,0,1,belgrano (cba)
 1110,1992,platense,0,0,gimnasia y esgrima (lp)
 1111,1992,quilmes,0,2,racing club
-1112,1992,union (sta fe),0,0,rosario central
+1112,1992,union (santa fe),0,0,rosario central
 1113,1992,rosario central,3,0,boca juniors
-1114,1992,racing club,0,0,union (sta fe)
+1114,1992,racing club,0,0,union (santa fe)
 1115,1992,gimnasia y esgrima (lp),3,0,quilmes
 1116,1992,belgrano (cba),1,1,platense
 1117,1992,velez sarsfield,1,0,argentinos juniors
@@ -1129,12 +1129,12 @@ id,year,team1,score1,score2,team2
 1127,1992,argentinos juniors,4,1,ferro carril oeste
 1128,1992,platense,0,2,velez sarsfield
 1129,1992,quilmes,0,0,belgrano (cba)
-1130,1992,union (sta fe),0,0,gimnasia y esgrima (lp)
+1130,1992,union (santa fe),0,0,gimnasia y esgrima (lp)
 1131,1992,rosario central,0,1,racing club
 1132,1992,talleres (cordoba),2,2,depmandiyu (ctes)
 1133,1992,river plate,2,1,estudiantes (lp)
 1134,1992,gimnasia y esgrima (lp),1,0,rosario central
-1135,1992,belgrano (cba),0,2,union (sta fe)
+1135,1992,belgrano (cba),0,2,union (santa fe)
 1136,1992,velez sarsfield,2,0,quilmes
 1137,1992,ferro carril oeste,0,1,platense
 1138,1992,dep espanol,2,0,argentinos juniors
@@ -1149,7 +1149,7 @@ id,year,team1,score1,score2,team2
 1147,1992,argentinos juniors,1,0,depmandiyu (ctes)
 1148,1992,platense,0,1,dep espanol
 1149,1992,quilmes,0,0,ferro carril oeste
-1150,1992,union (sta fe),0,1,velez sarsfield
+1150,1992,union (santa fe),0,1,velez sarsfield
 1151,1992,rosario central,1,0,belgrano (cba)
 1152,1992,racing club,2,1,gimnasia y esgrima (lp)
 1153,1992,quilmes,0,0,ferro carril oeste
@@ -1157,7 +1157,7 @@ id,year,team1,score1,score2,team2
 1155,1992,gimnasia y esgrima (lp),0,0,boca juniors
 1156,1992,belgrano (cba),0,0,racing club
 1157,1992,velez sarsfield,2,0,rosario central
-1158,1992,ferro carril oeste,0,0,union (sta fe)
+1158,1992,ferro carril oeste,0,0,union (santa fe)
 1159,1992,dep espanol,3,0,quilmes
 1160,1992,depmandiyu (ctes),1,1,platense
 1161,1992,huracan,1,1,argentinos juniors
@@ -1170,12 +1170,12 @@ id,year,team1,score1,score2,team2
 1168,1992,argentinos juniors,1,0,river plate
 1169,1992,platense,0,0,huracan
 1170,1992,quilmes,3,1,depmandiyu (ctes)
-1171,1992,union (sta fe),1,2,dep espanol
+1171,1992,union (santa fe),1,2,dep espanol
 1172,1992,rosario central,0,1,ferro carril oeste
 1173,1992,gimnasia y esgrima (lp),1,1,belgrano (cba)
 1174,1992,river plate,4,0,platense
 1175,1992,belgrano (cba),1,0,boca juniors
-1176,1992,depmandiyu (ctes),3,0,union (sta fe)
+1176,1992,depmandiyu (ctes),3,0,union (santa fe)
 1177,1992,newell's old boys,0,0,argentinos juniors
 1178,1992,independiente,0,0,san lorenzo
 1179,1992,estudiantes (lp),0,2,talleres (cordoba)
@@ -1189,7 +1189,7 @@ id,year,team1,score1,score2,team2
 1187,1992,argentinos juniors,1,0,independiente
 1188,1992,platense,1,1,newell's old boys
 1189,1992,quilmes,1,3,river plate
-1190,1992,union (sta fe),1,2,huracan
+1190,1992,union (santa fe),1,2,huracan
 1191,1992,rosario central,3,2,depmandiyu (ctes)
 1192,1992,gimnasia y esgrima (lp),2,0,ferro carril oeste
 1193,1992,belgrano (cba),0,1,velez sarsfield
