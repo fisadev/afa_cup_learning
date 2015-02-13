@@ -9,13 +9,27 @@ dowloads.
 from html2text import html2text
 import requests
 
-YEAR_URL = 'http://www.rsssf.com/tablesa/arg%i.html'
+YEAR_URL = 'http://www.rsssf.com/tablesa/arg%s.html'
 FILE_PATH = 'data/%i.txt'
-YEARS = range(90, 100) + range(2000, 2016)
+YEARS = {}
 
-for year in YEARS:
-    print 'Year:', year
-    data = requests.get(YEAR_URL % year).content
+# 1990-1999: files with format "arg90.html"
+for year in range(1990, 2000):
+    YEARS[year] = str(year - 1900)
+
+# 2000-2009: files with format "arg00.html"
+for year in range(2000, 2010):
+    YEARS[year] = str(year - 2000).rjust(2, '0')
+
+# 2010-2015: files with format "arg2010.html"
+for year in range(2010, 2016):
+    YEARS[year] = str(year)
+
+
+for year, year_in_file in YEARS.items():
+    url = YEAR_URL % year_in_file
+    print 'Year:', year, '(', url, ')'
+    data = requests.get(url).content
     data = data.decode('windows-1252')
     data = data.replace('\r\n', '\n')
     data = html2text(data)
