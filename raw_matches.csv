@@ -6941,7 +6941,7 @@ id,year,team1,score1,score2,team2
 6939,2007,godoy cruz,2,3,huracan (ba)
 6940,2007,nueva chicago,1,2,tigre
 6941,2008,colon,0,1,velez sarsfield
-6942,2008,banfield,0,3,estudiantes,lp
+6942,2008,banfield,0,3,estudiantes lp
 6943,2008,gimnasia y esgrima (lp),0,1,tigre
 6944,2008,independiente,5,3,lanus
 6945,2008,argentinos juniors,0,1,san martin (sj)
@@ -6955,7 +6955,7 @@ id,year,team1,score1,score2,team2
 6953,2008,racing club,0,1,banfield
 6954,2008,velez sarsfield,3,0,olimpo
 6955,2008,rosario central,2,2,gimnasia y esgrima (lp)
-6956,2008,estudiantes,lp,1,0,gimnasia y esgrima (j)
+6956,2008,estudiantes lp,1,0,gimnasia y esgrima (j)
 6957,2008,lanus,1,1,huracan
 6958,2008,tigre,0,3,independiente
 6959,2008,argentinos juniors,3,2,boca juniors
@@ -6967,7 +6967,7 @@ id,year,team1,score1,score2,team2
 6965,2008,olimpo,1,0,arsenal
 6966,2008,banfield,1,0,velez sarsfield
 6967,2008,gimnasia y esgrima (j),2,1,racing club
-6968,2008,newell's old boys,2,1,estudiantes,lp
+6968,2008,newell's old boys,2,1,estudiantes lp
 6969,2008,san lorenzo de almagro,1,1,river plate
 6970,2008,boca juniors,1,0,san martin (sj)
 6971,2008,tigre,0,2,colon
@@ -6976,7 +6976,7 @@ id,year,team1,score1,score2,team2
 6974,2008,rosario central,0,1,huracan
 6975,2008,lanus,2,1,olimpo
 6976,2008,argentinos juniors,0,1,independiente
-6977,2008,estudiantes,lp,1,1,san lorenzo de almagro
+6977,2008,estudiantes lp,1,1,san lorenzo de almagro
 6978,2008,velez sarsfield,4,2,gimnasia y esgrima (j)
 6979,2008,san martin (sj),1,0,river plate
 6980,2008,boca juniors,2,1,gimnasia y esgrima (lp)
@@ -6989,7 +6989,7 @@ id,year,team1,score1,score2,team2
 6987,2008,huracan,3,2,argentinos juniors
 6988,2008,gimnasia y esgrima (j),1,0,arsenal
 6989,2008,newell's old boys,2,0,velez sarsfield
-6990,2008,river plate,4,2,estudiantes,lp
+6990,2008,river plate,4,2,estudiantes lp
 6991,2008,tigre,1,0,banfield
 6992,2008,rosario central,1,1,olimpo
 6993,2008,lanus,2,0,gimnasia y esgrima (j)
@@ -6998,7 +6998,7 @@ id,year,team1,score1,score2,team2
 6996,2008,gimnasia y esgrima (lp),1,0,independiente
 6997,2008,racing club,1,1,river plate
 6998,2008,velez sarsfield,2,0,san lorenzo de almagro
-6999,2008,san martin (sj),1,0,estudiantes,lp
+6999,2008,san martin (sj),1,0,estudiantes lp
 7000,2008,boca juniors,1,0,huracan
 7001,2008,olimpo,1,1,argentinos juniors
 7002,2008,banfield,3,2,rosario central
@@ -7006,7 +7006,7 @@ id,year,team1,score1,score2,team2
 7004,2008,independiente,2,2,san martin (sj)
 7005,2008,huracan,0,1,gimnasia y esgrima (lp)
 7006,2008,newell's old boys,0,0,lanus
-7007,2008,estudiantes,lp,2,1,racing club
+7007,2008,estudiantes lp,2,1,racing club
 7008,2008,colon,1,0,boca juniors
 7009,2008,san lorenzo de almagro,2,4,arsenal
 7010,2008,river plate,5,0,velez sarsfield
@@ -7014,7 +7014,7 @@ id,year,team1,score1,score2,team2
 7012,2008,rosario central,1,1,gimnasia y esgrima (j)
 7013,2008,argentinos juniors,2,0,banfield
 7014,2008,independiente,3,0,huracan
-7015,2008,velez sarsfield,1,0,estudiantes,lp
+7015,2008,velez sarsfield,1,0,estudiantes lp
 7016,2008,arsenal,2,1,river plate
 7017,2008,san martin (sj),0,2,racing club
 7018,2008,lanus,4,3,san lorenzo de almagro
@@ -7023,7 +7023,7 @@ id,year,team1,score1,score2,team2
 7021,2008,gimnasia y esgrima (j),1,1,argentinos juniors
 7022,2008,colon,1,3,independiente
 7023,2008,olimpo,0,0,gimnasia y esgrima (lp)
-7024,2008,estudiantes,lp,1,1,arsenal
+7024,2008,estudiantes lp,1,1,arsenal
 7025,2008,huracan,2,1,san martin (sj)
 7026,2008,racing club,1,0,velez sarsfield
 7027,2008,banfield,0,6,boca juniors
@@ -7037,11 +7037,11 @@ id,year,team1,score1,score2,team2
 7035,2008,argentinos juniors,4,0,newell's old boys
 7036,2008,independiente,3,0,olimpo
 7037,2008,arsenal,0,1,racing club
-7038,2008,lanus,1,0,estudiantes,lp
+7038,2008,lanus,1,0,estudiantes lp
 7039,2008,tigre,4,1,river plate
 7040,2008,boca juniors,2,2,gimnasia y esgrima (j)
 7041,2008,olimpo,3,1,huracan
-7042,2008,estudiantes,lp,2,2,tigre
+7042,2008,estudiantes lp,2,2,tigre
 7043,2008,colon,1,1,san martin (sj)
 7044,2008,gimnasia y esgrima (j),4,0,gimnasia y esgrima (lp)
 7045,2008,velez sarsfield,0,0,arsenal
@@ -7056,7 +7056,7 @@ id,year,team1,score1,score2,team2
 7054,2008,san martin (sj),1,1,arsenal
 7055,2008,lanus,2,1,velez sarsfield
 7056,2008,tigre,3,2,racing club
-7057,2008,rosario central,2,2,estudiantes,lp
+7057,2008,rosario central,2,2,estudiantes lp
 7058,2008,argentinos juniors,4,1,river plate
 7059,2008,boca juniors,2,0,san lorenzo de almagro
 7060,2008,gimnasia y esgrima (lp),2,0,newell's old boys
@@ -7066,7 +7066,7 @@ id,year,team1,score1,score2,team2
 7064,2008,racing club,2,2,rosario central
 7065,2008,velez sarsfield,1,1,tigre
 7066,2008,san lorenzo de almagro,1,1,gimnasia y esgrima (lp)
-7067,2008,estudiantes,lp,3,0,argentinos juniors
+7067,2008,estudiantes lp,3,0,argentinos juniors
 7068,2008,arsenal,0,1,lanus
 7069,2008,newell's old boys,2,1,independiente
 7070,2008,river plate,2,0,boca juniors
@@ -7079,13 +7079,13 @@ id,year,team1,score1,score2,team2
 7077,2008,gimnasia y esgrima (lp),0,2,river plate
 7078,2008,independiente,1,2,san lorenzo de almagro
 7079,2008,huracan,3,1,newell's old boys
-7080,2008,boca juniors,1,1,estudiantes,lp
+7080,2008,boca juniors,1,1,estudiantes lp
 7081,2008,arsenal,1,0,rosario central
 7082,2008,san martin (sj),0,1,banfield
 7083,2008,racing club,0,3,boca juniors
 7084,2008,gimnasia y esgrima (j),0,3,olimpo
 7085,2008,newell's old boys,1,1,colon
-7086,2008,estudiantes,lp,1,0,gimnasia y esgrima (lp)
+7086,2008,estudiantes lp,1,0,gimnasia y esgrima (lp)
 7087,2008,lanus,2,1,tigre
 7088,2008,san lorenzo de almagro,1,1,huracan
 7089,2008,river plate,1,1,independiente
@@ -7096,7 +7096,7 @@ id,year,team1,score1,score2,team2
 7094,2008,colon,0,0,san lorenzo de almagro
 7095,2008,olimpo,1,0,newell's old boys
 7096,2008,banfield,1,1,gimnasia y esgrima (j)
-7097,2008,independiente,1,2,estudiantes,lp
+7097,2008,independiente,1,2,estudiantes lp
 7098,2008,tigre,3,0,san martin (sj)
 7099,2008,argentinos juniors,4,0,arsenal
 7100,2008,boca juniors,4,0,velez sarsfield
@@ -7107,10 +7107,10 @@ id,year,team1,score1,score2,team2
 7105,2008,san martin (sj),3,2,gimnasia y esgrima (j)
 7106,2008,newell's old boys,1,0,banfield
 7107,2008,river plate,0,2,colon
-7108,2008,estudiantes,lp,1,1,huracan
+7108,2008,estudiantes lp,1,1,huracan
 7109,2008,arsenal,2,1,boca juniors
 7110,2008,lanus,0,0,argentinos juniors
-7111,2008,colon,0,2,estudiantes,lp
+7111,2008,colon,0,2,estudiantes lp
 7112,2008,rosario central,3,2,san martin (sj)
 7113,2008,huracan,3,0,racing club
 7114,2008,olimpo,4,0,river plate
@@ -7122,7 +7122,7 @@ id,year,team1,score1,score2,team2
 7120,2008,gimnasia y esgrima (lp),1,1,arsenal
 7121,2008,lanus,4,0,gimnasia y esgrima (lp)
 7122,2008,tigre,2,1,boca juniors
-7123,2008,estudiantes,lp,2,0,olimpo
+7123,2008,estudiantes lp,2,0,olimpo
 7124,2008,rosario central,1,1,argentinos juniors
 7125,2008,racing club,1,0,colon
 7126,2008,san martin (sj),0,1,newell's old boys
@@ -7130,7 +7130,7 @@ id,year,team1,score1,score2,team2
 7128,2008,san lorenzo de almagro,4,1,gimnasia y esgrima (j)
 7129,2008,velez sarsfield,1,2,huracan
 7130,2008,arsenal,3,2,independiente
-7131,2008,estudiantes,lp,2,1,banfield
+7131,2008,estudiantes lp,2,1,banfield
 7132,2008,san lorenzo de almagro,0,2,newell's old boys
 7133,2008,velez sarsfield,4,3,colon
 7134,2008,tigre,2,1,gimnasia y esgrima (lp)
@@ -7143,7 +7143,7 @@ id,year,team1,score1,score2,team2
 7141,2008,banfield,3,1,racing club
 7142,2008,colon,3,0,arsenal
 7143,2008,gimnasia y esgrima (lp),2,0,rosario central
-7144,2008,gimnasia y esgrima (j),0,2,estudiantes,lp
+7144,2008,gimnasia y esgrima (j),0,2,estudiantes lp
 7145,2008,san lorenzo de almagro,0,1,san martin (sj)
 7146,2008,olimpo,0,2,velez sarsfield
 7147,2008,independiente,4,1,tigre
@@ -7151,7 +7151,7 @@ id,year,team1,score1,score2,team2
 7149,2008,boca juniors,4,0,argentinos juniors
 7150,2008,newell's old boys,0,0,river plate
 7151,2008,lanus,5,1,colon
-7152,2008,estudiantes,lp,5,2,newell's old boys
+7152,2008,estudiantes lp,5,2,newell's old boys
 7153,2008,racing club,0,0,gimnasia y esgrima (j)
 7154,2008,argentinos juniors,2,0,gimnasia y esgrima (lp)
 7155,2008,rosario central,2,0,independiente
@@ -7165,7 +7165,7 @@ id,year,team1,score1,score2,team2
 7163,2008,colon,1,2,tigre
 7164,2008,olimpo,3,2,lanus
 7165,2008,independiente,2,0,argentinos juniors
-7166,2008,san lorenzo de almagro,3,1,estudiantes,lp
+7166,2008,san lorenzo de almagro,3,1,estudiantes lp
 7167,2008,gimnasia y esgrima (j),0,0,velez sarsfield
 7168,2008,gimnasia y esgrima (lp),0,1,boca juniors
 7169,2008,newell's old boys,1,0,racing club
@@ -7179,9 +7179,9 @@ id,year,team1,score1,score2,team2
 7177,2008,velez sarsfield,1,0,newell's old boys
 7178,2008,boca juniors,1,1,independiente
 7179,2008,arsenal,3,3,gimnasia y esgrima (j)
-7180,2008,estudiantes,lp,0,0,river plate
+7180,2008,estudiantes lp,0,0,river plate
 7181,2008,olimpo,1,3,rosario central
-7182,2008,estudiantes,lp,3,2,san martin (sj)
+7182,2008,estudiantes lp,3,2,san martin (sj)
 7183,2008,banfield,3,3,tigre
 7184,2008,colon,0,1,argentinos juniors
 7185,2008,independiente,3,1,gimnasia y esgrima (lp)
@@ -7201,7 +7201,7 @@ id,year,team1,score1,score2,team2
 7199,2008,lanus,1,1,newell's old boys
 7200,2008,racing club,1,2,san martin (sj)
 7201,2008,colon,0,0,gimnasia y esgrima (lp)
-7202,2008,estudiantes,lp,1,0,velez sarsfield
+7202,2008,estudiantes lp,1,0,velez sarsfield
 7203,2008,gimnasia y esgrima (j),1,1,rosario central
 7204,2008,banfield,3,2,argentinos juniors
 7205,2008,san lorenzo de almagro,3,1,lanus
@@ -7211,7 +7211,7 @@ id,year,team1,score1,score2,team2
 7209,2008,river plate,1,0,arsenal
 7210,2008,velez sarsfield,1,1,racing club
 7211,2008,san martin (sj),2,0,huracan
-7212,2008,arsenal,0,0,estudiantes,lp
+7212,2008,arsenal,0,0,estudiantes lp
 7213,2008,rosario central,0,1,newell's old boys
 7214,2008,boca juniors,1,1,banfield
 7215,2008,independiente,1,3,colon
@@ -7219,7 +7219,7 @@ id,year,team1,score1,score2,team2
 7217,2008,argentinos juniors,1,1,gimnasia y esgrima (j)
 7218,2008,tigre,1,5,san lorenzo de almagro
 7219,2008,lanus,0,1,river plate
-7220,2008,estudiantes,lp,1,0,lanus
+7220,2008,estudiantes lp,1,0,lanus
 7221,2008,newell's old boys,2,0,argentinos juniors
 7222,2008,colon,1,0,huracan
 7223,2008,banfield,0,0,gimnasia y esgrima (lp)
@@ -7238,8 +7238,8 @@ id,year,team1,score1,score2,team2
 7236,2008,san martin (sj),1,2,colon
 7237,2008,rosario central,2,1,river plate
 7238,2008,argentinos juniors,2,1,san lorenzo de almagro
-7239,2008,tigre,1,1,estudiantes,lp
-7240,2008,estudiantes,lp,3,1,rosario central
+7239,2008,tigre,1,1,estudiantes lp
+7240,2008,estudiantes lp,3,1,rosario central
 7241,2008,banfield,4,3,huracan
 7242,2008,racing club,0,0,tigre
 7243,2008,gimnasia y esgrima (j),1,2,independiente
@@ -7254,7 +7254,7 @@ id,year,team1,score1,score2,team2
 7252,2008,independiente,3,0,newell's old boys
 7253,2008,colon,3,2,banfield
 7254,2008,san martin (sj),0,1,olimpo
-7255,2008,argentinos juniors,2,1,estudiantes,lp
+7255,2008,argentinos juniors,2,1,estudiantes lp
 7256,2008,boca juniors,1,0,river plate
 7257,2008,rosario central,3,2,racing club
 7258,2008,tigre,0,2,velez sarsfield
@@ -7273,7 +7273,7 @@ id,year,team1,score1,score2,team2
 7271,2008,colon,1,1,newell's old boys
 7272,2008,argentinos juniors,2,0,velez sarsfield
 7273,2008,boca juniors,2,1,racing club
-7274,2008,gimnasia y esgrima (lp),1,2,estudiantes,lp
+7274,2008,gimnasia y esgrima (lp),1,2,estudiantes lp
 7275,2008,rosario central,3,0,arsenal
 7276,2008,olimpo,2,0,gimnasia y esgrima (j)
 7277,2008,tigre,1,4,lanus
@@ -7284,7 +7284,7 @@ id,year,team1,score1,score2,team2
 7282,2008,racing club,1,1,gimnasia y esgrima (lp)
 7283,2008,river plate,1,0,huracan
 7284,2008,gimnasia y esgrima (j),1,1,banfield
-7285,2008,estudiantes,lp,1,1,independiente
+7285,2008,estudiantes lp,1,1,independiente
 7286,2008,san lorenzo de almagro,2,1,colon
 7287,2008,lanus,0,0,rosario central
 7288,2008,velez sarsfield,1,1,boca juniors
@@ -7298,14 +7298,14 @@ id,year,team1,score1,score2,team2
 7296,2008,olimpo,3,2,san lorenzo de almagro
 7297,2008,boca juniors,3,1,arsenal
 7298,2008,colon,1,2,river plate
-7299,2008,huracan,1,1,estudiantes,lp
+7299,2008,huracan,1,1,estudiantes lp
 7300,2008,arsenal,1,0,gimnasia y esgrima (lp)
 7301,2008,newell's old boys,2,2,gimnasia y esgrima (j)
 7302,2008,racing club,1,0,huracan
 7303,2008,san martin (sj),0,0,rosario central
 7304,2008,tigre,1,0,argentinos juniors
 7305,2008,san lorenzo de almagro,3,2,banfield
-7306,2008,estudiantes,lp,0,0,colon
+7306,2008,estudiantes lp,0,0,colon
 7307,2008,river plate,2,1,olimpo
 7308,2008,velez sarsfield,0,0,independiente
 7309,2008,lanus,1,3,boca juniors
