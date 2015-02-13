@@ -69,8 +69,22 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
     if with_team_stats:
         stats = get_team_stats(recent_years)
 
-        matches = matches.join(stats, on='team1')\
-                         .join(stats, on='team2', rsuffix='_2')
+        for team in (1, 2):
+            # for the recent stats of team
+            matches['team%i_recent' % team] = matches['team%i' % team] + ':' + matches['year'].map(lambda x: str(x))
+
+            recent_stats = stats.copy()
+            recent_stats.columns = recent_stats.columns.map(lambda x: '%s_recent_%i' % (str(x), team))
+
+            matches = matches.join(recent_stats, on='team%i_recent' % team)
+
+            # for the all time stats of team
+            matches['team%i_all_time' % team] = matches['team%i' % team] + ':all_time'
+
+            all_time_stats = stats.copy()
+            all_time_stats.columns = all_time_stats.columns.map(lambda x: '%s_all_time_%i' % (str(x), team))
+
+            matches = matches.join(all_time_stats, on='team%i_all_time' % team)
 
     return matches
 
@@ -88,10 +102,10 @@ def get_team_stats(recent_years):
     # recent_years)
     # except for the "all_time" year, which calculates stats for all time
 
-    stats = pd.DataFrame([(team_year_key(team, year), team, year)
+    stats = pd.DataFrame([team_year_key(team, year)
                           for year in years
                           for team in teams],
-                         columns=('team_year', 'team', 'year'))
+                         columns=('team_year',))
     stats = stats.set_index('team_year')
 
     for year in years:
