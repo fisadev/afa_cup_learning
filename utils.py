@@ -56,7 +56,6 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
 
 def get_team_stats():
     """Create a dataframe with useful stats for each team."""
-    winners = get_winners()
     matches = get_matches()
 
     teams = set(matches.team1.unique()).union(matches.team2.unique())
@@ -81,15 +80,7 @@ def get_team_stats():
 
         stats.loc[team, 'years_played'] = len(team_matches.year.unique())
 
-        team_podiums = winners[winners.team == team]
-        to_score = lambda position: 2 ** (5 - position)  # better position -> more score, exponential
-        stats.loc[team, 'podium_score'] = team_podiums.position.map(to_score).sum()
-
-        stats.loc[team, 'cups_won'] = len(team_podiums[team_podiums.position == 1])
-
     stats['matches_won_percent'] = stats['matches_won'] / stats['matches_played'] * 100.0
-    stats['podium_score_yearly'] = stats['podium_score'] / stats['years_played']
-    stats['cups_won_yearly'] = stats['cups_won'] / stats['years_played']
 
     return stats
 
