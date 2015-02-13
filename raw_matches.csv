@@ -1,4 +1,3 @@
-id,year,team1,score1,score2,team2
 1990,Instituto(Cba.)		1-4	Independiente
 1990,Ferro Carril Oeste	0-0	Estudiantes(LP)
 1990,Vélez Sarsfield		0-1	Mandiyú(Ctes.)
@@ -4111,7 +4110,6 @@ id,year,team1,score1,score2,team2
 2000,Argentinos J  0-1 Lanús
 2000,Ferro C. O.   1-0 Chacarita Juniors
 2000,Boca Juniors  1-0 Argentinos Juniors
-2000,Lanús         abd Vélez Sarsfield   [abd at 13 seconds when Chilavert (Vélez)
 2000,Independiente 4-2 Gimnasia (Jujuy)
 2000,Belgrano Cba  0-1 River Plate
 2000,Estudiantes   1-3 Newell's Old Boys
@@ -4191,7 +4189,6 @@ id,year,team1,score1,score2,team2
 2000,Boca Juniors  2-0 Rosario Central
 2000,Ferro C. O.   1-5 Belgrano Cba
 2000,Independiente 2-0 Ferro Carril Oeste
-2000,Newell´s O.B. abd Boca Juniors  [Abandoned at 16', after two clamour bombs
 2000,Lanús         3-0 Chacarita Juniors
 2000,Belgrano Cba  1-2 San Lorenzo
 2000,Colón SF      0-2 Rosario Central 
@@ -6523,7 +6520,6 @@ id,year,team1,score1,score2,team2
 2006,River Plate             2-2 Argentinos Juniors
 2006,Tiro Federal            0-2 Gimnasia y Esgrima (LP)
 2006,Quilmes                 0-3 Racing Club
-2006,Vélez Sarsfield         awd Boca Juniors
 2006,Arsenal                 1-1 Rosario Central
 2006,Banfield                2-0 Instituto
 2006,San Lorenzo de Almagro  1-0 Banfield
@@ -9285,9 +9281,7 @@ id,year,team1,score1,score2,team2
 2012,Racing (Olavarría)		5-0	Grupo Universitario (Tandil)
 2012,Defensores de Belgrano (VR)	2-0	Once Tigres (9 de Julio)
 2012,Juventud Unida (Gualeguaychú)	0-1	Atlético San Jorge (Santa Fe)
-2012,Unión (Sunchales)	     	9 de Julio (Rafaela)
 2012,Sportivo Patria (Formosa)	1-0	Chaco For Ever (Resistencia)
-2012,Tiro Federal (Morteros)	     	9 de Julio (Morteros)
 2012,Talleres (Córdoba)		4-1	General Paz Juniors (Córdoba)
 2012,Alumni (Villa María)		3-1	Sportivo Las Parejas
 2012,Atlético Policial (Catamarca)	1-0	Villa Cubas (Catamarca)
@@ -9303,7 +9297,6 @@ id,year,team1,score1,score2,team2
 2012,Ramón Santamarina (Tandil)	1-0	Villa Mitre (Bahía Blanca)
 2012,Racing (Olavarría)		1-0	Defensores de Belgrano (Villa Ramallo)
 2012,Atlético Paraná			1-0	Atlético San Jorge (Santa Fe)
-2012,Libertad (Sunchales)	     	9 de Julio (Rafaela)
 2012,Gimnasia y Esgrima (CdU)	3-0	Club Sportivo Las Heras (Concordia)
 2012,Sarmiento (Resistencia)		4-1	Sportivo Patria (Formosa)
 2012,Crucero del Norte (Garupá)	2-1	Guaraní A.Franco (Posadas)
