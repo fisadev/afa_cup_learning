@@ -59,19 +59,19 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
         else:
             return 0
 
-    matches['score_diff'] = matches['score1'] - matches['score2']
-    matches['winner'] = matches['score_diff']
-    matches['winner'] = matches['winner'].map(winner_from_score_diff)
+    matches['score_diff'] = matches.score1 - matches.score2
+    matches['winner'] = matches.score_diff
+    matches['winner'] = matches.winner.map(winner_from_score_diff)
 
     if exclude_ties:
-        matches = matches[matches['winner'] != 0]
+        matches = matches[matches.winner != 0]
 
     if with_team_stats:
         stats = get_team_stats(recent_years)
 
         for team in (1, 2):
             # for the recent stats of team
-            matches['team%i_recent' % team] = matches['team%i' % team] + ':' + matches['year'].map(lambda x: str(x))
+            matches['team%i_recent' % team] = matches['team%i' % team] + ':' + matches.year.map(lambda x: str(x))
 
             recent_stats = stats.copy()
             recent_stats.columns = recent_stats.columns.map(lambda x: '%s_recent_%i' % (str(x), team))
@@ -144,7 +144,7 @@ def get_team_stats(recent_years):
             # no sense in all but the "all_time" year
             stats.loc[team_year, 'years_played'] = len(team_matches.year.unique())
 
-    stats['matches_won_percent'] = stats['matches_won'] / stats['matches_played'] * 100.0
+    stats['matches_won_percent'] = stats.matches_won / stats.matches_played * 100.0
 
     return stats
 
