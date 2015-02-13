@@ -10234,7 +10234,7 @@ id,year,team1,score1,score2,team2
 10232,2013,patronato de la juventud catolica,2,0,nueva chicago
 10233,2013,boca unidos,4,0,crucero del norte
 10234,2013,atletico de rafaela,2,1,alvarado
-10235,2013,club atletico all boys (buenos aires),4,1,atletico brown
+10235,2013,all boys (buenos aires),4,1,atletico brown
 10236,2013,colon,1,2,club atletico platense
 10237,2013,defensa y justicia,0,3,atletico estudiantes
 10238,2013,rosario central,1,2,central cordoba (rosario)
@@ -10253,7 +10253,7 @@ id,year,team1,score1,score2,team2
 10251,2013,deportivo armenio,1,2,newell's old boys
 10252,2013,union rawson,0,3,quilmes
 10253,2013,lanus,0,1,atletico de rafaela
-10254,2013,central cordoba (rosario),0,2,club atletico all boys (buenos aires)
+10254,2013,central cordoba (rosario),0,2,all boys (buenos aires)
 10255,2013,racing club,0,1,tristan suarez
 10256,2013,river plate,0,1,atletico estudiantes
 10257,2013,estudiantes de la plata,2,1,atletico tucuman
@@ -10263,12 +10263,12 @@ id,year,team1,score1,score2,team2
 10261,2013,godoy cruz antonio tomba,3,2,olimpo
 10262,2013,arsenal futbol club,1,0,independiente (avellaneda)
 10263,2013,atletico de rafaela,0,3,san lorenzo de almagro
-10264,2013,club atletico all boys (buenos aires),3,1,boca juniors
+10264,2013,all boys (buenos aires),3,1,boca juniors
 10265,2013,talleres (cordoba),1,0,newell's old boys
 10266,2013,estudiantes de la plata,2,1,quilmes
 10267,2013,talleres (cordoba),0,1,atletico estudiantes
 10268,2013,san lorenzo de almagro,2,0,gimnasia y esgrima foot ball club
-10269,2013,club atletico all boys (buenos aires),1,0,estudiantes de la plata
+10269,2013,all boys (buenos aires),1,0,estudiantes de la plata
 10270,2013,arsenal futbol club,1,0,godoy cruz antonio tomba
 10271,2013,san lorenzo de almagro,0,3,arsenal futbol club
 10272,2013,velez sarsfield,1,0,arsenal
@@ -12010,31 +12010,31 @@ id,year,team1,score1,score2,team2
 12008,2015,club atletico gimnasia y esgrima,0,1,club atletico nueva chicago
 12009,2015,club atletico huracan,3,0,club atletico temperley
 12010,2015,club atletico sarmiento,0,0,cs independiente rivadavia
-12011,2015,ca patronato dl juventud catolica,0,0,club atletico all boys (buenos aires)
+12011,2015,ca patronato dl juventud catolica,0,0,all boys (buenos aires)
 12012,2015,club atletico tucuman soc civ,1,0,crucero del norte
 12013,2015,club sportivo belgrano,3,1,club atletico union (santa fe)
 12014,2015,club atletico temperley,2,0,club atletico sarmiento
 12015,2015,crucero del norte,2,1,c y biblioteca ramon santamarina
 12016,2015,club atletico union (santa fe),2,3,club atletico tucuman soc civ
 12017,2015,cs independiente rivadavia,2,0,ca patronato dl juventud catolica
-12018,2015,club atletico all boys (buenos aires),1,1,club sportivo belgrano
+12018,2015,all boys (buenos aires),1,1,club sportivo belgrano
 12019,2015,club atletico sarmiento,0,0,club atletico huracan
 12020,2015,c y biblioteca ramon santamarina,2,2,club atletico union (santa fe)
 12021,2015,ca patronato dl juventud catolica,0,1,club atletico temperley
-12022,2015,club atletico tucuman soc civ,2,0,club atletico all boys (buenos aires)
+12022,2015,club atletico tucuman soc civ,2,0,all boys (buenos aires)
 12023,2015,club sportivo belgrano,2,1,cs independiente rivadavia
 12024,2015,club atletico huracan,0,1,ca patronato dl juventud catolica
 12025,2015,club atletico temperley,1,0,club sportivo belgrano
 12026,2015,club atletico union (santa fe),3,0,crucero del norte
 12027,2015,cs independiente rivadavia,0,0,club atletico tucuman soc civ
-12028,2015,club atletico all boys (buenos aires),0,0,c y biblioteca ramon santamarina
+12028,2015,all boys (buenos aires),0,0,c y biblioteca ramon santamarina
 12029,2015,club atletico tucuman soc civ,3,1,club atletico temperley
 12030,2015,club sportivo belgrano,1,1,club atletico huracan
-12031,2015,crucero del norte,1,0,club atletico all boys (buenos aires)
+12031,2015,crucero del norte,1,0,all boys (buenos aires)
 12032,2015,c y biblioteca ramon santamarina,0,2,cs independiente rivadavia
 12033,2015,ca patronato dl juventud catolica,3,0,club atletico sarmiento
 12034,2015,club atletico huracan,2,1,club atletico tucuman soc civ
-12035,2015,club atletico all boys (buenos aires),2,2,club atletico union (santa fe)
+12035,2015,all boys (buenos aires),2,2,club atletico union (santa fe)
 12036,2015,club atletico sarmiento,2,0,club sportivo belgrano
 12037,2015,club atletico temperley,2,0,c y biblioteca ramon santamarina
 12038,2015,cs independiente rivadavia,2,1,crucero del norte
@@ -12046,10 +12046,10 @@ id,year,team1,score1,score2,team2
 12044,2015,ca patronato dl juventud catolica,1,1,club atletico tucuman soc civ
 12045,2015,club atletico huracan,0,2,crucero del norte
 12046,2015,club atletico sarmiento,2,2,c y biblioteca ramon santamarina
-12047,2015,cs independiente rivadavia,0,0,club atletico all boys (buenos aires)
+12047,2015,cs independiente rivadavia,0,0,all boys (buenos aires)
 12048,2015,club atletico temperley,1,1,club atletico union (santa fe)
 12049,2015,crucero del norte,0,0,club atletico sarmiento
-12050,2015,club atletico all boys (buenos aires),0,0,club atletico temperley
+12050,2015,all boys (buenos aires),0,0,club atletico temperley
 12051,2015,club atletico tucuman soc civ,3,1,club sportivo belgrano
 12052,2015,c y biblioteca ramon santamarina,0,0,ca patronato dl juventud catolica
 12053,2015,club atletico union (santa fe),3,0,club atletico huracan
@@ -12057,33 +12057,33 @@ id,year,team1,score1,score2,team2
 12055,2015,club atletico temperley,1,0,cs independiente rivadavia
 12056,2015,club sportivo belgrano,0,3,c y biblioteca ramon santamarina
 12057,2015,ca patronato dl juventud catolica,0,1,crucero del norte
-12058,2015,club atletico huracan,0,1,club atletico all boys (buenos aires)
+12058,2015,club atletico huracan,0,1,all boys (buenos aires)
 12059,2015,crucero del norte,1,0,club sportivo belgrano
 12060,2015,c y biblioteca ramon santamarina,1,0,club atletico tucuman soc civ
-12061,2015,club atletico all boys (buenos aires),1,0,club atletico sarmiento
+12061,2015,all boys (buenos aires),1,0,club atletico sarmiento
 12062,2015,club atletico union (santa fe),0,0,ca patronato dl juventud catolica
 12063,2015,cs independiente rivadavia,1,1,club atletico huracan
 12064,2015,crucero del norte,1,1,club atletico tucuman soc civ
 12065,2015,club atletico temperley,0,2,club atletico huracan
 12066,2015,club atletico union (santa fe),2,1,club sportivo belgrano
 12067,2015,cs independiente rivadavia,0,2,club atletico sarmiento
-12068,2015,club atletico all boys (buenos aires),1,1,ca patronato dl juventud catolica
+12068,2015,all boys (buenos aires),1,1,ca patronato dl juventud catolica
 12069,2015,c y biblioteca ramon santamarina,0,1,crucero del norte
 12070,2015,club atletico sarmiento,3,0,club atletico temperley
 12071,2015,ca patronato dl juventud catolica,1,0,cs independiente rivadavia
 12072,2015,club atletico tucuman soc civ,0,1,club atletico union (santa fe)
-12073,2015,club sportivo belgrano,1,0,club atletico all boys (buenos aires)
-12074,2015,club atletico all boys (buenos aires),1,0,club atletico tucuman soc civ
+12073,2015,club sportivo belgrano,1,0,all boys (buenos aires)
+12074,2015,all boys (buenos aires),1,0,club atletico tucuman soc civ
 12075,2015,club atletico union (santa fe),2,0,c y biblioteca ramon santamarina
 12076,2015,cs independiente rivadavia,3,1,club sportivo belgrano
 12077,2015,club atletico huracan,2,2,club atletico sarmiento
 12078,2015,club atletico temperley,1,0,ca patronato dl juventud catolica
 12079,2015,club atletico tucuman soc civ,1,0,cs independiente rivadavia
-12080,2015,c y biblioteca ramon santamarina,3,1,club atletico all boys (buenos aires)
+12080,2015,c y biblioteca ramon santamarina,3,1,all boys (buenos aires)
 12081,2015,crucero del norte,0,1,club atletico union (santa fe)
 12082,2015,ca patronato dl juventud catolica,2,0,club atletico huracan
 12083,2015,club sportivo belgrano,0,3,club atletico temperley
-12084,2015,club atletico all boys (buenos aires),1,0,crucero del norte
+12084,2015,all boys (buenos aires),1,0,crucero del norte
 12085,2015,cs independiente rivadavia,1,2,c y biblioteca ramon santamarina
 12086,2015,club atletico huracan,0,3,club sportivo belgrano
 12087,2015,club atletico sarmiento,1,0,ca patronato dl juventud catolica
@@ -12091,7 +12091,7 @@ id,year,team1,score1,score2,team2
 12089,2015,crucero del norte,2,0,cs independiente rivadavia
 12090,2015,c y biblioteca ramon santamarina,3,1,club atletico temperley
 12091,2015,club atletico tucuman soc civ,1,2,club atletico huracan
-12092,2015,club atletico union (santa fe),2,0,club atletico all boys (buenos aires)
+12092,2015,club atletico union (santa fe),2,0,all boys (buenos aires)
 12093,2015,club sportivo belgrano,1,1,club atletico sarmiento
 12094,2015,ca patronato dl juventud catolica,2,0,club sportivo belgrano
 12095,2015,club atletico sarmiento,3,2,club atletico tucuman soc civ
@@ -12099,7 +12099,7 @@ id,year,team1,score1,score2,team2
 12097,2015,club atletico huracan,3,0,c y biblioteca ramon santamarina
 12098,2015,club atletico temperley,2,1,crucero del norte
 12099,2015,crucero del norte,0,1,club atletico huracan
-12100,2015,club atletico all boys (buenos aires),0,1,cs independiente rivadavia
+12100,2015,all boys (buenos aires),0,1,cs independiente rivadavia
 12101,2015,club atletico union (santa fe),2,0,club atletico temperley
 12102,2015,c y biblioteca ramon santamarina,0,2,club atletico sarmiento
 12103,2015,club atletico tucuman soc civ,0,0,ca patronato dl juventud catolica
@@ -12107,15 +12107,15 @@ id,year,team1,score1,score2,team2
 12105,2015,ca patronato dl juventud catolica,1,2,c y biblioteca ramon santamarina
 12106,2015,club atletico huracan,1,2,club atletico union (santa fe)
 12107,2015,club sportivo belgrano,1,2,club atletico tucuman soc civ
-12108,2015,club atletico temperley,3,1,club atletico all boys (buenos aires)
+12108,2015,club atletico temperley,3,1,all boys (buenos aires)
 12109,2015,c y biblioteca ramon santamarina,0,0,club sportivo belgrano
 12110,2015,crucero del norte,3,0,ca patronato dl juventud catolica
 12111,2015,club atletico union (santa fe),0,0,club atletico sarmiento
 12112,2015,cs independiente rivadavia,3,1,club atletico temperley
-12113,2015,club atletico all boys (buenos aires),0,3,club atletico huracan
+12113,2015,all boys (buenos aires),0,3,club atletico huracan
 12114,2015,ca patronato dl juventud catolica,1,3,club atletico union (santa fe)
 12115,2015,club sportivo belgrano,0,2,crucero del norte
-12116,2015,club atletico sarmiento,0,1,club atletico all boys (buenos aires)
+12116,2015,club atletico sarmiento,0,1,all boys (buenos aires)
 12117,2015,club atletico huracan,4,0,cs independiente rivadavia
 12118,2015,club atletico tucuman soc civ,4,1,c y biblioteca ramon santamarina
 12119,2015,club atletico huracan,4,1,club atletico tucuman soc civ
