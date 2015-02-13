@@ -75,33 +75,52 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
     return matches
 
 
-def get_team_stats(recent_years):
+def get_team_stats_by_year(recent_years):
     """Create a dataframe with useful stats for each team+year combination."""
-    matches = get_matches()
+    all_matches = get_matches()
 
-    teams = set(matches.team1.unique()).union(matches.team2.unique())
+    teams = set(all_matches.team1.unique()).union(all_matches.team2.unique())
 
-    stats = pd.DataFrame(list(teams), columns=['team'])
+    years = list(all_matches.year.unique())
+    years.append('all_time')
 
-    stats = stats.set_index('team')
+    # for each year, calculate stats of the "recent" past (as much as
+    # recent_years)
+    # except for the "all_time" year, which calculates stats for all time
 
-    for team in teams:
-        team_matches = matches[(matches.team1 == team) |
-                               (matches.team2 == team)]
-        stats.loc[team, 'matches_played_all_time'] = len(team_matches)
+    stats = pd.DataFrame([(team_year_key(team, year), team, year)
+                          for year in years
+                          for team in teams],
+                         columns=('team-year', 'team', 'year'))
+    stats = stats.set_index('team-year')
 
-        # wins where the team was on the left side (team1)
-        wins1 = team_matches[(team_matches.team1 == team) &
-                             (team_matches.score1 > team_matches.score2)]
-        # wins where the team was on the right side (team2)
-        wins2 = team_matches[(team_matches.team2 == team) &
-                             (team_matches.score2 > team_matches.score1)]
+    for year in years:
+        if year == 'all_time':
+            matches = all_matches
+        else:
+            matches = all_matches[(all_matches.year < year) &
+                                  (all_matches.year >= year - recent_years)]
 
-        stats.loc[team, 'matches_won_all_time'] = len(wins1) + len(wins2)
+        for team in teams:
+            team_year = team_year_key(team, year)
 
-        stats.loc[team, 'years_played'] = len(team_matches.year.unique())
+            team_matches = matches[(matches.team1 == team) |
+                                   (matches.team2 == team)]
+            stats.loc[team_year, 'matches_played'] = len(team_matches)
 
-    stats['matches_won_percent_all_time'] = stats['matches_won_all_time'] / stats['matches_played_all_time'] * 100.0
+            # wins where the team was on the left side (team1)
+            wins1 = team_matches[(team_matches.team1 == team) &
+                                 (team_matches.score1 > team_matches.score2)]
+            # wins where the team was on the right side (team2)
+            wins2 = team_matches[(team_matches.team2 == team) &
+                                 (team_matches.score2 > team_matches.score1)]
+
+            stats.loc[team_year, 'matches_won'] = len(wins1) + len(wins2)
+
+            # no sense in all but the "all_time" year
+            stats.loc[team_year, 'years_played'] = len(team_matches.year.unique())
+
+    stats['matches_won_percent'] = stats['matches_won'] / stats['matches_played'] * 100.0
 
     return stats
 
