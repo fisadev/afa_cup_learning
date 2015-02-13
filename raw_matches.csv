@@ -8090,14 +8090,14 @@ id,year,team1,score1,score2,team2
 8088,2010,river plate,1,5,tigre
 8089,2010,huracan,1,2,argentinos juniors
 8090,2010,colon,1,4,estudiantes lp
-8091,2010,all boys,1,1,rosario central
+8091,2010,all boys (buenos aires),1,1,rosario central
 8092,2010,atletico de rafaela,1,0,gimnasia y esgrima (lp)
-8093,2010,rosario central,0,3,all boys
+8093,2010,rosario central,0,3,all boys (buenos aires)
 8094,2010,gimnasia y esgrima (lp),3,1,atletico de rafaela
 8095,2011,arsenal,1,2,lanus
 8096,2011,newell's old boys,0,1,estudiantes
 8097,2011,quilmes,1,1,colon
-8098,2011,racing club,1,0,all boys
+8098,2011,racing club,1,0,all boys (buenos aires)
 8099,2011,argentinos juniors,1,2,huracan
 8100,2011,banfield,2,1,olimpo
 8101,2011,godoy cruz,1,1,boca juniors
@@ -8110,7 +8110,7 @@ id,year,team1,score1,score2,team2
 8108,2011,lanus,1,1,newell's old boys
 8109,2011,tigre,1,2,arsenal
 8110,2011,huracan,0,1,river plate
-8111,2011,all boys,1,2,velez sarsfield
+8111,2011,all boys (buenos aires),1,2,velez sarsfield
 8112,2011,olimpo,1,0,gimnasia y esgrima
 8113,2011,estudiantes,2,0,quilmes
 8114,2011,independiente,1,1,argentinos juniors
@@ -8120,7 +8120,7 @@ id,year,team1,score1,score2,team2
 8118,2011,velez sarsfield,2,0,argentinos juniors
 8119,2011,godoy cruz,1,0,olimpo
 8120,2011,racing club,1,2,san lorenzo de almagro
-8121,2011,all boys,2,0,boca juniors
+8121,2011,all boys (buenos aires),2,0,boca juniors
 8122,2011,river plate,3,2,independiente
 8123,2011,arsenal,2,0,huracan
 8124,2011,gimnasia y esgrima,0,0,colon
@@ -8128,7 +8128,7 @@ id,year,team1,score1,score2,team2
 8126,2011,colon,1,3,godoy cruz
 8127,2011,lanus,0,0,banfield
 8128,2011,tigre,3,0,quilmes
-8129,2011,san lorenzo de almagro,3,1,all boys
+8129,2011,san lorenzo de almagro,3,1,all boys (buenos aires)
 8130,2011,independiente,1,2,arsenal
 8131,2011,argentinos juniors,0,0,river plate
 8132,2011,boca juniors,2,1,velez sarsfield
@@ -8136,7 +8136,7 @@ id,year,team1,score1,score2,team2
 8134,2011,estudiantes,2,0,gimnasia y esgrima
 8135,2011,godoy cruz,1,2,estudiantes
 8136,2011,racing club,1,2,colon
-8137,2011,all boys,1,0,olimpo
+8137,2011,all boys (buenos aires),1,0,olimpo
 8138,2011,boca juniors,1,2,san lorenzo de almagro
 8139,2011,arsenal,1,0,argentinos juniors
 8140,2011,newell's old boys,1,1,independiente
@@ -8145,7 +8145,7 @@ id,year,team1,score1,score2,team2
 8143,2011,banfield,1,1,tigre
 8144,2011,gimnasia y esgrima,0,2,lanus
 8145,2011,tigre,2,0,gimnasia y esgrima
-8146,2011,colon,1,1,all boys
+8146,2011,colon,1,1,all boys (buenos aires)
 8147,2011,estudiantes,2,0,racing club
 8148,2011,san lorenzo de almagro,0,0,velez sarsfield
 8149,2011,lanus,1,4,godoy cruz
@@ -8160,7 +8160,7 @@ id,year,team1,score1,score2,team2
 8158,2011,san lorenzo de almagro,3,1,olimpo
 8159,2011,quilmes,2,2,argentinos juniors
 8160,2011,godoy cruz,1,2,tigre
-8161,2011,all boys,2,1,estudiantes
+8161,2011,all boys (buenos aires),2,1,estudiantes
 8162,2011,banfield,4,0,independiente
 8163,2011,newell's old boys,1,0,river plate
 8164,2011,boca juniors,3,1,colon
@@ -8169,7 +8169,7 @@ id,year,team1,score1,score2,team2
 8167,2011,argentinos juniors,1,0,banfield
 8168,2011,colon,2,0,san lorenzo de almagro
 8169,2011,estudiantes,1,0,boca juniors
-8170,2011,lanus,1,0,all boys
+8170,2011,lanus,1,0,all boys (buenos aires)
 8171,2011,huracan,1,1,godoy cruz
 8172,2011,river plate,1,1,quilmes
 8173,2011,arsenal,0,0,newell's old boys
@@ -8177,7 +8177,7 @@ id,year,team1,score1,score2,team2
 8175,2011,newell's old boys,2,0,velez sarsfield
 8176,2011,quilmes,0,1,arsenal
 8177,2011,racing club,3,0,huracan
-8178,2011,all boys,3,3,tigre
+8178,2011,all boys (buenos aires),3,3,tigre
 8179,2011,godoy cruz,4,1,independiente
 8180,2011,gimnasia y esgrima,2,4,argentinos juniors
 8181,2011,boca juniors,1,2,lanus
@@ -8186,7 +8186,7 @@ id,year,team1,score1,score2,team2
 8184,2011,banfield,2,2,river plate
 8185,2011,estudiantes,2,0,olimpo
 8186,2011,arsenal,1,0,banfield
-8187,2011,huracan,1,1,all boys
+8187,2011,huracan,1,1,all boys (buenos aires)
 8188,2011,lanus,2,0,san lorenzo de almagro
 8189,2011,argentinos juniors,0,0,godoy cruz
 8190,2011,newell's old boys,1,1,quilmes
@@ -8196,7 +8196,7 @@ id,year,team1,score1,score2,team2
 8194,2011,river plate,0,0,gimnasia y esgrima
 8195,2011,san lorenzo de almagro,2,0,tigre
 8196,2011,quilmes,0,2,velez sarsfield
-8197,2011,all boys,3,1,independiente
+8197,2011,all boys (buenos aires),3,1,independiente
 8198,2011,colon,1,1,estudiantes
 8199,2011,banfield,0,0,newell's old boys
 8200,2011,gimnasia y esgrima,2,3,arsenal
@@ -8206,7 +8206,7 @@ id,year,team1,score1,score2,team2
 8204,2011,olimpo,1,0,lanus
 8205,2011,velez sarsfield,0,0,estudiantes
 8206,2011,arsenal,1,3,godoy cruz
-8207,2011,argentinos juniors,1,0,all boys
+8207,2011,argentinos juniors,1,0,all boys (buenos aires)
 8208,2011,river plate,1,1,racing club
 8209,2011,quilmes,0,2,banfield
 8210,2011,lanus,1,2,colon
@@ -8220,13 +8220,13 @@ id,year,team1,score1,score2,team2
 8218,2011,racing club,2,2,arsenal
 8219,2011,boca juniors,0,2,argentinos juniors
 8220,2011,gimnasia y esgrima,1,0,quilmes
-8221,2011,all boys,1,0,river plate
+8221,2011,all boys (buenos aires),1,0,river plate
 8222,2011,san lorenzo de almagro,1,1,independiente
 8223,2011,colon,1,0,tigre
 8224,2011,banfield,2,3,velez sarsfield
 8225,2011,huracan,1,2,colon
 8226,2011,banfield,0,0,gimnasia y esgrima
-8227,2011,arsenal,0,0,all boys
+8227,2011,arsenal,0,0,all boys (buenos aires)
 8228,2011,tigre,2,1,estudiantes
 8229,2011,independiente,1,1,olimpo
 8230,2011,argentinos juniors,1,0,san lorenzo de almagro
@@ -8235,7 +8235,7 @@ id,year,team1,score1,score2,team2
 8233,2011,quilmes,2,1,godoy cruz
 8234,2011,river plate,1,0,boca juniors
 8235,2011,godoy cruz,2,1,banfield
-8236,2011,all boys,2,0,newell's old boys
+8236,2011,all boys (buenos aires),2,0,newell's old boys
 8237,2011,estudiantes,2,0,huracan
 8238,2011,racing club,1,1,quilmes
 8239,2011,boca juniors,2,1,arsenal
@@ -8246,7 +8246,7 @@ id,year,team1,score1,score2,team2
 8244,2011,lanus,2,0,tigre
 8245,2011,arsenal,2,1,san lorenzo de almagro
 8246,2011,gimnasia y esgrima,1,3,godoy cruz
-8247,2011,quilmes,2,1,all boys
+8247,2011,quilmes,2,1,all boys (buenos aires)
 8248,2011,banfield,1,2,racing club
 8249,2011,independiente,1,2,estudiantes
 8250,2011,river plate,1,0,olimpo
@@ -8256,7 +8256,7 @@ id,year,team1,score1,score2,team2
 8254,2011,velez sarsfield,2,1,tigre
 8255,2011,olimpo,1,1,arsenal
 8256,2011,racing club,2,0,gimnasia y esgrima
-8257,2011,all boys,2,1,banfield
+8257,2011,all boys (buenos aires),2,1,banfield
 8258,2011,colon,1,2,river plate
 8259,2011,estudiantes,3,1,argentinos juniors
 8260,2011,godoy cruz,0,4,velez sarsfield
@@ -8265,7 +8265,7 @@ id,year,team1,score1,score2,team2
 8263,2011,lanus,0,0,independiente
 8264,2011,tigre,3,1,huracan
 8265,2011,arsenal,2,1,colon
-8266,2011,gimnasia y esgrima,3,1,all boys
+8266,2011,gimnasia y esgrima,3,1,all boys (buenos aires)
 8267,2011,godoy cruz,1,1,racing club
 8268,2011,river plate,0,4,estudiantes
 8269,2011,velez sarsfield,2,0,huracan
@@ -8274,7 +8274,7 @@ id,year,team1,score1,score2,team2
 8272,2011,quilmes,1,0,san lorenzo de almagro
 8273,2011,banfield,0,0,boca juniors
 8274,2011,independiente,0,1,tigre
-8275,2011,all boys,2,2,godoy cruz
+8275,2011,all boys (buenos aires),2,2,godoy cruz
 8276,2011,racing club,0,2,velez sarsfield
 8277,2011,san lorenzo de almagro,2,1,banfield
 8278,2011,colon,1,0,newell's old boys
@@ -8289,7 +8289,7 @@ id,year,team1,score1,score2,team2
 8287,2011,colon,2,0,quilmes
 8288,2011,san lorenzo de almagro,1,1,gimnasia y esgrima
 8289,2011,olimpo,2,1,banfield
-8290,2011,all boys,0,1,racing club
+8290,2011,all boys (buenos aires),0,1,racing club
 8291,2011,boca juniors,1,4,godoy cruz
 8292,2011,tigre,0,0,river plate
 8293,2011,lanus,3,1,arsenal
@@ -8298,7 +8298,7 @@ id,year,team1,score1,score2,team2
 8296,2011,banfield,1,1,colon
 8297,2011,argentinos juniors,0,0,independiente
 8298,2011,newell's old boys,2,1,lanus
-8299,2011,velez sarsfield,1,2,all boys
+8299,2011,velez sarsfield,1,2,all boys (buenos aires)
 8300,2011,quilmes,0,1,estudiantes
 8301,2011,river plate,2,0,huracan
 8302,2011,racing club,0,1,boca juniors
@@ -8308,13 +8308,13 @@ id,year,team1,score1,score2,team2
 8306,2011,colon,1,3,gimnasia y esgrima
 8307,2011,san lorenzo de almagro,1,2,racing club
 8308,2011,lanus,2,1,quilmes
-8309,2011,boca juniors,0,0,all boys
+8309,2011,boca juniors,0,0,all boys (buenos aires)
 8310,2011,estudiantes,0,1,banfield
 8311,2011,argentinos juniors,1,1,velez sarsfield
 8312,2011,independiente,0,1,river plate
 8313,2011,huracan,1,1,arsenal
 8314,2011,tigre,1,0,newell's old boys
-8315,2011,all boys,0,3,san lorenzo de almagro
+8315,2011,all boys (buenos aires),0,3,san lorenzo de almagro
 8316,2011,newell's old boys,3,3,huracan
 8317,2011,racing club,4,3,olimpo
 8318,2011,gimnasia y esgrima,0,2,estudiantes
@@ -8324,7 +8324,7 @@ id,year,team1,score1,score2,team2
 8322,2011,banfield,2,1,lanus
 8323,2011,quilmes,1,2,tigre
 8324,2011,arsenal,3,0,independiente
-8325,2011,olimpo,1,0,all boys
+8325,2011,olimpo,1,0,all boys (buenos aires)
 8326,2011,tigre,1,2,banfield
 8327,2011,san lorenzo de almagro,1,0,boca juniors
 8328,2011,argentinos juniors,1,0,arsenal
@@ -8336,7 +8336,7 @@ id,year,team1,score1,score2,team2
 8334,2011,huracan,2,1,quilmes
 8335,2011,quilmes,1,1,independiente
 8336,2011,arsenal,1,1,river plate
-8337,2011,all boys,0,2,colon
+8337,2011,all boys (buenos aires),0,2,colon
 8338,2011,godoy cruz,2,0,lanus
 8339,2011,boca juniors,0,2,olimpo
 8340,2011,newell's old boys,0,2,argentinos juniors
@@ -8344,7 +8344,7 @@ id,year,team1,score1,score2,team2
 8342,2011,gimnasia y esgrima,2,1,tigre
 8343,2011,banfield,2,2,huracan
 8344,2011,velez sarsfield,2,0,san lorenzo de almagro
-8345,2011,estudiantes,3,0,all boys
+8345,2011,estudiantes,3,0,all boys (buenos aires)
 8346,2011,argentinos juniors,0,0,quilmes
 8347,2011,lanus,4,1,racing club
 8348,2011,river plate,2,1,newell's old boys
@@ -8356,7 +8356,7 @@ id,year,team1,score1,score2,team2
 8354,2011,independiente,1,1,banfield
 8355,2011,gimnasia y esgrima,1,2,independiente
 8356,2011,banfield,0,2,argentinos juniors
-8357,2011,all boys,0,0,lanus
+8357,2011,all boys (buenos aires),0,0,lanus
 8358,2011,olimpo,1,2,velez sarsfield
 8359,2011,newell's old boys,2,2,arsenal
 8360,2011,racing club,1,2,tigre
@@ -8371,12 +8371,12 @@ id,year,team1,score1,score2,team2
 8369,2011,arsenal,2,2,quilmes
 8370,2011,river plate,1,0,banfield
 8371,2011,argentinos juniors,1,1,gimnasia y esgrima
-8372,2011,tigre,0,1,all boys
+8372,2011,tigre,0,1,all boys (buenos aires)
 8373,2011,velez sarsfield,2,0,newell's old boys
 8374,2011,lanus,2,0,boca juniors
 8375,2011,quilmes,3,1,newell's old boys
 8376,2011,san lorenzo de almagro,1,1,lanus
-8377,2011,all boys,3,1,huracan
+8377,2011,all boys (buenos aires),3,1,huracan
 8378,2011,racing club,2,0,independiente
 8379,2011,godoy cruz,1,0,argentinos juniors
 8380,2011,olimpo,2,2,estudiantes
@@ -8385,7 +8385,7 @@ id,year,team1,score1,score2,team2
 8383,2011,boca juniors,3,3,tigre
 8384,2011,banfield,1,0,arsenal
 8385,2011,velez sarsfield,2,3,quilmes
-8386,2011,independiente,2,2,all boys
+8386,2011,independiente,2,2,all boys (buenos aires)
 8387,2011,river plate,1,2,godoy cruz
 8388,2011,estudiantes,0,2,colon
 8389,2011,newell's old boys,0,1,banfield
@@ -8398,7 +8398,7 @@ id,year,team1,score1,score2,team2
 8396,2011,banfield,3,4,quilmes
 8397,2011,estudiantes,0,4,velez sarsfield
 8398,2011,racing club,0,1,river plate
-8399,2011,all boys,0,0,argentinos juniors
+8399,2011,all boys (buenos aires),0,0,argentinos juniors
 8400,2011,san lorenzo de almagro,3,0,huracan
 8401,2011,godoy cruz,1,4,arsenal
 8402,2011,colon,0,1,lanus
@@ -8411,20 +8411,20 @@ id,year,team1,score1,score2,team2
 8409,2011,arsenal,1,2,racing club
 8410,2011,argentinos juniors,0,2,boca juniors
 8411,2011,lanus,0,0,estudiantes
-8412,2011,river plate,0,2,all boys
+8412,2011,river plate,0,2,all boys (buenos aires)
 8413,2011,independiente,1,1,san lorenzo de almagro
 8414,2011,velez sarsfield,2,0,banfield
 8415,2011,colon,3,0,huracan
 8416,2011,godoy cruz,2,0,quilmes
 8417,2011,gimnasia y esgrima,2,0,banfield
 8418,2011,san lorenzo de almagro,1,2,argentinos juniors
-8419,2011,all boys,1,0,arsenal
+8419,2011,all boys (buenos aires),1,0,arsenal
 8420,2011,racing club,3,0,newell's old boys
 8421,2011,olimpo,1,2,independiente
 8422,2011,lanus,3,2,velez sarsfield
 8423,2011,boca juniors,2,0,river plate
 8424,2011,estudiantes,2,2,tigre
-8425,2011,newell's old boys,1,0,all boys
+8425,2011,newell's old boys,1,0,all boys (buenos aires)
 8426,2011,banfield,1,1,godoy cruz
 8427,2011,tigre,0,3,lanus
 8428,2011,argentinos juniors,0,1,olimpo
@@ -8436,7 +8436,7 @@ id,year,team1,score1,score2,team2
 8434,2011,huracan,0,3,estudiantes
 8435,2011,colon,1,2,argentinos juniors
 8436,2011,san lorenzo de almagro,1,1,arsenal
-8437,2011,all boys,1,0,quilmes
+8437,2011,all boys (buenos aires),1,0,quilmes
 8438,2011,racing club,1,3,banfield
 8439,2011,boca juniors,1,0,newell's old boys
 8440,2011,tigre,2,1,velez sarsfield
@@ -8445,7 +8445,7 @@ id,year,team1,score1,score2,team2
 8443,2011,lanus,3,0,huracan
 8444,2011,godoy cruz,2,2,gimnasia y esgrima
 8445,2011,arsenal,2,0,olimpo
-8446,2011,banfield,3,1,all boys
+8446,2011,banfield,3,1,all boys (buenos aires)
 8447,2011,gimnasia y esgrima,0,0,racing club
 8448,2011,huracan,3,2,tigre
 8449,2011,river plate,1,1,colon
@@ -8458,13 +8458,13 @@ id,year,team1,score1,score2,team2
 8456,2011,colon,0,1,arsenal
 8457,2011,tigre,0,0,independiente
 8458,2011,san lorenzo de almagro,0,2,quilmes
-8459,2011,all boys,1,0,gimnasia y esgrima
+8459,2011,all boys (buenos aires),1,0,gimnasia y esgrima
 8460,2011,boca juniors,1,1,banfield
 8461,2011,estudiantes,1,1,river plate
 8462,2011,lanus,0,1,argentinos juniors
 8463,2011,huracan,0,2,velez sarsfield
 8464,2011,racing club,2,3,godoy cruz
-8465,2011,godoy cruz,1,0,all boys
+8465,2011,godoy cruz,1,0,all boys (buenos aires)
 8466,2011,independiente,5,1,huracan
 8467,2011,gimnasia y esgrima,2,2,boca juniors
 8468,2011,quilmes,0,1,olimpo
@@ -8867,7 +8867,7 @@ id,year,team1,score1,score2,team2
 8865,2012,union (santa fe),1,1,argentinos juniors
 8866,2012,godoy cruz at,1,1,velez sarsfield
 8867,2012,arsenal,1,2,colon (santa fe)
-8868,2012,all boys,1,1,belgrano (cba)
+8868,2012,all boys (buenos aires),1,1,belgrano (cba)
 8869,2012,tigre,1,1,racing club
 8870,2012,olimpo,0,0,boca juniors
 8871,2012,newell's old boys,0,0,estudiantes lp
@@ -8881,7 +8881,7 @@ id,year,team1,score1,score2,team2
 8879,2012,lanus,1,0,independiente
 8880,2012,argentinos juniors,1,1,newell's old boys
 8881,2012,belgrano (cba),1,1,olimpo
-8882,2012,colon (santa fe),1,1,all boys
+8882,2012,colon (santa fe),1,1,all boys (buenos aires)
 8883,2012,racing club,3,0,godoy cruz at
 8884,2012,arsenal,0,1,velez sarsfield
 8885,2012,san lorenzo,3,1,argentinos juniors
@@ -8889,7 +8889,7 @@ id,year,team1,score1,score2,team2
 8887,2012,san martin (san juan),0,0,lanus
 8888,2012,tigre,2,1,godoy cruz at
 8889,2012,banfield,0,1,racing club
-8890,2012,all boys,1,2,atletico rafaela
+8890,2012,all boys (buenos aires),1,2,atletico rafaela
 8891,2012,newell's old boys,0,1,boca juniors
 8892,2012,olimpo,0,1,colon (santa fe)
 8893,2012,union (santa fe),0,0,belgrano (cba)
@@ -8898,7 +8898,7 @@ id,year,team1,score1,score2,team2
 8896,2012,godoy cruz at,1,0,banfield
 8897,2012,lanus,0,0,tigre
 8898,2012,atletico rafaela,3,1,olimpo
-8899,2012,velez sarsfield,0,1,all boys
+8899,2012,velez sarsfield,0,1,all boys (buenos aires)
 8900,2012,argentinos juniors,0,0,independiente
 8901,2012,boca juniors,1,1,san lorenzo
 8902,2012,belgrano (cba),2,3,newell's old boys
@@ -8907,7 +8907,7 @@ id,year,team1,score1,score2,team2
 8905,2012,newell's old boys,0,0,colon (santa fe)
 8906,2012,san lorenzo,0,1,belgrano (cba)
 8907,2012,arsenal,1,2,godoy cruz at
-8908,2012,all boys,0,0,racing club
+8908,2012,all boys (buenos aires),0,0,racing club
 8909,2012,lanus,2,1,estudiantes lp
 8910,2012,olimpo,2,1,velez sarsfield
 8911,2012,union (santa fe),0,1,atletico rafaela
@@ -8917,7 +8917,7 @@ id,year,team1,score1,score2,team2
 8915,2012,atletico rafaela,0,0,newell's old boys
 8916,2012,estudiantes lp,1,3,tigre
 8917,2012,racing club,1,0,olimpo
-8918,2012,godoy cruz at,6,1,all boys
+8918,2012,godoy cruz at,6,1,all boys (buenos aires)
 8919,2012,boca juniors,1,0,san martin (san juan)
 8920,2012,belgrano (cba),2,0,independiente
 8921,2012,velez sarsfield,0,1,union (santa fe)
@@ -8927,7 +8927,7 @@ id,year,team1,score1,score2,team2
 8925,2012,independiente,0,1,colon (santa fe)
 8926,2012,san martin (san juan),0,1,belgrano (cba)
 8927,2012,tigre,2,2,arsenal
-8928,2012,all boys,0,1,banfield
+8928,2012,all boys (buenos aires),0,1,banfield
 8929,2012,san lorenzo,1,3,atletico rafaela
 8930,2012,union (santa fe),1,1,racing club
 8931,2012,newell's old boys,1,1,velez sarsfield
@@ -8935,7 +8935,7 @@ id,year,team1,score1,score2,team2
 8933,2012,estudiantes lp,4,3,argentinos juniors
 8934,2012,colon (santa fe),0,0,san martin (san juan)
 8935,2012,banfield,1,1,olimpo
-8936,2012,arsenal,1,2,all boys
+8936,2012,arsenal,1,2,all boys (buenos aires)
 8937,2012,belgrano (cba),0,0,lanus
 8938,2012,atletico rafaela,1,3,independiente
 8939,2012,velez sarsfield,1,2,san lorenzo
@@ -8945,7 +8945,7 @@ id,year,team1,score1,score2,team2
 8943,2012,godoy cruz at,1,1,union (santa fe)
 8944,2012,olimpo,2,2,arsenal
 8945,2012,san martin (san juan),2,1,atletico rafaela
-8946,2012,tigre,1,1,all boys
+8946,2012,tigre,1,1,all boys (buenos aires)
 8947,2012,san lorenzo,0,0,racing club
 8948,2012,independiente,0,1,velez sarsfield
 8949,2012,estudiantes lp,2,3,belgrano (cba)
@@ -8959,14 +8959,14 @@ id,year,team1,score1,score2,team2
 8957,2012,boca juniors,1,0,tigre
 8958,2012,colon (santa fe),1,1,estudiantes lp
 8959,2012,racing club,1,1,independiente
-8960,2012,all boys,1,2,olimpo
+8960,2012,all boys (buenos aires),1,2,olimpo
 8961,2012,godoy cruz at,2,0,san lorenzo
 8962,2012,banfield,2,0,newell's old boys
 8963,2012,arsenal,2,1,union (santa fe)
 8964,2012,olimpo,1,1,tigre
 8965,2012,newell's old boys,0,0,arsenal
 8966,2012,san lorenzo,1,0,banfield
-8967,2012,union (santa fe),1,1,all boys
+8967,2012,union (santa fe),1,1,all boys (buenos aires)
 8968,2012,independiente,2,1,godoy cruz at
 8969,2012,san martin (san juan),0,0,racing club
 8970,2012,lanus,1,2,velez sarsfield
@@ -8974,7 +8974,7 @@ id,year,team1,score1,score2,team2
 8972,2012,argentinos juniors,0,0,colon (santa fe)
 8973,2012,boca juniors,0,0,belgrano (cba)
 8974,2012,banfield,3,0,independiente
-8975,2012,all boys,1,1,newell's old boys
+8975,2012,all boys (buenos aires),1,1,newell's old boys
 8976,2012,olimpo,0,1,union (santa fe)
 8977,2012,colon (santa fe),0,2,boca juniors
 8978,2012,atletico rafaela,3,1,argentinos juniors
@@ -8992,9 +8992,9 @@ id,year,team1,score1,score2,team2
 8990,2012,union (santa fe),1,1,tigre
 8991,2012,san martin (san juan),2,1,banfield
 8992,2012,estudiantes lp,0,0,racing club
-8993,2012,san lorenzo,0,1,all boys
+8993,2012,san lorenzo,0,1,all boys (buenos aires)
 8994,2012,atletico rafaela,0,0,belgrano (cba)
-8995,2012,all boys,2,2,independiente
+8995,2012,all boys (buenos aires),2,2,independiente
 8996,2012,olimpo,1,1,san lorenzo
 8997,2012,tigre,2,1,colon (santa fe)
 8998,2012,racing club,1,0,argentinos juniors
@@ -9004,7 +9004,7 @@ id,year,team1,score1,score2,team2
 9002,2012,union (santa fe),2,1,newell's old boys
 9003,2012,arsenal,2,0,san martin (san juan)
 9004,2012,newell's old boys,0,1,tigre
-9005,2012,san martin (san juan),0,0,all boys
+9005,2012,san martin (san juan),0,0,all boys (buenos aires)
 9006,2012,independiente,3,0,olimpo
 9007,2012,argentinos juniors,1,0,godoy cruz at
 9008,2012,belgrano (cba),1,3,velez sarsfield
@@ -9015,7 +9015,7 @@ id,year,team1,score1,score2,team2
 9013,2012,estudiantes lp,2,1,banfield
 9014,2012,tigre,3,0,atletico rafaela
 9015,2012,racing club,2,3,belgrano (cba)
-9016,2012,all boys,0,0,lanus
+9016,2012,all boys (buenos aires),0,0,lanus
 9017,2012,olimpo,0,3,san martin (san juan)
 9018,2012,newell's old boys,0,0,san lorenzo
 9019,2012,velez sarsfield,1,1,colon (santa fe)
@@ -9023,7 +9023,7 @@ id,year,team1,score1,score2,team2
 9021,2012,banfield,2,2,argentinos juniors
 9022,2012,arsenal,1,2,estudiantes lp
 9023,2012,union (santa fe),0,0,independiente
-9024,2012,estudiantes lp,3,0,all boys
+9024,2012,estudiantes lp,3,0,all boys (buenos aires)
 9025,2012,argentinos juniors,2,1,arsenal
 9026,2012,san martin (san juan),2,0,union (santa fe)
 9027,2012,lanus,0,0,olimpo
@@ -9034,7 +9034,7 @@ id,year,team1,score1,score2,team2
 9032,2012,belgrano (cba),1,1,godoy cruz at
 9033,2012,san lorenzo,1,0,tigre
 9034,2012,racing club,1,0,atletico rafaela
-9035,2012,all boys,1,0,argentinos juniors
+9035,2012,all boys (buenos aires),1,0,argentinos juniors
 9036,2012,olimpo,0,0,estudiantes lp
 9037,2012,union (santa fe),0,1,lanus
 9038,2012,godoy cruz at,0,1,colon (santa fe)
@@ -9045,7 +9045,7 @@ id,year,team1,score1,score2,team2
 9043,2012,san lorenzo,0,1,independiente
 9044,2012,estudiantes lp,2,0,union (santa fe)
 9045,2012,argentinos juniors,1,0,olimpo
-9046,2012,boca juniors,1,0,all boys
+9046,2012,boca juniors,1,0,all boys (buenos aires)
 9047,2012,belgrano (cba),1,0,arsenal
 9048,2012,independiente,2,1,tigre
 9049,2012,san martin (san juan),1,0,san lorenzo
@@ -9055,7 +9055,7 @@ id,year,team1,score1,score2,team2
 9053,2012,velez sarsfield,1,0,racing club
 9054,2012,boca juniors,2,0,olimpo
 9055,2012,lanus,4,1,san lorenzo
-9056,2012,belgrano (cba),0,0,all boys
+9056,2012,belgrano (cba),0,0,all boys (buenos aires)
 9057,2012,estudiantes lp,1,1,newell's old boys
 9058,2012,san martin (san juan),1,0,independiente
 9059,2012,racing club,0,0,tigre
@@ -9066,14 +9066,14 @@ id,year,team1,score1,score2,team2
 9064,2012,olimpo,4,1,belgrano (cba)
 9065,2012,banfield,0,4,velez sarsfield
 9066,2012,newell's old boys,1,0,argentinos juniors
-9067,2012,all boys,2,0,colon (santa fe)
+9067,2012,all boys (buenos aires),2,0,colon (santa fe)
 9068,2012,arsenal,2,2,atletico rafaela
 9069,2012,independiente,0,1,lanus
 9070,2012,san lorenzo,1,1,estudiantes lp
 9071,2012,union (santa fe),0,0,boca juniors
 9072,2012,godoy cruz at,1,0,racing club
 9073,2012,tigre,3,1,san martin (san juan)
-9074,2012,atletico rafaela,0,1,all boys
+9074,2012,atletico rafaela,0,1,all boys (buenos aires)
 9075,2012,belgrano (cba),1,0,union (santa fe)
 9076,2012,colon (santa fe),3,1,olimpo
 9077,2012,argentinos juniors,0,1,san lorenzo
@@ -9087,7 +9087,7 @@ id,year,team1,score1,score2,team2
 9085,2012,banfield,1,1,godoy cruz at
 9086,2012,san martin (san juan),0,1,estudiantes lp
 9087,2012,independiente,1,3,argentinos juniors
-9088,2012,all boys,0,0,velez sarsfield
+9088,2012,all boys (buenos aires),0,0,velez sarsfield
 9089,2012,tigre,1,0,lanus
 9090,2012,san lorenzo,0,2,boca juniors
 9091,2012,union (santa fe),2,2,colon (santa fe)
@@ -9095,7 +9095,7 @@ id,year,team1,score1,score2,team2
 9093,2012,olimpo,2,1,atletico rafaela
 9094,2012,colon (santa fe),0,3,newell's old boys
 9095,2012,estudiantes lp,1,0,lanus
-9096,2012,racing club,3,0,all boys
+9096,2012,racing club,3,0,all boys (buenos aires)
 9097,2012,belgrano (cba),1,2,san lorenzo
 9098,2012,argentinos juniors,1,1,san martin (san juan)
 9099,2012,banfield,0,2,tigre
@@ -9104,7 +9104,7 @@ id,year,team1,score1,score2,team2
 9102,2012,boca juniors,4,5,independiente
 9103,2012,velez sarsfield,1,0,olimpo
 9104,2012,lanus,0,1,argentinos juniors
-9105,2012,all boys,1,1,godoy cruz at
+9105,2012,all boys (buenos aires),1,1,godoy cruz at
 9106,2012,tigre,1,1,estudiantes lp
 9107,2012,independiente,2,0,belgrano (cba)
 9108,2012,union (santa fe),3,3,velez sarsfield
@@ -9113,7 +9113,7 @@ id,year,team1,score1,score2,team2
 9111,2012,san lorenzo,1,1,colon (santa fe)
 9112,2012,newell's old boys,1,0,atletico rafaela
 9113,2012,arsenal,1,0,banfield
-9114,2012,banfield,0,0,all boys
+9114,2012,banfield,0,0,all boys (buenos aires)
 9115,2012,racing club,0,3,union (santa fe)
 9116,2012,atletico rafaela,2,1,san lorenzo
 9117,2012,belgrano (cba),1,1,san martin (san juan)
@@ -9132,10 +9132,10 @@ id,year,team1,score1,score2,team2
 9130,2012,san martin (san juan),2,2,colon (santa fe)
 9131,2012,san lorenzo,0,2,velez sarsfield
 9132,2012,newell's old boys,2,0,racing club
-9133,2012,all boys,0,2,arsenal
+9133,2012,all boys (buenos aires),0,2,arsenal
 9134,2012,arsenal,2,1,olimpo
 9135,2012,velez sarsfield,1,1,independiente
-9136,2012,all boys,2,0,tigre
+9136,2012,all boys (buenos aires),2,0,tigre
 9137,2012,banfield,2,2,union (santa fe)
 9138,2012,atletico rafaela,3,1,san martin (san juan)
 9139,2012,colon (santa fe),1,0,lanus
@@ -9147,7 +9147,7 @@ id,year,team1,score1,score2,team2
 9145,2012,san martin (san juan),1,3,velez sarsfield
 9146,2012,independiente,4,1,racing club
 9147,2012,san lorenzo,3,0,godoy cruz at
-9148,2012,olimpo,1,2,all boys
+9148,2012,olimpo,1,2,all boys (buenos aires)
 9149,2012,tigre,2,1,boca juniors
 9150,2012,argentinos juniors,0,0,belgrano (cba)
 9151,2012,newell's old boys,3,0,banfield
@@ -9158,7 +9158,7 @@ id,year,team1,score1,score2,team2
 9156,2012,atletico rafaela,3,2,estudiantes lp
 9157,2012,colon (santa fe),1,0,argentinos juniors
 9158,2012,racing club,1,0,san martin (san juan)
-9159,2012,all boys,2,1,union (santa fe)
+9159,2012,all boys (buenos aires),2,1,union (santa fe)
 9160,2012,banfield,1,1,san lorenzo
 9161,2012,godoy cruz at,0,0,independiente
 9162,2012,belgrano (cba),1,1,boca juniors
@@ -9168,7 +9168,7 @@ id,year,team1,score1,score2,team2
 9166,2012,boca juniors,1,0,colon (santa fe)
 9167,2012,san martin (san juan),1,0,godoy cruz at
 9168,2012,independiente,2,0,banfield
-9169,2012,newell's old boys,1,1,all boys
+9169,2012,newell's old boys,1,1,all boys (buenos aires)
 9170,2012,argentinos juniors,0,0,atletico rafaela
 9171,2012,san lorenzo,2,0,arsenal
 9172,2012,union (santa fe),2,0,olimpo
@@ -9178,7 +9178,7 @@ id,year,team1,score1,score2,team2
 9176,2012,arsenal,3,1,independiente
 9177,2012,velez sarsfield,0,2,argentinos juniors
 9178,2012,olimpo,1,2,newell's old boys
-9179,2012,all boys,0,0,san lorenzo
+9179,2012,all boys (buenos aires),0,0,san lorenzo
 9180,2012,godoy cruz at,0,1,lanus
 9181,2012,racing club,2,0,estudiantes lp
 9182,2012,atletico rafaela,2,2,boca juniors
@@ -9186,7 +9186,7 @@ id,year,team1,score1,score2,team2
 9184,2012,estudiantes lp,1,0,godoy cruz at
 9185,2012,san martin (san juan),1,4,arsenal
 9186,2012,belgrano (cba),1,1,atletico rafaela
-9187,2012,independiente,0,3,all boys
+9187,2012,independiente,0,3,all boys (buenos aires)
 9188,2012,san lorenzo,1,1,olimpo
 9189,2012,newell's old boys,3,1,union (santa fe)
 9190,2012,colon (santa fe),1,1,tigre
@@ -9196,7 +9196,7 @@ id,year,team1,score1,score2,team2
 9194,2012,tigre,3,1,newell's old boys
 9195,2012,godoy cruz at,1,1,argentinos juniors
 9196,2012,union (santa fe),1,0,san lorenzo
-9197,2012,all boys,1,0,san martin (san juan)
+9197,2012,all boys (buenos aires),1,0,san martin (san juan)
 9198,2012,banfield,0,3,estudiantes lp
 9199,2012,olimpo,2,1,independiente
 9200,2012,racing club,0,2,boca juniors
@@ -9206,7 +9206,7 @@ id,year,team1,score1,score2,team2
 9204,2012,san martin (san juan),3,2,olimpo
 9205,2012,belgrano (cba),0,1,racing club
 9206,2012,argentinos juniors,1,0,banfield
-9207,2012,lanus,1,0,all boys
+9207,2012,lanus,1,0,all boys (buenos aires)
 9208,2012,atletico rafaela,1,1,tigre
 9209,2012,boca juniors,3,0,godoy cruz at
 9210,2012,independiente,0,0,union (santa fe)
@@ -9220,7 +9220,7 @@ id,year,team1,score1,score2,team2
 9218,2012,velez sarsfield,2,1,atletico rafaela
 9219,2012,tigre,3,1,san lorenzo
 9220,2012,olimpo,2,2,lanus
-9221,2012,all boys,3,1,estudiantes lp
+9221,2012,all boys (buenos aires),3,1,estudiantes lp
 9222,2012,godoy cruz at,2,1,belgrano (cba)
 9223,2012,racing club,1,1,colon (santa fe)
 9224,2012,lanus,0,0,union (santa fe)
@@ -9230,7 +9230,7 @@ id,year,team1,score1,score2,team2
 9228,2012,estudiantes lp,1,0,olimpo
 9229,2012,atletico rafaela,4,2,racing club
 9230,2012,boca juniors,0,3,arsenal
-9231,2012,argentinos juniors,1,0,all boys
+9231,2012,argentinos juniors,1,0,all boys (buenos aires)
 9232,2012,independiente,0,0,san lorenzo
 9233,2012,colon (santa fe),2,0,godoy cruz at
 9234,2012,newell's old boys,0,0,lanus
@@ -9239,7 +9239,7 @@ id,year,team1,score1,score2,team2
 9237,2012,tigre,2,2,independiente
 9238,2012,san lorenzo,3,1,san martin (san juan)
 9239,2012,union (santa fe),2,2,estudiantes lp
-9240,2012,all boys,3,1,boca juniors
+9240,2012,all boys (buenos aires),3,1,boca juniors
 9241,2012,arsenal,1,0,belgrano (cba)
 9242,2012,banfield,0,3,colon (santa fe)
 9243,2012,godoy cruz at,1,3,atletico rafaela
@@ -10234,7 +10234,7 @@ id,year,team1,score1,score2,team2
 10232,2013,patronato de la juventud catolica,2,0,nueva chicago
 10233,2013,boca unidos,4,0,crucero del norte
 10234,2013,atletico de rafaela,2,1,alvarado
-10235,2013,club atletico all boys,4,1,atletico brown
+10235,2013,club atletico all boys (buenos aires),4,1,atletico brown
 10236,2013,colon,1,2,club atletico platense
 10237,2013,defensa y justicia,0,3,atletico estudiantes
 10238,2013,rosario central,1,2,central cordoba (rosario)
@@ -10253,7 +10253,7 @@ id,year,team1,score1,score2,team2
 10251,2013,deportivo armenio,1,2,newell's old boys
 10252,2013,union rawson,0,3,quilmes
 10253,2013,lanus,0,1,atletico de rafaela
-10254,2013,central cordoba (rosario),0,2,club atletico all boys
+10254,2013,central cordoba (rosario),0,2,club atletico all boys (buenos aires)
 10255,2013,racing club,0,1,tristan suarez
 10256,2013,river plate,0,1,atletico estudiantes
 10257,2013,estudiantes de la plata,2,1,atletico tucuman
@@ -10263,12 +10263,12 @@ id,year,team1,score1,score2,team2
 10261,2013,godoy cruz antonio tomba,3,2,olimpo
 10262,2013,arsenal futbol club,1,0,independiente (avellaneda)
 10263,2013,atletico de rafaela,0,3,san lorenzo de almagro
-10264,2013,club atletico all boys,3,1,boca juniors
+10264,2013,club atletico all boys (buenos aires),3,1,boca juniors
 10265,2013,talleres (cordoba),1,0,newell's old boys
 10266,2013,estudiantes de la plata,2,1,quilmes
 10267,2013,talleres (cordoba),0,1,atletico estudiantes
 10268,2013,san lorenzo de almagro,2,0,gimnasia y esgrima foot ball club
-10269,2013,club atletico all boys,1,0,estudiantes de la plata
+10269,2013,club atletico all boys (buenos aires),1,0,estudiantes de la plata
 10270,2013,arsenal futbol club,1,0,godoy cruz antonio tomba
 10271,2013,san lorenzo de almagro,0,3,arsenal futbol club
 10272,2013,velez sarsfield,1,0,arsenal
@@ -12010,31 +12010,31 @@ id,year,team1,score1,score2,team2
 12008,2015,club atletico gimnasia y esgrima,0,1,club atletico nueva chicago
 12009,2015,club atletico huracan,3,0,club atletico temperley
 12010,2015,club atletico sarmiento,0,0,cs independiente rivadavia
-12011,2015,ca patronato dl juventud catolica,0,0,club atletico all boys
+12011,2015,ca patronato dl juventud catolica,0,0,club atletico all boys (buenos aires)
 12012,2015,club atletico tucuman soc civ,1,0,amd personal de crucero del norte
 12013,2015,club sportivo belgrano,3,1,club atletico union
 12014,2015,club atletico temperley,2,0,club atletico sarmiento
 12015,2015,amd personal de crucero del norte,2,1,c y biblioteca ramon santamarina
 12016,2015,club atletico union,2,3,club atletico tucuman soc civ
 12017,2015,cs independiente rivadavia,2,0,ca patronato dl juventud catolica
-12018,2015,club atletico all boys,1,1,club sportivo belgrano
+12018,2015,club atletico all boys (buenos aires),1,1,club sportivo belgrano
 12019,2015,club atletico sarmiento,0,0,club atletico huracan
 12020,2015,c y biblioteca ramon santamarina,2,2,club atletico union
 12021,2015,ca patronato dl juventud catolica,0,1,club atletico temperley
-12022,2015,club atletico tucuman soc civ,2,0,club atletico all boys
+12022,2015,club atletico tucuman soc civ,2,0,club atletico all boys (buenos aires)
 12023,2015,club sportivo belgrano,2,1,cs independiente rivadavia
 12024,2015,club atletico huracan,0,1,ca patronato dl juventud catolica
 12025,2015,club atletico temperley,1,0,club sportivo belgrano
 12026,2015,club atletico union,3,0,amd personal de crucero del norte
 12027,2015,cs independiente rivadavia,0,0,club atletico tucuman soc civ
-12028,2015,club atletico all boys,0,0,c y biblioteca ramon santamarina
+12028,2015,club atletico all boys (buenos aires),0,0,c y biblioteca ramon santamarina
 12029,2015,club atletico tucuman soc civ,3,1,club atletico temperley
 12030,2015,club sportivo belgrano,1,1,club atletico huracan
-12031,2015,amd personal de crucero del norte,1,0,club atletico all boys
+12031,2015,amd personal de crucero del norte,1,0,club atletico all boys (buenos aires)
 12032,2015,c y biblioteca ramon santamarina,0,2,cs independiente rivadavia
 12033,2015,ca patronato dl juventud catolica,3,0,club atletico sarmiento
 12034,2015,club atletico huracan,2,1,club atletico tucuman soc civ
-12035,2015,club atletico all boys,2,2,club atletico union
+12035,2015,club atletico all boys (buenos aires),2,2,club atletico union
 12036,2015,club atletico sarmiento,2,0,club sportivo belgrano
 12037,2015,club atletico temperley,2,0,c y biblioteca ramon santamarina
 12038,2015,cs independiente rivadavia,2,1,amd personal de crucero del norte
@@ -12046,10 +12046,10 @@ id,year,team1,score1,score2,team2
 12044,2015,ca patronato dl juventud catolica,1,1,club atletico tucuman soc civ
 12045,2015,club atletico huracan,0,2,amd personal de crucero del norte
 12046,2015,club atletico sarmiento,2,2,c y biblioteca ramon santamarina
-12047,2015,cs independiente rivadavia,0,0,club atletico all boys
+12047,2015,cs independiente rivadavia,0,0,club atletico all boys (buenos aires)
 12048,2015,club atletico temperley,1,1,club atletico union
 12049,2015,amd personal de crucero del norte,0,0,club atletico sarmiento
-12050,2015,club atletico all boys,0,0,club atletico temperley
+12050,2015,club atletico all boys (buenos aires),0,0,club atletico temperley
 12051,2015,club atletico tucuman soc civ,3,1,club sportivo belgrano
 12052,2015,c y biblioteca ramon santamarina,0,0,ca patronato dl juventud catolica
 12053,2015,club atletico union,3,0,club atletico huracan
@@ -12057,33 +12057,33 @@ id,year,team1,score1,score2,team2
 12055,2015,club atletico temperley,1,0,cs independiente rivadavia
 12056,2015,club sportivo belgrano,0,3,c y biblioteca ramon santamarina
 12057,2015,ca patronato dl juventud catolica,0,1,amd personal de crucero del norte
-12058,2015,club atletico huracan,0,1,club atletico all boys
+12058,2015,club atletico huracan,0,1,club atletico all boys (buenos aires)
 12059,2015,amd personal de crucero del norte,1,0,club sportivo belgrano
 12060,2015,c y biblioteca ramon santamarina,1,0,club atletico tucuman soc civ
-12061,2015,club atletico all boys,1,0,club atletico sarmiento
+12061,2015,club atletico all boys (buenos aires),1,0,club atletico sarmiento
 12062,2015,club atletico union,0,0,ca patronato dl juventud catolica
 12063,2015,cs independiente rivadavia,1,1,club atletico huracan
 12064,2015,amd personal de crucero del norte,1,1,club atletico tucuman soc civ
 12065,2015,club atletico temperley,0,2,club atletico huracan
 12066,2015,club atletico union,2,1,club sportivo belgrano
 12067,2015,cs independiente rivadavia,0,2,club atletico sarmiento
-12068,2015,club atletico all boys,1,1,ca patronato dl juventud catolica
+12068,2015,club atletico all boys (buenos aires),1,1,ca patronato dl juventud catolica
 12069,2015,c y biblioteca ramon santamarina,0,1,amd personal de crucero del norte
 12070,2015,club atletico sarmiento,3,0,club atletico temperley
 12071,2015,ca patronato dl juventud catolica,1,0,cs independiente rivadavia
 12072,2015,club atletico tucuman soc civ,0,1,club atletico union
-12073,2015,club sportivo belgrano,1,0,club atletico all boys
-12074,2015,club atletico all boys,1,0,club atletico tucuman soc civ
+12073,2015,club sportivo belgrano,1,0,club atletico all boys (buenos aires)
+12074,2015,club atletico all boys (buenos aires),1,0,club atletico tucuman soc civ
 12075,2015,club atletico union,2,0,c y biblioteca ramon santamarina
 12076,2015,cs independiente rivadavia,3,1,club sportivo belgrano
 12077,2015,club atletico huracan,2,2,club atletico sarmiento
 12078,2015,club atletico temperley,1,0,ca patronato dl juventud catolica
 12079,2015,club atletico tucuman soc civ,1,0,cs independiente rivadavia
-12080,2015,c y biblioteca ramon santamarina,3,1,club atletico all boys
+12080,2015,c y biblioteca ramon santamarina,3,1,club atletico all boys (buenos aires)
 12081,2015,amd personal de crucero del norte,0,1,club atletico union
 12082,2015,ca patronato dl juventud catolica,2,0,club atletico huracan
 12083,2015,club sportivo belgrano,0,3,club atletico temperley
-12084,2015,club atletico all boys,1,0,amd personal de crucero del norte
+12084,2015,club atletico all boys (buenos aires),1,0,amd personal de crucero del norte
 12085,2015,cs independiente rivadavia,1,2,c y biblioteca ramon santamarina
 12086,2015,club atletico huracan,0,3,club sportivo belgrano
 12087,2015,club atletico sarmiento,1,0,ca patronato dl juventud catolica
@@ -12091,7 +12091,7 @@ id,year,team1,score1,score2,team2
 12089,2015,amd personal de crucero del norte,2,0,cs independiente rivadavia
 12090,2015,c y biblioteca ramon santamarina,3,1,club atletico temperley
 12091,2015,club atletico tucuman soc civ,1,2,club atletico huracan
-12092,2015,club atletico union,2,0,club atletico all boys
+12092,2015,club atletico union,2,0,club atletico all boys (buenos aires)
 12093,2015,club sportivo belgrano,1,1,club atletico sarmiento
 12094,2015,ca patronato dl juventud catolica,2,0,club sportivo belgrano
 12095,2015,club atletico sarmiento,3,2,club atletico tucuman soc civ
@@ -12099,7 +12099,7 @@ id,year,team1,score1,score2,team2
 12097,2015,club atletico huracan,3,0,c y biblioteca ramon santamarina
 12098,2015,club atletico temperley,2,1,amd personal de crucero del norte
 12099,2015,amd personal de crucero del norte,0,1,club atletico huracan
-12100,2015,club atletico all boys,0,1,cs independiente rivadavia
+12100,2015,club atletico all boys (buenos aires),0,1,cs independiente rivadavia
 12101,2015,club atletico union,2,0,club atletico temperley
 12102,2015,c y biblioteca ramon santamarina,0,2,club atletico sarmiento
 12103,2015,club atletico tucuman soc civ,0,0,ca patronato dl juventud catolica
@@ -12107,15 +12107,15 @@ id,year,team1,score1,score2,team2
 12105,2015,ca patronato dl juventud catolica,1,2,c y biblioteca ramon santamarina
 12106,2015,club atletico huracan,1,2,club atletico union
 12107,2015,club sportivo belgrano,1,2,club atletico tucuman soc civ
-12108,2015,club atletico temperley,3,1,club atletico all boys
+12108,2015,club atletico temperley,3,1,club atletico all boys (buenos aires)
 12109,2015,c y biblioteca ramon santamarina,0,0,club sportivo belgrano
 12110,2015,amd personal de crucero del norte,3,0,ca patronato dl juventud catolica
 12111,2015,club atletico union,0,0,club atletico sarmiento
 12112,2015,cs independiente rivadavia,3,1,club atletico temperley
-12113,2015,club atletico all boys,0,3,club atletico huracan
+12113,2015,club atletico all boys (buenos aires),0,3,club atletico huracan
 12114,2015,ca patronato dl juventud catolica,1,3,club atletico union
 12115,2015,club sportivo belgrano,0,2,amd personal de crucero del norte
-12116,2015,club atletico sarmiento,0,1,club atletico all boys
+12116,2015,club atletico sarmiento,0,1,club atletico all boys (buenos aires)
 12117,2015,club atletico huracan,4,0,cs independiente rivadavia
 12118,2015,club atletico tucuman soc civ,4,1,c y biblioteca ramon santamarina
 12119,2015,club atletico huracan,4,1,club atletico tucuman soc civ
