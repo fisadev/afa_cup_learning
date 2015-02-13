@@ -3128,7 +3128,7 @@ id,year,team1,score1,score2,team2
 3126,1998,fco,5,0,gimnasia j
 3127,1998,rosario c,2,0,colon
 3128,1998,lanus,1,3,river
-3129,1998,boca,4,2,arg juniors
+3129,1998,boca,4,2,argentinos juniors
 3130,1998,racing,1,1,velez
 3131,1998,gimnasia s,2,0,newell's ob
 3132,1998,union,2,1,platense
@@ -3140,7 +3140,7 @@ id,year,team1,score1,score2,team2
 3138,1998,newell's ob,3,0,union
 3139,1998,velez,2,1,gimnasia s
 3140,1998,colon,2,2,fco
-3141,1998,arg juniors,1,0,lanus
+3141,1998,argentinos juniors,1,0,lanus
 3142,1998,gimnasia j,4,0,dep espanol
 3143,1998,racing,0,1,estudiantes
 3144,1998,gimnasia s,1,1,s lorenzo
@@ -3149,12 +3149,12 @@ id,year,team1,score1,score2,team2
 3147,1998,boca,2,1,newell's ob
 3148,1998,fco,0,3,river
 3149,1998,rosario c,2,2,lanus
-3150,1998,platense,1,3,arg juniors
+3150,1998,platense,1,3,argentinos juniors
 3151,1998,dep espanol,2,0,colon
 3152,1998,huracan,0,0,gimnasia j
 3153,1998,independiente,2,0,racing
 3154,1998,s lorenzo,3,2,union
-3155,1998,arg juniors,1,1,rosario c
+3155,1998,argentinos juniors,1,1,rosario c
 3156,1998,gimnasia j,0,1,gimnasia lp
 3157,1998,lanus,1,3,fco
 3158,1998,colon,2,1,huracan
@@ -3165,7 +3165,7 @@ id,year,team1,score1,score2,team2
 3163,1998,huracan,0,3,river
 3164,1998,racing,1,0,gimnasia j
 3165,1998,union,0,5,estudiantes
-3166,1998,newell's ob,2,3,arg juniors
+3166,1998,newell's ob,2,3,argentinos juniors
 3167,1998,dep espanol,2,1,lanus
 3168,1998,gimnasia lp,0,0,colon
 3169,1998,gimnasia s,2,2,independiente
@@ -3178,7 +3178,7 @@ id,year,team1,score1,score2,team2
 3176,1998,colon,3,3,racing
 3177,1998,lanus,1,0,huracan
 3178,1998,rosario c,2,1,dep espanol
-3179,1998,arg juniors,1,0,fco
+3179,1998,argentinos juniors,1,0,fco
 3180,1998,velez,5,0,newell's ob
 3181,1998,river,3,1,gimnasia lp
 3182,1998,gimnasia j,0,0,gimnasia s
@@ -3186,7 +3186,7 @@ id,year,team1,score1,score2,team2
 3184,1998,platense,1,0,estudiantes
 3185,1998,racing,2,3,river
 3186,1998,dep espanol,1,1,fco
-3187,1998,velez,0,1,arg juniors
+3187,1998,velez,0,1,argentinos juniors
 3188,1998,union,1,1,gimnasia j
 3189,1998,gimnasia lp,2,1,lanus
 3190,1998,gimnasia s,0,2,colon
@@ -3201,10 +3201,10 @@ id,year,team1,score1,score2,team2
 3199,1998,lanus,2,1,racing
 3200,1998,rosario c,0,0,gimnasia lp
 3201,1998,fco,2,1,huracan
-3202,1998,arg juniors,0,3,dep espanol
+3202,1998,argentinos juniors,0,3,dep espanol
 3203,1998,boca,2,1,colon
 3204,1998,union,1,1,river
-3205,1998,arg juniors,0,1,s lorenzo
+3205,1998,argentinos juniors,0,1,s lorenzo
 3206,1998,newell's ob,0,2,independiente
 3207,1998,racing,1,4,rosario c
 3208,1998,velez,0,0,estudiantes
@@ -3220,7 +3220,7 @@ id,year,team1,score1,score2,team2
 3218,1998,gimnasia j,1,0,newell's ob
 3219,1998,lanus,3,3,union
 3220,1998,dep espanol,2,3,gimnasia lp
-3221,1998,huracan,2,1,arg juniors
+3221,1998,huracan,2,1,argentinos juniors
 3222,1998,colon,1,1,platense
 3223,1998,gimnasia s,1,1,fco
 3224,1998,gimnasia lp,3,0,huracan
@@ -3231,12 +3231,12 @@ id,year,team1,score1,score2,team2
 3229,1998,racing,1,0,dep espanol
 3230,1998,newell's ob,3,2,colon
 3231,1998,s lorenzo,3,1,independiente
-3232,1998,arg juniors,3,2,estudiantes
+3232,1998,argentinos juniors,3,2,estudiantes
 3233,1998,independiente,0,0,estudiantes
 3234,1998,rosario c,0,3,boca
 3235,1998,colon,1,1,velez
 3236,1998,gimnasia j,3,3,s lorenzo
-3237,1998,gimnasia lp,0,2,arg juniors
+3237,1998,gimnasia lp,0,2,argentinos juniors
 3238,1998,river,2,1,newell's ob
 3239,1998,fco,6,2,union
 3240,1998,dep espanol,3,1,gimnasia s
@@ -3244,7 +3244,7 @@ id,year,team1,score1,score2,team2
 3242,1998,lanus,1,3,platense
 3243,1998,s lorenzo,4,1,colon
 3244,1998,estudiantes,3,2,gimnasia j
-3245,1998,arg juniors,0,1,independiente
+3245,1998,argentinos juniors,0,1,independiente
 3246,1998,gimnasia s,2,4,huracan
 3247,1998,racing,1,1,gimnasia lp
 3248,1998,velez,1,1,river
@@ -3252,7 +3252,7 @@ id,year,team1,score1,score2,team2
 3250,1998,platense,0,0,rosario c
 3251,1998,boca,1,1,fco
 3252,1998,union,1,1,dep espanol
-3253,1998,racing,1,2,arg juniors
+3253,1998,racing,1,2,argentinos juniors
 3254,1998,river,1,0,s lorenzo
 3255,1998,colon,1,0,estudiantes
 3256,1998,dep espanol,0,4,boca
@@ -3271,9 +3271,9 @@ id,year,team1,score1,score2,team2
 3269,1998,newell's ob,1,2,fco
 3270,1998,platense,3,1,dep espanol
 3271,1998,boca,2,1,huracan
-3272,1998,arg juniors,1,3,gimnasia j
+3272,1998,argentinos juniors,1,3,gimnasia j
 3273,1998,fco,3,3,velez
-3274,1998,gimnasia s,1,0,arg juniors
+3274,1998,gimnasia s,1,0,argentinos juniors
 3275,1998,rosario c,1,2,s lorenzo
 3276,1998,colon,0,4,gimnasia j
 3277,1998,gimnasia lp,0,1,boca
@@ -3285,7 +3285,7 @@ id,year,team1,score1,score2,team2
 3283,1998,gimnasia j,1,3,river
 3284,1998,boca,0,0,racing
 3285,1998,s lorenzo,3,4,fco
-3286,1998,arg juniors,2,1,colon
+3286,1998,argentinos juniors,2,1,colon
 3287,1998,estudiantes,0,4,rosario c
 3288,1998,independiente,2,1,lanus
 3289,1998,newell's ob,2,1,huracan
@@ -3299,10 +3299,10 @@ id,year,team1,score1,score2,team2
 3297,1998,huracan,1,1,velez
 3298,1998,lanus,1,0,gimnasia j
 3299,1998,gimnasia lp,3,2,newell's ob
-3300,1998,union,1,0,arg juniors
+3300,1998,union,1,0,argentinos juniors
 3301,1998,fco,1,2,estudiantes
 3302,1998,racing,2,1,platense
-3303,1998,arg juniors,1,1,river
+3303,1998,argentinos juniors,1,1,river
 3304,1998,boca,4,0,union
 3305,1998,independiente,2,0,fco
 3306,1998,gimnasia j,2,3,rosario c
@@ -3320,7 +3320,7 @@ id,year,team1,score1,score2,team2
 3318,1998,gimnasia j,1,4,fco
 3319,1998,colon,1,2,rosario c
 3320,1998,s lorenzo,0,1,gimnasia lp
-3321,1998,arg juniors,1,3,boca
+3321,1998,argentinos juniors,1,3,boca
 3322,1998,rosario c,2,2,river
 3323,1998,huracan,0,1,independiente
 3324,1998,gimnasia s,1,2,velez
@@ -3328,7 +3328,7 @@ id,year,team1,score1,score2,team2
 3326,1998,boca,0,4,platense
 3327,1998,dep espanol,2,3,gimnasia j
 3328,1998,fco,2,2,colon
-3329,1998,lanus,1,1,arg juniors
+3329,1998,lanus,1,1,argentinos juniors
 3330,1998,racing,2,1,s lorenzo
 3331,1998,gimnasia lp,3,0,estudiantes
 3332,1998,velez,3,0,union
@@ -3340,14 +3340,14 @@ id,year,team1,score1,score2,team2
 3338,1998,gimnasia j,2,0,huracan
 3339,1998,colon,0,0,dep espanol
 3340,1998,river,2,1,fco
-3341,1998,arg juniors,1,1,platense
+3341,1998,argentinos juniors,1,1,platense
 3342,1998,union,3,2,s lorenzo
 3343,1998,gimnasia s,1,2,estudiantes
 3344,1998,racing,0,0,independiente
 3345,1998,gimnasia lp,1,2,gimnasia j
 3346,1998,huracan,1,1,colon
 3347,1998,dep espanol,1,4,river
-3348,1998,rosario c,1,0,arg juniors
+3348,1998,rosario c,1,0,argentinos juniors
 3349,1998,boca,2,3,velez
 3350,1998,platense,2,1,newell's ob
 3351,1998,fco,3,3,lanus
@@ -3359,7 +3359,7 @@ id,year,team1,score1,score2,team2
 3357,1998,lanus,3,0,dep espanol
 3358,1998,rosario c,1,2,fco
 3359,1998,velez,0,0,platense
-3360,1998,arg juniors,2,1,newell's ob
+3360,1998,argentinos juniors,2,1,newell's ob
 3361,1998,colon,3,3,gimnasia lp
 3362,1998,platense,1,4,s lorenzo
 3363,1998,union,2,2,independiente
@@ -3368,10 +3368,10 @@ id,year,team1,score1,score2,team2
 3366,1998,gimnasia lp,4,3,river
 3367,1998,huracan,0,2,lanus
 3368,1998,dep espanol,1,1,rosario c
-3369,1998,fco,1,1,arg juniors
+3369,1998,fco,1,1,argentinos juniors
 3370,1998,newell's ob,0,1,velez
 3371,1998,boca,0,0,estudiantes
-3372,1998,arg juniors,0,0,velez
+3372,1998,argentinos juniors,0,0,velez
 3373,1998,rosario c,2,1,huracan
 3374,1998,s lorenzo,2,2,newell's ob
 3375,1998,estudiantes,2,0,platense
@@ -3390,11 +3390,11 @@ id,year,team1,score1,score2,team2
 3388,1998,gimnasia lp,4,0,rosario c
 3389,1998,huracan,3,1,fco
 3390,1998,velez,1,2,s lorenzo
-3391,1998,dep espanol,0,5,arg juniors
+3391,1998,dep espanol,0,5,argentinos juniors
 3392,1998,independiente,0,2,newell's ob
 3393,1998,rosario c,2,0,racing
 3394,1998,dep espanol,3,3,huracan
-3395,1998,s lorenzo,2,2,arg juniors
+3395,1998,s lorenzo,2,2,argentinos juniors
 3396,1998,estudiantes,1,2,velez
 3397,1998,gimnasia j,1,1,platense
 3398,1998,colon,2,2,boca
@@ -3405,7 +3405,7 @@ id,year,team1,score1,score2,team2
 3403,1998,platense,3,0,colon
 3404,1998,racing,2,0,fco
 3405,1998,gimnasia s,1,1,rosario c
-3406,1998,arg juniors,3,0,huracan
+3406,1998,argentinos juniors,3,0,huracan
 3407,1998,s lorenzo,2,0,estudiantes
 3408,1998,gimnasia lp,2,2,dep espanol
 3409,1998,boca,3,2,river
@@ -3416,7 +3416,7 @@ id,year,team1,score1,score2,team2
 3414,1998,dep espanol,0,0,racing
 3415,1998,gimnasia j,0,2,velez
 3416,1998,rosario c,1,1,union
-3417,1998,estudiantes,1,0,arg juniors
+3417,1998,estudiantes,1,0,argentinos juniors
 3418,1998,colon,2,3,newell's ob
 3419,1998,independiente,3,1,s lorenzo
 3420,1998,fco,1,0,gimnasia s
@@ -3430,10 +3430,10 @@ id,year,team1,score1,score2,team2
 3428,1998,gimnasia s,4,1,dep espanol
 3429,1998,boca,1,1,rosario c
 3430,1998,newell's ob,0,0,river
-3431,1998,arg juniors,1,2,gimnasia lp
+3431,1998,argentinos juniors,1,2,gimnasia lp
 3432,1998,colon,2,0,s lorenzo
 3433,1998,gimnasia j,1,0,estudiantes
-3434,1998,independiente,0,2,arg juniors
+3434,1998,independiente,0,2,argentinos juniors
 3435,1998,huracan,2,0,gimnasia s
 3436,1998,gimnasia lp,2,1,racing
 3437,1998,river,1,1,velez
@@ -3445,7 +3445,7 @@ id,year,team1,score1,score2,team2
 3443,1998,s lorenzo,0,0,river
 3444,1998,gimnasia s,1,3,gimnasia lp
 3445,1998,independiente,1,1,gimnasia j
-3446,1998,arg juniors,2,0,racing
+3446,1998,argentinos juniors,2,0,racing
 3447,1998,platense,2,2,fco
 3448,1998,estudiantes,0,2,colon
 3449,1998,newell's ob,0,0,rosario c
@@ -3456,7 +3456,7 @@ id,year,team1,score1,score2,team2
 3454,1998,rosario c,1,2,velez
 3455,1998,lanus,2,1,s lorenzo
 3456,1998,racing,2,1,gimnasia s
-3457,1998,gimnasia j,1,0,arg juniors
+3457,1998,gimnasia j,1,0,argentinos juniors
 3458,1998,gimnasia lp,3,0,union
 3459,1998,colon,0,1,independiente
 3460,1998,dep espanol,3,3,platense
@@ -3465,7 +3465,7 @@ id,year,team1,score1,score2,team2
 3463,1998,velez,4,1,fco
 3464,1998,boca,3,1,gimnasia lp
 3465,1998,estudiantes,2,2,lanus
-3466,1998,arg juniors,1,0,gimnasia s
+3466,1998,argentinos juniors,1,0,gimnasia s
 3467,1998,platense,4,1,huracan
 3468,1998,newell's ob,2,0,dep espanol
 3469,1998,gimnasia j,2,0,colon
@@ -3480,7 +3480,7 @@ id,year,team1,score1,score2,team2
 3478,1998,gimnasia s,1,0,union
 3479,1998,fco,2,3,s lorenzo
 3480,1998,huracan,1,1,newell's ob
-3481,1998,colon,1,2,arg juniors
+3481,1998,colon,1,2,argentinos juniors
 3482,1998,newell's ob,1,0,gimnasia lp
 3483,1998,velez,1,0,huracan
 3484,1998,s lorenzo,4,1,dep espanol
@@ -3490,14 +3490,14 @@ id,year,team1,score1,score2,team2
 3488,1998,colon,1,0,river
 3489,1998,platense,1,1,racing
 3490,1998,boca,4,0,gimnasia s
-3491,1998,arg juniors,1,1,union
+3491,1998,argentinos juniors,1,1,union
 3492,1998,rosario c,2,3,gimnasia j
 3493,1998,lanus,5,2,colon
 3494,1998,racing,1,1,newell's ob
 3495,1998,gimnasia s,2,1,platense
 3496,1998,huracan,2,1,s lorenzo
 3497,1998,gimnasia lp,2,3,velez
-3498,1998,river,1,1,arg juniors
+3498,1998,river,1,1,argentinos juniors
 3499,1998,union,1,1,boca
 3500,1998,fco,1,0,independiente
 3501,1998,dep espanol,0,1,estudiantes
