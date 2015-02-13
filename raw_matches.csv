@@ -2347,7 +2347,7 @@ id,year,team1,score1,score2,team2
 2345,1995,argentinos juniors,1,1,ferro carril oeste
 2346,1995,platense,4,2,depmandiyu (ctes)
 2347,1996,racing club,2,0,argentinos juniors
-2348,1996,rosario central,0,0,belgrano (c)
+2348,1996,rosario central,0,0,belgrano (cba)
 2349,1996,huracan (ba),2,2,newell's old boys
 2350,1996,deportivo espanol,1,1,gimnasia y esgrima lp
 2351,1996,banfield,0,1,velez sarsfield
@@ -2357,7 +2357,7 @@ id,year,team1,score1,score2,team2
 2355,1996,estudiantes lp,0,0,colon
 2356,1996,gimnasia y esgrima j,1,2,boca juniors
 2357,1996,independiente (a),1,1,banfield
-2358,1996,belgrano (c),0,2,river plate
+2358,1996,belgrano (cba),0,2,river plate
 2359,1996,newell's old boys,1,1,platense (vl)
 2360,1996,boca juniors,2,1,huracan (ba)
 2361,1996,san lorenzo de almagro,1,0,racing club
@@ -2370,7 +2370,7 @@ id,year,team1,score1,score2,team2
 2368,1996,rosario central,1,1,banfield
 2369,1996,huracan (ba),1,1,gimnasia y esgrima lp
 2370,1996,gimnasia y esgrima j,1,0,colon
-2371,1996,racing club,1,0,belgrano (c)
+2371,1996,racing club,1,0,belgrano (cba)
 2372,1996,ferro carril oeste (ba),1,2,newell's old boys
 2373,1996,lanus,2,1,independiente (a)
 2374,1996,river plate,1,1,velez sarsfield
@@ -2381,7 +2381,7 @@ id,year,team1,score1,score2,team2
 2379,1996,boca juniors,2,2,ferro carril oeste (ba)
 2380,1996,gimnasia y esgrima lp,0,1,platense (vl)
 2381,1996,san lorenzo de almagro,1,0,deportivo espanol
-2382,1996,belgrano (c),1,1,estudiantes lp
+2382,1996,belgrano (cba),1,1,estudiantes lp
 2383,1996,velez sarsfield,3,2,racing club
 2384,1996,banfield,1,2,river plate
 2385,1996,newell's old boys,0,1,lanus
@@ -2392,14 +2392,14 @@ id,year,team1,score1,score2,team2
 2390,1996,ferro carril oeste (ba),0,1,gimnasia y esgrima lp
 2391,1996,huracan (ba),0,1,argentinos juniors
 2392,1996,gimnasia y esgrima j,4,3,san lorenzo de almagro
-2393,1996,deportivo espanol,0,0,belgrano (c)
+2393,1996,deportivo espanol,0,0,belgrano (cba)
 2394,1996,racing club,1,0,banfield
 2395,1996,platense (vl),1,0,colon
 2396,1996,newell's old boys,1,0,independiente (a)
 2397,1996,velez sarsfield,2,3,deportivo espanol
 2398,1996,rosario central,1,3,racing club
 2399,1996,boca juniors,1,1,newell's old boys
-2400,1996,belgrano (c),0,3,gimnasia y esgrima j
+2400,1996,belgrano (cba),0,3,gimnasia y esgrima j
 2401,1996,independiente (a),0,0,river plate
 2402,1996,argentinos juniors,2,3,platense (vl)
 2403,1996,banfield,1,0,estudiantes lp
@@ -2409,7 +2409,7 @@ id,year,team1,score1,score2,team2
 2407,1996,platense (vl),2,3,san lorenzo de almagro
 2408,1996,gimnasia y esgrima j,1,0,velez sarsfield
 2409,1996,boca juniors,0,0,independiente (a)
-2410,1996,huracan (ba),2,1,belgrano (c)
+2410,1996,huracan (ba),2,1,belgrano (cba)
 2411,1996,lanus,1,1,colon
 2412,1996,newell's old boys,1,1,gimnasia y esgrima lp
 2413,1996,racing club,1,1,river plate
@@ -2422,11 +2422,11 @@ id,year,team1,score1,score2,team2
 2420,1996,independiente (a),2,2,racing club
 2421,1996,river plate,2,2,estudiantes lp
 2422,1996,colon,1,1,newell's old boys
-2423,1996,belgrano (c),0,0,platense (vl)
+2423,1996,belgrano (cba),0,0,platense (vl)
 2424,1996,argentinos juniors,0,3,lanus
 2425,1996,banfield,2,2,gimnasia y esgrima j
 2426,1996,gimnasia y esgrima lp,0,1,boca juniors
-2427,1996,ferro carril oeste (ba),4,2,belgrano (c)
+2427,1996,ferro carril oeste (ba),4,2,belgrano (cba)
 2428,1996,deportivo espanol,0,1,river plate
 2429,1996,boca juniors,1,0,colon
 2430,1996,platense (vl),1,2,velez sarsfield
@@ -2440,7 +2440,7 @@ id,year,team1,score1,score2,team2
 2438,1996,estudiantes lp,1,2,independiente (a)
 2439,1996,argentinos juniors,0,1,boca juniors
 2440,1996,river plate,1,0,gimnasia y esgrima j
-2441,1996,belgrano (c),1,1,lanus
+2441,1996,belgrano (cba),1,1,lanus
 2442,1996,racing club,0,1,deportivo espanol
 2443,1996,colon,4,1,gimnasia y esgrima lp
 2444,1996,banfield,0,1,platense (vl)
@@ -2452,12 +2452,12 @@ id,year,team1,score1,score2,team2
 2450,1996,gimnasia y esgrima lp,2,1,argentinos juniors
 2451,1996,platense (vl),1,1,rosario central
 2452,1996,lanus,0,0,velez sarsfield
-2453,1996,newell's old boys,2,1,belgrano (c)
+2453,1996,newell's old boys,2,1,belgrano (cba)
 2454,1996,huracan (ba),2,0,river plate
 2455,1996,ferro carril oeste (ba),3,3,banfield
 2456,1996,deportivo espanol,1,0,estudiantes lp
 2457,1996,san lorenzo de almagro,0,2,gimnasia y esgrima lp
-2458,1996,belgrano (c),0,1,boca juniors
+2458,1996,belgrano (cba),0,1,boca juniors
 2459,1996,estudiantes lp,4,1,gimnasia y esgrima j
 2460,1996,racing club,1,1,huracan (ba)
 2461,1996,river plate,1,1,platense (vl)
@@ -2470,7 +2470,7 @@ id,year,team1,score1,score2,team2
 2468,1996,colon,0,2,san lorenzo de almagro
 2469,1996,boca juniors,1,0,velez sarsfield
 2470,1996,huracan (ba),2,2,estudiantes lp
-2471,1996,gimnasia y esgrima lp,0,3,belgrano (c)
+2471,1996,gimnasia y esgrima lp,0,3,belgrano (cba)
 2472,1996,gimnasia y esgrima j,2,1,deportivo espanol
 2473,1996,newell's old boys,1,1,banfield
 2474,1996,independiente (a),2,0,argentinos juniors
@@ -2482,7 +2482,7 @@ id,year,team1,score1,score2,team2
 2480,1996,river plate,0,1,lanus
 2481,1996,san lorenzo de almagro,0,2,argentinos juniors
 2482,1996,rosario central,2,0,newell's old boys
-2483,1996,belgrano (c),0,0,colon
+2483,1996,belgrano (cba),0,0,colon
 2484,1996,deportivo espanol,0,4,huracan (ba)
 2485,1996,velez sarsfield,2,0,gimnasia y esgrima lp
 2486,1996,estudiantes lp,2,2,platense (vl)
@@ -2492,12 +2492,12 @@ id,year,team1,score1,score2,team2
 2490,1996,independiente (a),0,0,san lorenzo de almagro
 2491,1996,lanus,0,3,racing club
 2492,1996,colon,1,2,velez sarsfield
-2493,1996,argentinos juniors,1,2,belgrano (c)
+2493,1996,argentinos juniors,1,2,belgrano (cba)
 2494,1996,ferro carril oeste (ba),1,4,estudiantes lp
 2495,1996,huracan (ba),2,1,gimnasia y esgrima j
 2496,1996,platense (vl),1,1,deportivo espanol
 2497,1996,velez sarsfield,2,0,argentinos juniors
-2498,1996,belgrano (c),1,2,san lorenzo de almagro
+2498,1996,belgrano (cba),1,2,san lorenzo de almagro
 2499,1996,river plate,0,0,boca juniors
 2500,1996,racing club,4,1,newell's old boys
 2501,1996,huracan (ba),1,0,independiente (a)
@@ -2506,7 +2506,7 @@ id,year,team1,score1,score2,team2
 2504,1996,rosario central,2,0,gimnasia y esgrima lp
 2505,1996,gimnasia y esgrima j,4,3,platense (vl)
 2506,1996,deportivo espanol,0,1,ferro carril oeste (ba)
-2507,1996,independiente (a),1,0,belgrano (c)
+2507,1996,independiente (a),1,0,belgrano (cba)
 2508,1996,gimnasia y esgrima lp,1,1,river plate
 2509,1996,boca juniors,4,6,racing club
 2510,1996,colon,2,0,rosario central
@@ -2523,7 +2523,7 @@ id,year,team1,score1,score2,team2
 2521,1996,racing club,2,0,gimnasia y esgrima lp
 2522,1996,banfield,2,5,san lorenzo de almagro
 2523,1996,deportivo espanol,3,3,newell's old boys
-2524,1996,velez sarsfield,2,0,belgrano (c)
+2524,1996,velez sarsfield,2,0,belgrano (cba)
 2525,1996,rosario central,0,0,argentinos juniors
 2526,1996,huracan (ba),1,0,ferro carril oeste (ba)
 2527,1996,san lorenzo de almagro,2,2,rosario central
@@ -2534,7 +2534,7 @@ id,year,team1,score1,score2,team2
 2532,1996,lanus,1,0,huracan (ba)
 2533,1996,gimnasia y esgrima lp,0,3,estudiantes lp
 2534,1996,argentinos juniors,3,1,river plate
-2535,1996,belgrano (c),0,0,banfield
+2535,1996,belgrano (cba),0,0,banfield
 2536,1996,ferro carril oeste (ba),1,4,platense (vl)
 2537,1996,boca juniors,4,0,gimnasia y esgrima j
 2538,1996,newell's old boys,1,1,huracan (ba)
@@ -2542,14 +2542,14 @@ id,year,team1,score1,score2,team2
 2540,1996,colon,2,1,estudiantes lp
 2541,1996,argentinos juniors,1,3,racing club
 2542,1996,san lorenzo de almagro,3,1,river plate
-2543,1996,belgrano (c),1,1,rosario central
+2543,1996,belgrano (cba),1,1,rosario central
 2544,1996,velez sarsfield,3,2,banfield
 2545,1996,independiente (a),0,2,ferro carril oeste (ba)
 2546,1996,lanus,1,0,platense (vl)
 2547,1996,banfield,0,1,independiente (a)
 2548,1996,rosario central,0,0,velez sarsfield
 2549,1996,huracan (ba),1,1,boca juniors
-2550,1996,river plate,3,0,belgrano (c)
+2550,1996,river plate,3,0,belgrano (cba)
 2551,1996,racing club,1,0,san lorenzo de almagro
 2552,1996,platense (vl),3,2,newell's old boys
 2553,1996,deportivo espanol,1,0,colon
@@ -2560,7 +2560,7 @@ id,year,team1,score1,score2,team2
 2558,1996,gimnasia y esgrima lp,2,0,huracan (ba)
 2559,1996,boca juniors,1,0,platense (vl)
 2560,1996,colon,0,2,gimnasia y esgrima j
-2561,1996,belgrano (c),2,2,racing club
+2561,1996,belgrano (cba),2,2,racing club
 2562,1996,san lorenzo de almagro,0,2,estudiantes lp
 2563,1996,newell's old boys,1,1,ferro carril oeste (ba)
 2564,1996,independiente (a),0,2,lanus
@@ -2575,7 +2575,7 @@ id,year,team1,score1,score2,team2
 2573,1996,racing club,1,1,velez sarsfield
 2574,1996,river plate,2,1,banfield
 2575,1996,lanus,4,1,newell's old boys
-2576,1996,estudiantes lp,2,1,belgrano (c)
+2576,1996,estudiantes lp,2,1,belgrano (cba)
 2577,1996,velez sarsfield,1,2,estudiantes lp
 2578,1996,rosario central,2,1,river plate
 2579,1996,boca juniors,2,1,lanus
@@ -2583,7 +2583,7 @@ id,year,team1,score1,score2,team2
 2581,1996,san lorenzo de almagro,1,3,gimnasia y esgrima j
 2582,1996,gimnasia y esgrima lp,1,0,ferro carril oeste (ba)
 2583,1996,colon,0,1,platense (vl)
-2584,1996,belgrano (c),1,1,deportivo espanol
+2584,1996,belgrano (cba),1,1,deportivo espanol
 2585,1996,argentinos juniors,0,3,huracan (ba)
 2586,1996,independiente (a),3,2,newell's old boys
 2587,1996,racing club,0,1,rosario central
@@ -2594,10 +2594,10 @@ id,year,team1,score1,score2,team2
 2592,1996,platense (vl),3,0,argentinos juniors
 2593,1996,lanus,3,1,gimnasia y esgrima lp
 2594,1996,estudiantes lp,2,2,banfield
-2595,1996,gimnasia y esgrima j,0,2,belgrano (c)
+2595,1996,gimnasia y esgrima j,0,2,belgrano (cba)
 2596,1996,ferro carril oeste (ba),0,0,colon
 2597,1996,san lorenzo de almagro,1,0,platense (vl)
-2598,1996,belgrano (c),0,1,huracan (ba)
+2598,1996,belgrano (cba),0,1,huracan (ba)
 2599,1996,independiente (a),1,1,boca juniors
 2600,1996,river plate,4,2,racing club
 2601,1996,velez sarsfield,4,0,gimnasia y esgrima j
@@ -2614,7 +2614,7 @@ id,year,team1,score1,score2,team2
 2612,1996,ferro carril oeste (ba),0,0,san lorenzo de almagro
 2613,1996,newell's old boys,1,1,colon
 2614,1996,lanus,3,0,argentinos juniors
-2615,1996,platense (vl),2,1,belgrano (c)
+2615,1996,platense (vl),2,1,belgrano (cba)
 2616,1996,deportivo espanol,1,1,rosario central
 2617,1996,velez sarsfield,4,3,platense (vl)
 2618,1996,colon,1,0,boca juniors
@@ -2624,7 +2624,7 @@ id,year,team1,score1,score2,team2
 2622,1996,san lorenzo de almagro,2,3,lanus
 2623,1996,banfield,0,0,huracan (ba)
 2624,1996,rosario central,1,1,gimnasia y esgrima j
-2625,1996,belgrano (c),3,1,ferro carril oeste (ba)
+2625,1996,belgrano (cba),3,1,ferro carril oeste (ba)
 2626,1996,argentinos juniors,1,1,newell's old boys
 2627,1996,deportivo espanol,1,2,racing club
 2628,1996,newell's old boys,1,1,san lorenzo de almagro
@@ -2632,7 +2632,7 @@ id,year,team1,score1,score2,team2
 2630,1996,boca juniors,4,1,argentinos juniors
 2631,1996,independiente (a),0,0,estudiantes lp
 2632,1996,huracan (ba),1,1,rosario central
-2633,1996,lanus,4,2,belgrano (c)
+2633,1996,lanus,4,2,belgrano (cba)
 2634,1996,gimnasia y esgrima lp,3,1,colon
 2635,1996,ferro carril oeste (ba),0,0,velez sarsfield
 2636,1996,platense (vl),0,5,banfield
@@ -2643,7 +2643,7 @@ id,year,team1,score1,score2,team2
 2641,1996,velez sarsfield,5,1,lanus
 2642,1996,argentinos juniors,1,2,gimnasia y esgrima lp
 2643,1996,rosario central,2,1,platense (vl)
-2644,1996,belgrano (c),3,1,newell's old boys
+2644,1996,belgrano (cba),3,1,newell's old boys
 2645,1996,estudiantes lp,3,2,deportivo espanol
 2646,1996,banfield,0,0,ferro carril oeste (ba)
 2647,1996,independiente (a),1,1,deportivo espanol
@@ -2653,12 +2653,12 @@ id,year,team1,score1,score2,team2
 2651,1996,gimnasia y esgrima j,1,0,estudiantes lp
 2652,1996,gimnasia y esgrima lp,1,2,san lorenzo de almagro
 2653,1996,colon,1,2,argentinos juniors
-2654,1996,boca juniors,2,0,belgrano (c)
+2654,1996,boca juniors,2,0,belgrano (cba)
 2655,1996,platense (vl),2,1,river plate
 2656,1996,lanus,4,0,banfield
 2657,1996,san lorenzo de almagro,0,0,colon
 2658,1996,estudiantes lp,5,2,huracan (ba)
-2659,1996,belgrano (c),2,1,gimnasia y esgrima lp
+2659,1996,belgrano (cba),2,1,gimnasia y esgrima lp
 2660,1996,argentinos juniors,0,0,independiente (a)
 2661,1996,velez sarsfield,5,1,boca juniors
 2662,1996,banfield,1,1,newell's old boys
@@ -2671,7 +2671,7 @@ id,year,team1,score1,score2,team2
 2669,1996,boca juniors,3,2,banfield
 2670,1996,ferro carril oeste (ba),0,3,racing club
 2671,1996,gimnasia y esgrima lp,1,1,velez sarsfield
-2672,1996,colon,2,1,belgrano (c)
+2672,1996,colon,2,1,belgrano (cba)
 2673,1996,newell's old boys,2,0,rosario central
 2674,1996,huracan (ba),2,0,deportivo espanol
 2675,1996,platense (vl),2,2,estudiantes lp
@@ -2682,11 +2682,11 @@ id,year,team1,score1,score2,team2
 2680,1996,velez sarsfield,2,0,colon
 2681,1996,racing club,0,1,lanus
 2682,1996,gimnasia y esgrima j,2,4,huracan (ba)
-2683,1996,belgrano (c),1,0,argentinos juniors
+2683,1996,belgrano (cba),1,0,argentinos juniors
 2684,1996,estudiantes lp,0,0,ferro carril oeste (ba)
 2685,1996,banfield,1,2,gimnasia y esgrima lp
 2686,1996,deportivo espanol,1,0,platense (vl)
-2687,1996,san lorenzo de almagro,1,0,belgrano (c)
+2687,1996,san lorenzo de almagro,1,0,belgrano (cba)
 2688,1996,colon,2,0,banfield
 2689,1996,newell's old boys,1,0,racing club
 2690,1996,boca juniors,4,1,river plate
@@ -2697,7 +2697,7 @@ id,year,team1,score1,score2,team2
 2695,1996,platense (vl),1,0,gimnasia y esgrima j
 2696,1996,ferro carril oeste (ba),1,1,deportivo espanol
 2697,1996,river plate,1,2,gimnasia y esgrima lp
-2698,1996,belgrano (c),0,0,independiente (a)
+2698,1996,belgrano (cba),0,0,independiente (a)
 2699,1996,banfield,0,1,argentinos juniors
 2700,1996,velez sarsfield,4,1,san lorenzo de almagro
 2701,1996,huracan (ba),2,2,platense (vl)
@@ -2712,7 +2712,7 @@ id,year,team1,score1,score2,team2
 2710,1996,colon,1,0,river plate
 2711,1996,ferro carril oeste (ba),2,1,huracan (ba)
 2712,1996,argentinos juniors,1,6,rosario central
-2713,1996,belgrano (c),1,2,velez sarsfield
+2713,1996,belgrano (cba),1,2,velez sarsfield
 2714,1996,lanus,1,1,gimnasia y esgrima j
 2715,1996,newell's old boys,0,0,deportivo espanol
 2716,1996,san lorenzo de almagro,0,1,banfield
@@ -2723,7 +2723,7 @@ id,year,team1,score1,score2,team2
 2721,1996,racing club,1,2,colon
 2722,1996,huracan (ba),2,1,lanus
 2723,1996,estudiantes lp,1,1,gimnasia y esgrima lp
-2724,1996,banfield,0,2,belgrano (c)
+2724,1996,banfield,0,2,belgrano (cba)
 2725,1996,gimnasia y esgrima j,2,0,newell's old boys
 2726,1996,platense (vl),0,1,ferro carril oeste (ba)
 2727,1996,huracan corrientes,2,2,talleres (c)
@@ -3510,14 +3510,14 @@ id,year,team1,score1,score2,team2
 3508,1999,union sf,3,2,gimnasia lp
 3509,1999,ferro carril oeste,2,4,boca juniors
 3510,1999,argentinos juniors,2,2,gimnasia j
-3511,1999,independiente,4,2,belgrano cba
+3511,1999,independiente,4,2,belgrano (cba)
 3512,1999,argentinos juniors,0,1,river plate
 3513,1999,velez sarsfield,2,0,estudiantes lp
 3514,1999,colon sf,2,0,san lorenzo
 3515,1999,platense,1,0,talleres cba
 3516,1999,racing club,3,5,rosario central
 3517,1999,newell's old boys,2,1,independiente
-3518,1999,belgrano cba,0,1,lanus
+3518,1999,belgrano (cba),0,1,lanus
 3519,1999,huracan,1,1,union sf
 3520,1999,gimnasia lp,2,1,ferro carril oeste
 3521,1999,boca juniors,3,2,gimnasia j
@@ -3527,7 +3527,7 @@ id,year,team1,score1,score2,team2
 3525,1999,talleres cba,2,1,colon sf
 3526,1999,rosario central,2,0,platense
 3527,1999,lanus,0,1,newell's old boys
-3528,1999,union sf,3,0,belgrano cba
+3528,1999,union sf,3,0,belgrano (cba)
 3529,1999,ferro carril oeste,1,3,huracan
 3530,1999,gimnasia j,1,2,gimnasia lp
 3531,1999,independiente,1,3,racing club
@@ -3539,7 +3539,7 @@ id,year,team1,score1,score2,team2
 3537,1999,platense,1,4,independiente
 3538,1999,racing club,2,2,lanus
 3539,1999,newell's old boys,0,0,union sf
-3540,1999,belgrano cba,1,0,ferro carril oeste
+3540,1999,belgrano (cba),1,0,ferro carril oeste
 3541,1999,huracan,3,2,gimnasia j
 3542,1999,talleres cba,3,1,river plate
 3543,1999,san lorenzo,0,0,estudiantes lp
@@ -3550,11 +3550,11 @@ id,year,team1,score1,score2,team2
 3548,1999,lanus,1,0,platense
 3549,1999,union sf,1,0,racing club
 3550,1999,ferro carril oeste,1,1,newell's old boys
-3551,1999,gimnasia j,2,2,belgrano cba
+3551,1999,gimnasia j,2,2,belgrano (cba)
 3552,1999,river plate,1,1,rosario central
 3553,1999,estudiantes lp,2,0,talleres cba
 3554,1999,argentinos juniors,1,5,san lorenzo
-3555,1999,belgrano cba,2,4,boca juniors
+3555,1999,belgrano (cba),2,4,boca juniors
 3556,1999,huracan,1,2,gimnasia lp
 3557,1999,velez sarsfield,1,1,independiente
 3558,1999,colon sf,0,0,lanus
@@ -3565,7 +3565,7 @@ id,year,team1,score1,score2,team2
 3563,1999,rosario central,2,1,estudiantes lp
 3564,1999,talleres cba,2,2,san lorenzo
 3565,1999,boca juniors,2,0,newell's old boys
-3566,1999,gimnasia lp,3,1,belgrano cba
+3566,1999,gimnasia lp,3,1,belgrano (cba)
 3567,1999,huracan,1,3,argentinos juniors
 3568,1999,lanus,0,2,velez sarsfield
 3569,1999,union sf,0,2,colon sf
@@ -3577,7 +3577,7 @@ id,year,team1,score1,score2,team2
 3575,1999,argentinos juniors,2,0,talleres cba
 3576,1999,racing club,1,1,boca juniors
 3577,1999,newell's old boys,0,0,gimnasia lp
-3578,1999,belgrano cba,1,1,huracan
+3578,1999,belgrano (cba),1,1,huracan
 3579,1999,velez sarsfield,2,2,union sf
 3580,1999,colon sf,3,1,ferro carril oeste
 3581,1999,platense,1,3,gimnasia j
@@ -3588,7 +3588,7 @@ id,year,team1,score1,score2,team2
 3586,1999,boca juniors,3,0,platense
 3587,1999,gimnasia lp,0,2,racing club
 3588,1999,huracan,3,2,newell's old boys
-3589,1999,belgrano cba,2,2,argentinos juniors
+3589,1999,belgrano (cba),2,2,argentinos juniors
 3590,1999,ferro carril oeste,2,1,velez sarsfield
 3591,1999,gimnasia j,3,3,colon sf
 3592,1999,river plate,4,1,ferro carril oeste
@@ -3599,7 +3599,7 @@ id,year,team1,score1,score2,team2
 3597,1999,colon sf,0,3,boca juniors
 3598,1999,platense,0,1,gimnasia lp
 3599,1999,racing club,2,1,huracan
-3600,1999,newell's old boys,0,2,belgrano cba
+3600,1999,newell's old boys,0,2,belgrano (cba)
 3601,1999,velez sarsfield,1,1,gimnasia j
 3602,1999,gimnasia j,2,2,river plate
 3603,1999,ferro carril oeste,1,0,estudiantes lp
@@ -3609,7 +3609,7 @@ id,year,team1,score1,score2,team2
 3607,1999,boca juniors,2,0,velez sarsfield
 3608,1999,gimnasia lp,4,2,colon sf
 3609,1999,huracan,2,1,platense
-3610,1999,belgrano cba,3,2,racing club
+3610,1999,belgrano (cba),3,2,racing club
 3611,1999,newell's old boys,0,0,argentinos juniors
 3612,1999,river plate,0,0,boca juniors
 3613,1999,estudiantes lp,1,1,gimnasia j
@@ -3619,7 +3619,7 @@ id,year,team1,score1,score2,team2
 3617,1999,argentinos juniors,1,1,independiente
 3618,1999,velez sarsfield,0,1,gimnasia lp
 3619,1999,colon sf,2,0,huracan
-3620,1999,platense,1,1,belgrano cba
+3620,1999,platense,1,1,belgrano (cba)
 3621,1999,racing club,2,1,newell's old boys
 3622,1999,gimnasia lp,3,2,river plate
 3623,1999,boca juniors,3,0,estudiantes lp
@@ -3629,7 +3629,7 @@ id,year,team1,score1,score2,team2
 3627,1999,lanus,2,2,independiente
 3628,1999,racing club,3,3,argentinos juniors
 3629,1999,huracan,1,1,velez sarsfield
-3630,1999,belgrano cba,1,1,colon sf
+3630,1999,belgrano (cba),1,1,colon sf
 3631,1999,newell's old boys,2,1,platense
 3632,1999,river plate,3,4,huracan
 3633,1999,estudiantes lp,2,2,gimnasia lp
@@ -3639,9 +3639,9 @@ id,year,team1,score1,score2,team2
 3637,1999,independiente,0,1,union sf
 3638,1999,argentinos juniors,0,1,lanus
 3639,1999,platense,2,2,racing club
-3640,1999,velez sarsfield,1,2,belgrano cba
+3640,1999,velez sarsfield,1,2,belgrano (cba)
 3641,1999,colon sf,2,1,newell's old boys
-3642,1999,belgrano cba,0,1,river plate
+3642,1999,belgrano (cba),0,1,river plate
 3643,1999,huracan,2,2,estudiantes lp
 3644,1999,gimnasia lp,3,2,san lorenzo
 3645,1999,boca juniors,2,1,talleres cba
@@ -3652,7 +3652,7 @@ id,year,team1,score1,score2,team2
 3650,1999,platense,1,0,argentinos juniors
 3651,1999,newell's old boys,1,0,velez sarsfield
 3652,1999,river plate,2,0,newell's old boys
-3653,1999,estudiantes lp,2,0,belgrano cba
+3653,1999,estudiantes lp,2,0,belgrano (cba)
 3654,1999,san lorenzo,2,0,huracan
 3655,1999,talleres cba,2,1,gimnasia lp
 3656,1999,rosario central,2,3,boca juniors
@@ -3663,7 +3663,7 @@ id,year,team1,score1,score2,team2
 3661,1999,colon sf,2,1,platense
 3662,1999,racing club,2,2,river plate
 3663,1999,newell's old boys,3,0,estudiantes lp
-3664,1999,belgrano cba,2,2,san lorenzo
+3664,1999,belgrano (cba),2,2,san lorenzo
 3665,1999,huracan,2,5,talleres cba
 3666,1999,gimnasia lp,1,1,rosario central
 3667,1999,boca juniors,0,0,independiente
@@ -3673,7 +3673,7 @@ id,year,team1,score1,score2,team2
 3671,1999,platense,3,5,velez sarsfield
 3672,1999,river plate,1,0,platense
 3673,1999,san lorenzo,2,2,newell's old boys
-3674,1999,talleres cba,1,0,belgrano cba
+3674,1999,talleres cba,1,0,belgrano (cba)
 3675,1999,rosario central,2,0,huracan
 3676,1999,independiente,2,2,gimnasia lp
 3677,1999,lanus,1,1,boca juniors
@@ -3685,7 +3685,7 @@ id,year,team1,score1,score2,team2
 3683,1999,platense,3,2,estudiantes
 3684,1999,racing club,3,2,san lorenzo
 3685,1999,newell's old boys,4,2,talleres cba
-3686,1999,belgrano cba,0,0,rosario central
+3686,1999,belgrano (cba),0,0,rosario central
 3687,1999,huracan,1,1,independiente
 3688,1999,gimnasia lp,1,0,lanus
 3689,1999,boca juniors,3,1,union sf
@@ -3695,7 +3695,7 @@ id,year,team1,score1,score2,team2
 3693,1999,colon sf,1,0,estudiantes lp
 3694,1999,platense,1,2,san lorenzo
 3695,1999,newell's old boys,4,1,rosario central
-3696,1999,belgrano cba,3,3,independiente
+3696,1999,belgrano (cba),3,3,independiente
 3697,1999,huracan,0,2,lanus
 3698,1999,gimnasia lp,0,5,union sf
 3699,1999,boca juniors,3,0,ferro carril oeste
@@ -3707,7 +3707,7 @@ id,year,team1,score1,score2,team2
 3705,1999,talleres cba,3,2,platense
 3706,1999,rosario central,2,1,racing club
 3707,1999,independiente,1,1,newell's old boys
-3708,1999,lanus,2,0,belgrano cba
+3708,1999,lanus,2,0,belgrano (cba)
 3709,1999,union sf,2,2,huracan
 3710,1999,ferro carril oeste,0,1,gimnasia lp
 3711,1999,gimnasia j,0,2,boca juniors
@@ -3718,7 +3718,7 @@ id,year,team1,score1,score2,team2
 3716,1999,platense,1,1,rosario central
 3717,1999,racing club,0,2,independiente
 3718,1999,newell's old boys,3,2,lanus
-3719,1999,belgrano cba,1,0,union sf
+3719,1999,belgrano (cba),1,0,union sf
 3720,1999,huracan,1,0,ferro carril oeste
 3721,1999,gimnasia lp,7,5,gimnasia j
 3722,1999,san lorenzo,2,2,river plate
@@ -3729,7 +3729,7 @@ id,year,team1,score1,score2,team2
 3727,1999,independiente,2,1,platense
 3728,1999,lanus,1,0,racing club
 3729,1999,union sf,1,0,newell's old boys
-3730,1999,ferro carril oeste,0,1,belgrano cba
+3730,1999,ferro carril oeste,0,1,belgrano (cba)
 3731,1999,gimnasia j,2,2,huracan
 3732,1999,river plate,3,0,talleres cba
 3733,1999,estudiantes lp,0,2,san lorenzo
@@ -3740,11 +3740,11 @@ id,year,team1,score1,score2,team2
 3738,1999,platense,2,5,lanus
 3739,1999,racing club,4,2,union sf
 3740,1999,newell's old boys,0,0,ferro carril oeste
-3741,1999,belgrano cba,1,4,gimnasia j
+3741,1999,belgrano (cba),1,4,gimnasia j
 3742,1999,rosario central,3,1,river plate
 3743,1999,talleres cba,2,0,estudiantes lp
 3744,1999,san lorenzo,1,1,argentinos juniors
-3745,1999,boca juniors,1,0,belgrano cba
+3745,1999,boca juniors,1,0,belgrano (cba)
 3746,1999,gimnasia lp,1,0,huracan
 3747,1999,independiente,0,2,velez sarsfield
 3748,1999,lanus,2,1,colon sf
@@ -3755,7 +3755,7 @@ id,year,team1,score1,score2,team2
 3753,1999,estudiantes lp,1,1,rosario central
 3754,1999,san lorenzo,1,0,talleres cba
 3755,1999,newell's old boys,0,1,boca juniors
-3756,1999,belgrano cba,3,1,gimnasia lp
+3756,1999,belgrano (cba),3,1,gimnasia lp
 3757,1999,argentinos juniors,1,2,huracan
 3758,1999,velez sarsfield,3,2,lanus
 3759,1999,platense,0,0,ferro carril oeste
@@ -3766,7 +3766,7 @@ id,year,team1,score1,score2,team2
 3764,1999,talleres cba,1,1,argentinos juniors
 3765,1999,boca juniors,4,0,racing club
 3766,1999,gimnasia lp,3,2,newell's old boys
-3767,1999,huracan,0,3,belgrano cba
+3767,1999,huracan,0,3,belgrano (cba)
 3768,1999,union sf,1,0,velez sarsfield
 3769,1999,ferro carril oeste,0,0,colon sf
 3770,1999,gimnasia j,1,1,platense
@@ -3776,7 +3776,7 @@ id,year,team1,score1,score2,team2
 3774,1999,talleres cba,1,3,rosario central
 3775,1999,platense,0,2,boca juniors
 3776,1999,newell's old boys,4,0,huracan
-3777,1999,argentinos juniors,2,1,belgrano cba
+3777,1999,argentinos juniors,2,1,belgrano (cba)
 3778,1999,velez sarsfield,0,0,ferro carril oeste
 3779,1999,colon sf,1,3,gimnasia j
 3780,1999,racing club,2,1,gimnasia lp
@@ -3788,7 +3788,7 @@ id,year,team1,score1,score2,team2
 3786,1999,boca juniors,1,1,colon sf
 3787,1999,gimnasia lp,2,0,platense
 3788,1999,huracan,1,2,racing club
-3789,1999,belgrano cba,2,1,newell's old boys
+3789,1999,belgrano (cba),2,1,newell's old boys
 3790,1999,gimnasia j,1,2,velez sarsfield
 3791,1999,river plate,8,0,gimnasia j
 3792,1999,estudiantes lp,1,2,ferro carril oeste
@@ -3799,7 +3799,7 @@ id,year,team1,score1,score2,team2
 3797,1999,colon sf,2,2,gimnasia lp
 3798,1999,platense,2,1,huracan
 3799,1999,argentinos juniors,1,4,newell's old boys
-3800,1999,racing club,1,1,belgrano cba
+3800,1999,racing club,1,1,belgrano (cba)
 3801,1999,boca juniors,2,1,river plate
 3802,1999,gimnasia j,1,1,estudiantes lp
 3803,1999,ferro carril oeste,0,1,san lorenzo
@@ -3808,7 +3808,7 @@ id,year,team1,score1,score2,team2
 3806,1999,independiente,1,0,argentinos juniors
 3807,1999,gimnasia lp,3,1,velez sarsfield
 3808,1999,huracan,0,3,colon sf
-3809,1999,belgrano cba,0,0,platense
+3809,1999,belgrano (cba),0,0,platense
 3810,1999,newell's old boys,1,2,racing club
 3811,1999,river plate,3,1,gimnasia lp
 3812,1999,estudiantes lp,1,1,boca juniors
@@ -3818,7 +3818,7 @@ id,year,team1,score1,score2,team2
 3816,1999,independiente,2,0,lanus
 3817,1999,argentinos juniors,1,0,racing club
 3818,1999,velez sarsfield,1,1,huracan
-3819,1999,colon sf,2,1,belgrano cba
+3819,1999,colon sf,2,1,belgrano (cba)
 3820,1999,platense,0,3,newell's old boys
 3821,1999,huracan,0,1,river plate
 3822,1999,gimnasia lp,0,0,estudiantes lp
@@ -3828,9 +3828,9 @@ id,year,team1,score1,score2,team2
 3826,1999,union sf,2,1,independiente
 3827,1999,lanus,0,0,argentinos juniors
 3828,1999,racing club,0,1,platense
-3829,1999,belgrano cba,2,1,velez sarsfield
+3829,1999,belgrano (cba),2,1,velez sarsfield
 3830,1999,newell's old boys,1,1,colon sf
-3831,1999,river plate,1,0,belgrano cba
+3831,1999,river plate,1,0,belgrano (cba)
 3832,1999,estudiantes lp,1,1,huracan
 3833,1999,san lorenzo,3,2,gimnasia lp
 3834,1999,talleres cba,0,0,boca juniors
@@ -3841,7 +3841,7 @@ id,year,team1,score1,score2,team2
 3839,1999,argentinos juniors,1,0,platense
 3840,1999,velez sarsfield,4,0,newell's old boys
 3841,1999,newell's old boys,3,1,river plate
-3842,1999,belgrano cba,0,0,estudiantes lp
+3842,1999,belgrano (cba),0,0,estudiantes lp
 3843,1999,huracan,1,1,san lorenzo
 3844,1999,gimnasia lp,1,1,talleres cba
 3845,1999,boca juniors,1,0,rosario central
@@ -3852,7 +3852,7 @@ id,year,team1,score1,score2,team2
 3850,1999,platense,1,0,colon sf
 3851,1999,river plate,2,3,racing club
 3852,1999,estudiantes lp,0,0,newell's old boys
-3853,1999,san lorenzo,0,0,belgrano cba
+3853,1999,san lorenzo,0,0,belgrano (cba)
 3854,1999,talleres cba,2,2,huracan
 3855,1999,rosario central,2,0,gimnasia lp
 3856,1999,independiente,4,0,boca juniors
@@ -3862,7 +3862,7 @@ id,year,team1,score1,score2,team2
 3860,1999,velez sarsfield,1,1,platense
 3861,1999,platense,0,3,river plate
 3862,1999,newell's old boys,1,1,san lorenzo
-3863,1999,belgrano cba,0,0,talleres cba
+3863,1999,belgrano (cba),0,0,talleres cba
 3864,1999,huracan,0,2,rosario central
 3865,1999,gimnasia lp,1,0,independiente
 3866,1999,boca juniors,4,1,lanus
@@ -3874,7 +3874,7 @@ id,year,team1,score1,score2,team2
 3872,1999,estudiantes lp,0,2,platense
 3873,1999,san lorenzo,4,0,racing club
 3874,1999,talleres cba,1,1,newell's old boys
-3875,1999,rosario central,1,1,belgrano cba
+3875,1999,rosario central,1,1,belgrano (cba)
 3876,1999,independiente,4,1,huracan
 3877,1999,lanus,0,0,gimnasia lp
 3878,1999,union sf,2,2,boca juniors
@@ -4069,7 +4069,7 @@ id,year,team1,score1,score2,team2
 4067,2000,ferro,2,4,newell's ob
 4068,2000,chacarita,1,1,union
 4069,2000,instituto,3,1,gimnasia j
-4070,2000,belgrano cba,2,4,lanus
+4070,2000,belgrano (cba),2,4,lanus
 4071,2000,racing club,3,1,talleres cba
 4072,2000,instituto,1,2,river plate
 4073,2000,estudiantes,1,1,argentinos juniors
@@ -4087,7 +4087,7 @@ id,year,team1,score1,score2,team2
 4085,2000,river plate,1,1,rosario central
 4086,2000,gimnasia j,0,2,colon sf
 4087,2000,velez,3,0,estudiantes lp
-4088,2000,argentinos juniors,0,2,belgrano cba
+4088,2000,argentinos juniors,0,2,belgrano (cba)
 4089,2000,lanus,1,2,independiente
 4090,2000,boca juniors,1,1,lanus
 4091,2000,independiente,8,1,argentinos juniors
@@ -4112,7 +4112,7 @@ id,year,team1,score1,score2,team2
 4110,2000,ferro c o,1,0,chacarita juniors
 4111,2000,boca juniors,1,0,argentinos juniors
 4112,2000,independiente,4,2,gimnasia (jujuy)
-4113,2000,belgrano cba,0,1,river plate
+4113,2000,belgrano (cba),0,1,river plate
 4114,2000,estudiantes,1,3,newell's old boys
 4115,2000,colon sf,4,0,union sf
 4116,2000,rosario c,4,2,ginmasia lp
@@ -4126,7 +4126,7 @@ id,year,team1,score1,score2,team2
 4124,2000,ferro c o,0,4,boca juniors
 4125,2000,talleres cba,3,1,rosario central
 4126,2000,gimnasia lp,6,6,colon sf
-4127,2000,newell's ob,0,1,belgrano cba
+4127,2000,newell's ob,0,1,belgrano (cba)
 4128,2000,river plate,2,0,independiente
 4129,2000,union sf,2,1,estudiantes lp
 4130,2000,san lorenzo,4,0,ferro carril oeste
@@ -4135,7 +4135,7 @@ id,year,team1,score1,score2,team2
 4133,2000,lanus,1,1,river plate
 4134,2000,estudiantes,1,2,gimnasia lp
 4135,2000,independiente,1,2,newell's old boys
-4136,2000,belgrano cba,3,1,union sf
+4136,2000,belgrano (cba),3,1,union sf
 4137,2000,colon sf,0,1,talleres cba
 4138,2000,boca juniors,0,0,velez sarsfield
 4139,2000,instituto cba,1,3,chacarita juniors
@@ -4145,7 +4145,7 @@ id,year,team1,score1,score2,team2
 4143,2000,san lorenzo,0,1,boca juniors
 4144,2000,racing club,1,3,colon sf
 4145,2000,talleres cba,1,1,estudiantes lp
-4146,2000,gimnasia lp,1,3,belgrano cba
+4146,2000,gimnasia lp,1,3,belgrano (cba)
 4147,2000,union sf,3,1,independiente
 4148,2000,river plate,2,2,argentinos juniors
 4149,2000,chacarita jrs,1,0,rosario central
@@ -4154,12 +4154,12 @@ id,year,team1,score1,score2,team2
 4152,2000,instituto cba,1,0,san lorenzo
 4153,2000,velez,2,3,river plate
 4154,2000,estudiantes,2,2,racing club
-4155,2000,belgrano cba,0,0,talleres cba
+4155,2000,belgrano (cba),0,0,talleres cba
 4156,2000,rosario cent,4,2,ferro carril oeste
 4157,2000,lanus,5,2,union sf
 4158,2000,colon sf,1,0,chacarita juniors
 4159,2000,boca juniors,0,1,gimnasia (jujuy)
-4160,2000,racing club,0,0,belgrano cba
+4160,2000,racing club,0,0,belgrano (cba)
 4161,2000,talleres cba,0,4,independiente
 4162,2000,gimnasia lp,2,1,lanus
 4163,2000,newell's ob,1,1,velez sarsfield
@@ -4171,7 +4171,7 @@ id,year,team1,score1,score2,team2
 4169,2000,ferro c o,0,2,colon sf
 4170,2000,velez,0,2,union sf
 4171,2000,colon sf,2,1,san lorenzo
-4172,2000,belgrano cba,3,3,chacarita juniors
+4172,2000,belgrano (cba),3,3,chacarita juniors
 4173,2000,estudiantes,2,0,ferro carril oeste
 4174,2000,rosario cent,3,3,instituto cba
 4175,2000,gimnasia j,3,0,newell's old boys
@@ -4188,10 +4188,10 @@ id,year,team1,score1,score2,team2
 4186,2000,instituto cba,3,2,colon sf
 4187,2000,chacarita jrs,2,2,independiente
 4188,2000,boca juniors,2,0,rosario central
-4189,2000,ferro c o,1,5,belgrano cba
+4189,2000,ferro c o,1,5,belgrano (cba)
 4190,2000,independiente,2,0,ferro carril oeste
 4191,2000,lanus,3,0,chacarita juniors
-4192,2000,belgrano cba,1,2,san lorenzo
+4192,2000,belgrano (cba),1,2,san lorenzo
 4193,2000,colon sf,0,2,rosario central
 4194,2000,gimnasia j,0,1,gimnasia lp
 4195,2000,velez,0,0,talleres cba
@@ -4206,7 +4206,7 @@ id,year,team1,score1,score2,team2
 4204,2000,gimnasia lp,0,4,river plate
 4205,2000,boca juniors,3,2,colon sf
 4206,2000,rosario ctral,0,1,estudiantes lp
-4207,2000,instituto cba,2,0,belgrano cba
+4207,2000,instituto cba,2,0,belgrano (cba)
 4208,2000,san lorenzo,1,2,independiente
 4209,2000,talleres cba,2,1,gimnasia j
 4210,2000,independiente,3,2,instituto cba
@@ -4217,12 +4217,12 @@ id,year,team1,score1,score2,team2
 4215,2000,estudiantes,0,0,colon sf
 4216,2000,newell's ob,0,0,gimnasia lp
 4217,2000,river plate,2,0,talleres cba
-4218,2000,belgrano cba,1,2,rosario central
+4218,2000,belgrano (cba),1,2,rosario central
 4219,2000,union sf,2,5,boca juniors
 4220,2000,san lorenzo,3,2,argentinos juniors
 4221,2000,instituto cba,2,0,lanus
 4222,2000,ferro c o,0,1,velez sarsfield
-4223,2000,colon sf,2,0,belgrano cba
+4223,2000,colon sf,2,0,belgrano (cba)
 4224,2000,talleres cba,1,3,newell's old boys
 4225,2000,gimnasia lp,2,3,union sf
 4226,2000,rosario c,0,3,independiente
@@ -4235,7 +4235,7 @@ id,year,team1,score1,score2,team2
 4233,2000,gimnasia j,0,0,ferro carril oeste
 4234,2000,gimnasia lp,2,1,boca juniors
 4235,2000,lanus,1,0,rosario central
-4236,2000,belgrano cba,2,1,estudiantes lp
+4236,2000,belgrano (cba),2,1,estudiantes lp
 4237,2000,union sf,1,3,talleres cba
 4238,2000,velez,1,0,san lorenzo
 4239,2000,argentinos juniors,1,1,instituto cba
@@ -4245,7 +4245,7 @@ id,year,team1,score1,score2,team2
 4243,2000,colon sf,3,0,lanus
 4244,2000,san lorenzo,3,1,gimnasia j
 4245,2000,talleres cba,2,0,gimnasia lp
-4246,2000,boca juniors,5,1,belgrano cba
+4246,2000,boca juniors,5,1,belgrano (cba)
 4247,2000,estudiantes,1,1,independiente
 4248,2000,ferro c o,0,3,river plate
 4249,2000,chacarita jrs,0,1,newell's old boys
@@ -4256,12 +4256,12 @@ id,year,team1,score1,score2,team2
 4254,2000,talleres cba,2,2,boca juniors
 4255,2000,gimnasia j,2,2,instituto cba
 4256,2000,velez,2,1,rosario central
-4257,2000,independiente,2,1,belgrano cba
+4257,2000,independiente,2,1,belgrano (cba)
 4258,2000,river plate,2,2,san lorenzo
 4259,2000,newell's ob,2,0,ferro carril oeste
-4260,2000,quilmes,3,1,belgrano cba
+4260,2000,quilmes,3,1,belgrano (cba)
 4261,2000,almagro,1,0,instituto cba
-4262,2000,belgrano cba,3,1,quilmes
+4262,2000,belgrano (cba),3,1,quilmes
 4263,2000,instituto cba,1,1,almagro
 4264,2001,san lorenzo,3,0,gimnasia lp
 4265,2001,talleres cba,3,0,racing club
@@ -4270,11 +4270,11 @@ id,year,team1,score1,score2,team2
 4268,2001,estudiantes lp,1,1,river plate
 4269,2001,boca juniors,4,0,argentinos juniors
 4270,2001,chacarita jrs,0,0,union sf
-4271,2001,independiente,0,0,belgrano cba
+4271,2001,independiente,0,0,belgrano (cba)
 4272,2001,los andes,1,1,newell's old boys
 4273,2001,rosario central,1,1,almagro
 4274,2001,huracan,3,1,rosario central
-4275,2001,belgrano cba,1,1,talleres cba
+4275,2001,belgrano (cba),1,1,talleres cba
 4276,2001,union sf,1,2,boca juniors
 4277,2001,lanus,0,2,colon sf
 4278,2001,river plate,2,1,velez sarsfield
@@ -4290,7 +4290,7 @@ id,year,team1,score1,score2,team2
 4288,2001,argentinos juniors,4,0,union sf
 4289,2001,rosario central,1,1,lanus
 4290,2001,independiente,0,2,huracan
-4291,2001,los andes,2,2,belgrano cba
+4291,2001,los andes,2,2,belgrano (cba)
 4292,2001,san lorenzo,3,1,racing club
 4293,2001,talleres cba,1,0,almagro
 4294,2001,velez sarsfield,1,1,colon sf
@@ -4298,7 +4298,7 @@ id,year,team1,score1,score2,team2
 4296,2001,lanus,2,1,independiente
 4297,2001,union sf,0,1,estudiantes lp
 4298,2001,racing club,0,0,chacarita juniors
-4299,2001,belgrano cba,0,1,san lorenzo
+4299,2001,belgrano (cba),0,1,san lorenzo
 4300,2001,almagro,2,2,los andes
 4301,2001,huracan,1,1,talleres cba
 4302,2001,river plate,4,1,rosario central
@@ -4307,13 +4307,13 @@ id,year,team1,score1,score2,team2
 4305,2001,talleres cba,3,0,lanus
 4306,2001,los andes,1,0,huracan
 4307,2001,san lorenzo,2,0,almagro
-4308,2001,chacarita jrs,2,2,belgrano cba
+4308,2001,chacarita jrs,2,2,belgrano (cba)
 4309,2001,boca juniors,1,1,racing club
 4310,2001,rosario central,2,2,velez sarsfield
 4311,2001,independiente,0,1,river plate
 4312,2001,union sf,0,2,gimnasia lp
 4313,2001,estudiantes lp,2,0,colon sf
-4314,2001,belgrano cba,1,3,boca juniors
+4314,2001,belgrano (cba),1,3,boca juniors
 4315,2001,lanus,6,0,los andes
 4316,2001,river plate,4,1,talleres cba
 4317,2001,gimnasia lp,3,2,estudiantes lp
@@ -4327,7 +4327,7 @@ id,year,team1,score1,score2,team2
 4325,2001,talleres cba,1,0,velez sarsfield
 4326,2001,chacarita jrs,1,2,huracan
 4327,2001,boca juniors,2,0,almagro
-4328,2001,argentinos juniors,1,1,belgrano cba
+4328,2001,argentinos juniors,1,1,belgrano (cba)
 4329,2001,gimnasia lp,4,3,newell's old boys
 4330,2001,independiente,2,1,colon sf
 4331,2001,san lorenzo,4,2,lanus
@@ -4341,14 +4341,14 @@ id,year,team1,score1,score2,team2
 4339,2001,colon sf,4,2,talleres cba
 4340,2001,river plate,2,2,san lorenzo
 4341,2001,almagro,0,0,argentinos juniors
-4342,2001,belgrano cba,1,1,union sf
+4342,2001,belgrano (cba),1,1,union sf
 4343,2001,estudiantes lp,0,0,newell's old boys
 4344,2001,boca juniors,3,2,lanus
 4345,2001,newell's o b,1,1,racing club
 4346,2001,chacarita jrs,1,0,river plate
 4347,2001,argentinos juniors,1,1,huracan
 4348,2001,union sf,3,0,almagro
-4349,2001,gimnasia lp,2,2,belgrano cba
+4349,2001,gimnasia lp,2,2,belgrano (cba)
 4350,2001,independiente,0,1,estudiantes lp
 4351,2001,talleres cba,2,0,rosario central
 4352,2001,san lorenzo,0,1,velez sarsfield
@@ -4359,11 +4359,11 @@ id,year,team1,score1,score2,team2
 4357,2001,velez sarsfield,1,0,chacarita juniors
 4358,2001,estudiantes lp,1,1,racing club
 4359,2001,rosario central,6,2,los andes
-4360,2001,belgrano cba,5,1,newell's old boys
+4360,2001,belgrano (cba),5,1,newell's old boys
 4361,2001,river plate,1,1,boca juniors
 4362,2001,almagro,0,1,gimnasia lp
 4363,2001,lanus,1,1,argentinos juniors
-4364,2001,racing club,0,0,belgrano cba
+4364,2001,racing club,0,0,belgrano (cba)
 4365,2001,chacarita jrs,3,1,colon sf
 4366,2001,argentinos juniors,2,2,river plate
 4367,2001,union sf,0,0,lanus
@@ -4382,14 +4382,14 @@ id,year,team1,score1,score2,team2
 4380,2001,velez sarsfield,1,0,argentinos juniors
 4381,2001,colon sf,0,0,boca juniors
 4382,2001,independiente,1,2,san lorenzo
-4383,2001,estudiantes lp,2,0,belgrano cba
+4383,2001,estudiantes lp,2,0,belgrano (cba)
 4384,2001,san lorenzo,1,1,talleres cba
 4385,2001,union sf,1,1,velez sarsfield
 4386,2001,chacarita jrs,2,1,independiente
 4387,2001,gimnasia lp,2,2,river plate
 4388,2001,newell's o b,1,0,lanus
 4389,2001,racing club,2,2,huracan
-4390,2001,belgrano cba,1,0,almagro
+4390,2001,belgrano (cba),1,0,almagro
 4391,2001,los andes,1,0,estudiantes
 4392,2001,boca juniors,3,3,rosario central
 4393,2001,argentinos juniors,0,4,colon sf
@@ -4401,7 +4401,7 @@ id,year,team1,score1,score2,team2
 4399,2001,talleres cba,2,1,chacarita juniors
 4400,2001,lanus,4,2,racing club
 4401,2001,river plate,2,0,newell's old boys
-4402,2001,huracan,2,1,belgrano cba
+4402,2001,huracan,2,1,belgrano (cba)
 4403,2001,independiente,3,0,boca juniors
 4404,2001,argentinos juniors,0,1,independiente
 4405,2001,newell's o b,1,1,velez sarsfield
@@ -4412,11 +4412,11 @@ id,year,team1,score1,score2,team2
 4410,2001,almagro,1,1,huracan
 4411,2001,san lorenzo,1,1,estudiantes lp
 4412,2001,racing club,0,1,river plate
-4413,2001,belgrano cba,0,1,lanus
+4413,2001,belgrano (cba),0,1,lanus
 4414,2001,los andes,0,1,boca juniors
 4415,2001,colon sf,1,1,newell's old boys
 4416,2001,estudiantes lp,1,1,huracan
-4417,2001,river plate,4,2,belgrano cba
+4417,2001,river plate,4,2,belgrano (cba)
 4418,2001,rosario central,2,0,gimnasia lp
 4419,2001,independiente,3,1,union sf
 4420,2001,talleres cba,3,1,argentinos juniors
@@ -4426,7 +4426,7 @@ id,year,team1,score1,score2,team2
 4424,2001,racing club,0,4,colon sf
 4425,2001,union sf,3,1,talleres cba
 4426,2001,gimnasia lp,3,2,independiente
-4427,2001,belgrano cba,0,3,velez sarsfield
+4427,2001,belgrano (cba),0,3,velez sarsfield
 4428,2001,chacarita jrs,0,3,estudiantes lp
 4429,2001,newell's o b,0,0,rosario central
 4430,2001,almagro,4,5,river plate
@@ -4442,9 +4442,9 @@ id,year,team1,score1,score2,team2
 4440,2001,los andes,3,4,union sf
 4441,2001,san lorenzo,2,1,argentinos juniors
 4442,2001,river plate,1,1,huracan
-4443,2001,colon sf,1,2,belgrano cba
+4443,2001,colon sf,1,2,belgrano (cba)
 4444,2001,union sf,0,0,san lorenzo
-4445,2001,belgrano cba,1,4,rosario central
+4445,2001,belgrano (cba),1,4,rosario central
 4446,2001,huracan,2,2,velez sarsfield
 4447,2001,argentinos juniors,0,2,chacarita juniors
 4448,2001,lanus,3,2,river plate
@@ -4455,7 +4455,7 @@ id,year,team1,score1,score2,team2
 4453,2001,racing club,0,1,talleres cba
 4454,2001,huracan,1,3,colon sf
 4455,2001,union sf,3,0,chacarita juniors
-4456,2001,belgrano cba,0,0,independiente
+4456,2001,belgrano (cba),0,0,independiente
 4457,2001,lanus,0,0,velez sarsfield
 4458,2001,river plate,6,2,estudiantes lp
 4459,2001,argentinos juniors,2,2,boca juniors
@@ -4465,7 +4465,7 @@ id,year,team1,score1,score2,team2
 4463,2001,independiente,2,1,almagro
 4464,2001,colon sf,2,1,lanus
 4465,2001,boca juniors,1,3,union sf
-4466,2001,talleres cba,0,1,belgrano cba
+4466,2001,talleres cba,0,1,belgrano (cba)
 4467,2001,estudiantes lp,1,2,argentinos juniors
 4468,2001,rosario central,4,2,huracan
 4469,2001,chacarita jrs,0,1,gimnasia lp
@@ -4476,13 +4476,13 @@ id,year,team1,score1,score2,team2
 4474,2001,river plate,3,0,colon sf
 4475,2001,gimnasia lp,0,1,boca juniors
 4476,2001,union sf,3,0,argentinos juniors
-4477,2001,belgrano cba,0,0,los andes
+4477,2001,belgrano (cba),0,0,los andes
 4478,2001,lanus,4,1,rosario central
 4479,2001,newell's o b,1,2,chacarita juniors
 4480,2001,huracan,2,1,independiente
 4481,2001,racing club,2,0,san lorenzo
 4482,2001,almagro,2,2,talleres cba
-4483,2001,san lorenzo,2,0,belgrano cba
+4483,2001,san lorenzo,2,0,belgrano (cba)
 4484,2001,talleres cba,4,2,huracan
 4485,2001,rosario central,1,1,river plate
 4486,2001,argentinos juniors,2,1,gimnasia lp
@@ -4496,7 +4496,7 @@ id,year,team1,score1,score2,team2
 4494,2001,gimnasia lp,4,2,union sf
 4495,2001,racing club,2,1,boca juniors
 4496,2001,colon sf,1,1,estudiantes lp
-4497,2001,belgrano cba,1,2,chacarita juniors
+4497,2001,belgrano (cba),1,2,chacarita juniors
 4498,2001,lanus,2,1,talleres cba
 4499,2001,almagro,0,1,san lorenzo
 4500,2001,river plate,3,1,independiente
@@ -4505,7 +4505,7 @@ id,year,team1,score1,score2,team2
 4503,2001,talleres cba,3,1,river plate
 4504,2001,union sf,3,2,newell's old boys
 4505,2001,san lorenzo,1,1,huracan
-4506,2001,boca juniors,1,1,belgrano cba
+4506,2001,boca juniors,1,1,belgrano (cba)
 4507,2001,estudiantes lp,2,1,gimnasia lp
 4508,2001,los andes,2,1,lanus
 4509,2001,chacarita jrs,0,2,almagro
@@ -4520,7 +4520,7 @@ id,year,team1,score1,score2,team2
 4518,2001,velez sarsfield,2,0,talleres cba
 4519,2001,river plate,2,0,los andes
 4520,2001,colon sf,1,0,independiente
-4521,2001,belgrano cba,0,2,argentinos juniors
+4521,2001,belgrano (cba),0,2,argentinos juniors
 4522,2001,gimnasia lp,0,1,racing club
 4523,2001,argentinos juniors,1,1,almagro
 4524,2001,independiente,0,0,rosario central
@@ -4528,7 +4528,7 @@ id,year,team1,score1,score2,team2
 4526,2001,boca juniors,1,0,huracan
 4527,2001,los andes,4,2,velez sarsfield
 4528,2001,chacarita jrs,1,0,lanus
-4529,2001,union sf,1,2,belgrano cba
+4529,2001,union sf,1,2,belgrano (cba)
 4530,2001,san lorenzo,1,3,river plate
 4531,2001,talleres cba,3,0,colon sf
 4532,2001,racing club,2,0,newell's old boys
@@ -4538,14 +4538,14 @@ id,year,team1,score1,score2,team2
 4536,2001,river plate,1,0,chacarita juniors
 4537,2001,huracan,2,1,argentinos juniors
 4538,2001,almagro,0,0,union sf
-4539,2001,belgrano cba,0,0,gimnasia lp
+4539,2001,belgrano (cba),0,0,gimnasia lp
 4540,2001,velez sarsfield,0,2,san lorenzo
 4541,2001,colon sf,1,1,los andes
 4542,2001,talleres cba,1,0,independiente
 4543,2001,union sf,0,3,huracan
 4544,2001,san lorenzo,3,1,colon sf
 4545,2001,argentinos juniors,1,1,lanus
-4546,2001,newell's o b,4,1,belgrano cba
+4546,2001,newell's o b,4,1,belgrano (cba)
 4547,2001,gimnasia lp,1,1,almagro
 4548,2001,chacarita jrs,2,1,velez sarsfield
 4549,2001,los andes,1,4,rosario central
@@ -4558,14 +4558,14 @@ id,year,team1,score1,score2,team2
 4556,2001,colon sf,0,1,chacarita juniors
 4557,2001,velez sarsfield,5,2,boca juniors
 4558,2001,lanus,3,2,union sf
-4559,2001,belgrano cba,0,1,racing club
+4559,2001,belgrano (cba),0,1,racing club
 4560,2001,estudiantes lp,1,0,talleres cba
 4561,2001,independiente,4,0,los andes
 4562,2001,newell's o b,3,0,huracan
 4563,2001,racing club,0,4,almagro
 4564,2001,union sf,2,3,river plate
 4565,2001,argentinos juniors,0,0,velez sarsfield
-4566,2001,belgrano cba,1,1,estudiantes lp
+4566,2001,belgrano (cba),1,1,estudiantes lp
 4567,2001,gimnasia lp,1,3,lanus
 4568,2001,chacarita jrs,3,2,rosario central
 4569,2001,boca juniors,3,1,colon sf
@@ -4576,7 +4576,7 @@ id,year,team1,score1,score2,team2
 4574,2001,velez sarsfield,3,1,union sf
 4575,2001,colon sf,0,1,argentinos juniors
 4576,2001,huracan,1,1,racing club
-4577,2001,almagro,4,0,belgrano cba
+4577,2001,almagro,4,0,belgrano (cba)
 4578,2001,lanus,1,3,newell's old boys
 4579,2001,rosario central,1,2,boca juniors
 4580,2001,talleres cba,0,3,san lorenzo
@@ -4586,7 +4586,7 @@ id,year,team1,score1,score2,team2
 4584,2001,gimnasia lp,2,2,velez sarsfield
 4585,2001,almagro,0,4,estudiantes lp
 4586,2001,argentinos juniors,4,0,rosario central
-4587,2001,belgrano cba,1,2,huracan
+4587,2001,belgrano (cba),1,2,huracan
 4588,2001,san lorenzo,1,0,los andes
 4589,2001,newell's o b,2,3,river plate
 4590,2001,boca juniors,2,1,independiente
@@ -4595,7 +4595,7 @@ id,year,team1,score1,score2,team2
 4593,2001,huracan,2,0,almagro
 4594,2001,talleres cba,0,0,boca juniors
 4595,2001,estudiantes lp,0,5,san lorenzo
-4596,2001,lanus,1,0,belgrano cba
+4596,2001,lanus,1,0,belgrano (cba)
 4597,2001,colon sf,1,0,gimnasia lp
 4598,2001,los andes,1,0,chacarita juniors
 4599,2001,velez sarsfield,2,0,newell's old boys
@@ -4605,7 +4605,7 @@ id,year,team1,score1,score2,team2
 4603,2001,almagro,2,1,lanus
 4604,2001,argentinos juniors,1,0,talleres cba
 4605,2001,chacarita jrs,0,4,san lorenzo
-4606,2001,belgrano cba,1,3,river plate
+4606,2001,belgrano (cba),1,3,river plate
 4607,2001,newell's o b,1,3,colon sf
 4608,2001,racing club,1,1,velez sarsfield
 4609,2001,gimnasia lp,0,1,rosario central
@@ -4618,7 +4618,7 @@ id,year,team1,score1,score2,team2
 4616,2001,los andes,2,2,argentinos juniors
 4617,2001,rosario central,1,2,newell's old boys
 4618,2001,river plate,5,1,almagro
-4619,2001,velez sarsfield,0,3,belgrano cba
+4619,2001,velez sarsfield,0,3,belgrano (cba)
 4620,2001,san lorenzo,1,0,boca juniors
 4621,2001,lanus,1,1,huracan
 4622,2001,boca juniors,4,4,chacarita jrs
@@ -4630,11 +4630,11 @@ id,year,team1,score1,score2,team2
 4628,2001,union sf,4,2,los andes
 4629,2001,argentinos juniors,0,2,san lorenzo
 4630,2001,huracan,3,2,river plate
-4631,2001,belgrano cba,3,1,colon sf
+4631,2001,belgrano (cba),3,1,colon sf
 4632,2001,velez sarsfield,2,0,huracan
 4633,2001,san lorenzo,2,1,union sf
 4634,2001,independiente,0,1,racing club
-4635,2001,rosario central,1,3,belgrano cba
+4635,2001,rosario central,1,3,belgrano (cba)
 4636,2001,chacarita jrs,2,1,argentinos juniors
 4637,2001,river plate,1,2,lanus
 4638,2001,estudiantes,1,1,boca juniors
@@ -8867,7 +8867,7 @@ id,year,team1,score1,score2,team2
 8865,2012,union (santa fe),1,1,argentinos juniors
 8866,2012,godoy cruz at,1,1,velez sarsfield
 8867,2012,arsenal,1,2,colon (santa fe)
-8868,2012,all boys,1,1,belgrano (cordoba)
+8868,2012,all boys,1,1,belgrano (cba)
 8869,2012,tigre,1,1,racing club
 8870,2012,olimpo,0,0,boca juniors
 8871,2012,newell's old boys,0,0,estudiantes lp
@@ -8880,7 +8880,7 @@ id,year,team1,score1,score2,team2
 8878,2012,san martin (san juan),2,1,tigre
 8879,2012,lanus,1,0,independiente
 8880,2012,argentinos juniors,1,1,newell's old boys
-8881,2012,belgrano (cordoba),1,1,olimpo
+8881,2012,belgrano (cba),1,1,olimpo
 8882,2012,colon (santa fe),1,1,all boys
 8883,2012,racing club,3,0,godoy cruz at
 8884,2012,arsenal,0,1,velez sarsfield
@@ -8892,7 +8892,7 @@ id,year,team1,score1,score2,team2
 8890,2012,all boys,1,2,atletico rafaela
 8891,2012,newell's old boys,0,1,boca juniors
 8892,2012,olimpo,0,1,colon (santa fe)
-8893,2012,union (santa fe),0,0,belgrano (cordoba)
+8893,2012,union (santa fe),0,0,belgrano (cba)
 8894,2012,estudiantes lp,2,2,san martin (san juan)
 8895,2012,racing club,0,0,arsenal
 8896,2012,godoy cruz at,1,0,banfield
@@ -8901,11 +8901,11 @@ id,year,team1,score1,score2,team2
 8899,2012,velez sarsfield,0,1,all boys
 8900,2012,argentinos juniors,0,0,independiente
 8901,2012,boca juniors,1,1,san lorenzo
-8902,2012,belgrano (cordoba),2,3,newell's old boys
+8902,2012,belgrano (cba),2,3,newell's old boys
 8903,2012,colon (santa fe),0,2,union (santa fe)
 8904,2012,tigre,1,0,banfield
 8905,2012,newell's old boys,0,0,colon (santa fe)
-8906,2012,san lorenzo,0,1,belgrano (cordoba)
+8906,2012,san lorenzo,0,1,belgrano (cba)
 8907,2012,arsenal,1,2,godoy cruz at
 8908,2012,all boys,0,0,racing club
 8909,2012,lanus,2,1,estudiantes lp
@@ -8919,13 +8919,13 @@ id,year,team1,score1,score2,team2
 8917,2012,racing club,1,0,olimpo
 8918,2012,godoy cruz at,6,1,all boys
 8919,2012,boca juniors,1,0,san martin (san juan)
-8920,2012,belgrano (cordoba),2,0,independiente
+8920,2012,belgrano (cba),2,0,independiente
 8921,2012,velez sarsfield,0,1,union (santa fe)
 8922,2012,banfield,0,1,arsenal
 8923,2012,argentinos juniors,0,4,lanus
 8924,2012,olimpo,2,2,godoy cruz at
 8925,2012,independiente,0,1,colon (santa fe)
-8926,2012,san martin (san juan),0,1,belgrano (cordoba)
+8926,2012,san martin (san juan),0,1,belgrano (cba)
 8927,2012,tigre,2,2,arsenal
 8928,2012,all boys,0,1,banfield
 8929,2012,san lorenzo,1,3,atletico rafaela
@@ -8936,7 +8936,7 @@ id,year,team1,score1,score2,team2
 8934,2012,colon (santa fe),0,0,san martin (san juan)
 8935,2012,banfield,1,1,olimpo
 8936,2012,arsenal,1,2,all boys
-8937,2012,belgrano (cordoba),0,0,lanus
+8937,2012,belgrano (cba),0,0,lanus
 8938,2012,atletico rafaela,1,3,independiente
 8939,2012,velez sarsfield,1,2,san lorenzo
 8940,2012,racing club,1,0,newell's old boys
@@ -8948,12 +8948,12 @@ id,year,team1,score1,score2,team2
 8946,2012,tigre,1,1,all boys
 8947,2012,san lorenzo,0,0,racing club
 8948,2012,independiente,0,1,velez sarsfield
-8949,2012,estudiantes lp,2,3,belgrano (cordoba)
+8949,2012,estudiantes lp,2,3,belgrano (cba)
 8950,2012,argentinos juniors,0,0,boca juniors
 8951,2012,lanus,1,1,colon (santa fe)
 8952,2012,union (santa fe),1,0,banfield
 8953,2012,newell's old boys,1,1,godoy cruz at
-8954,2012,belgrano (cordoba),1,2,argentinos juniors
+8954,2012,belgrano (cba),1,2,argentinos juniors
 8955,2012,atletico rafaela,2,1,lanus
 8956,2012,velez sarsfield,1,0,san martin (san juan)
 8957,2012,boca juniors,1,0,tigre
@@ -8972,7 +8972,7 @@ id,year,team1,score1,score2,team2
 8970,2012,lanus,1,2,velez sarsfield
 8971,2012,estudiantes lp,3,0,atletico rafaela
 8972,2012,argentinos juniors,0,0,colon (santa fe)
-8973,2012,boca juniors,0,0,belgrano (cordoba)
+8973,2012,boca juniors,0,0,belgrano (cba)
 8974,2012,banfield,3,0,independiente
 8975,2012,all boys,1,1,newell's old boys
 8976,2012,olimpo,0,1,union (santa fe)
@@ -8980,7 +8980,7 @@ id,year,team1,score1,score2,team2
 8978,2012,atletico rafaela,3,1,argentinos juniors
 8979,2012,velez sarsfield,1,0,estudiantes lp
 8980,2012,arsenal,1,0,san lorenzo
-8981,2012,tigre,0,1,belgrano (cordoba)
+8981,2012,tigre,0,1,belgrano (cba)
 8982,2012,racing club,1,1,lanus
 8983,2012,godoy cruz at,2,2,san martin (san juan)
 8984,2012,newell's old boys,2,2,olimpo
@@ -8988,12 +8988,12 @@ id,year,team1,score1,score2,team2
 8986,2012,argentinos juniors,3,1,velez sarsfield
 8987,2012,lanus,2,1,godoy cruz at
 8988,2012,boca juniors,3,1,atletico rafaela
-8989,2012,belgrano (cordoba),0,1,colon (santa fe)
+8989,2012,belgrano (cba),0,1,colon (santa fe)
 8990,2012,union (santa fe),1,1,tigre
 8991,2012,san martin (san juan),2,1,banfield
 8992,2012,estudiantes lp,0,0,racing club
 8993,2012,san lorenzo,0,1,all boys
-8994,2012,atletico rafaela,0,0,belgrano (cordoba)
+8994,2012,atletico rafaela,0,0,belgrano (cba)
 8995,2012,all boys,2,2,independiente
 8996,2012,olimpo,1,1,san lorenzo
 8997,2012,tigre,2,1,colon (santa fe)
@@ -9007,14 +9007,14 @@ id,year,team1,score1,score2,team2
 9005,2012,san martin (san juan),0,0,all boys
 9006,2012,independiente,3,0,olimpo
 9007,2012,argentinos juniors,1,0,godoy cruz at
-9008,2012,belgrano (cordoba),1,3,velez sarsfield
+9008,2012,belgrano (cba),1,3,velez sarsfield
 9009,2012,san lorenzo,0,1,union (santa fe)
 9010,2012,boca juniors,0,0,racing club
 9011,2012,colon (santa fe),1,0,atletico rafaela
 9012,2012,lanus,0,1,arsenal
 9013,2012,estudiantes lp,2,1,banfield
 9014,2012,tigre,3,0,atletico rafaela
-9015,2012,racing club,2,3,belgrano (cordoba)
+9015,2012,racing club,2,3,belgrano (cba)
 9016,2012,all boys,0,0,lanus
 9017,2012,olimpo,0,3,san martin (san juan)
 9018,2012,newell's old boys,0,0,san lorenzo
@@ -9031,7 +9031,7 @@ id,year,team1,score1,score2,team2
 9029,2012,atletico rafaela,2,0,velez sarsfield
 9030,2012,independiente,1,1,newell's old boys
 9031,2012,boca juniors,3,0,banfield
-9032,2012,belgrano (cordoba),1,1,godoy cruz at
+9032,2012,belgrano (cba),1,1,godoy cruz at
 9033,2012,san lorenzo,1,0,tigre
 9034,2012,racing club,1,0,atletico rafaela
 9035,2012,all boys,1,0,argentinos juniors
@@ -9040,13 +9040,13 @@ id,year,team1,score1,score2,team2
 9038,2012,godoy cruz at,0,1,colon (santa fe)
 9039,2012,arsenal,2,2,boca juniors
 9040,2012,tigre,1,3,velez sarsfield
-9041,2012,banfield,0,2,belgrano (cordoba)
+9041,2012,banfield,0,2,belgrano (cba)
 9042,2012,newell's old boys,0,0,san martin (san juan)
 9043,2012,san lorenzo,0,1,independiente
 9044,2012,estudiantes lp,2,0,union (santa fe)
 9045,2012,argentinos juniors,1,0,olimpo
 9046,2012,boca juniors,1,0,all boys
-9047,2012,belgrano (cordoba),1,0,arsenal
+9047,2012,belgrano (cba),1,0,arsenal
 9048,2012,independiente,2,1,tigre
 9049,2012,san martin (san juan),1,0,san lorenzo
 9050,2012,lanus,2,2,newell's old boys
@@ -9055,7 +9055,7 @@ id,year,team1,score1,score2,team2
 9053,2012,velez sarsfield,1,0,racing club
 9054,2012,boca juniors,2,0,olimpo
 9055,2012,lanus,4,1,san lorenzo
-9056,2012,belgrano (cordoba),0,0,all boys
+9056,2012,belgrano (cba),0,0,all boys
 9057,2012,estudiantes lp,1,1,newell's old boys
 9058,2012,san martin (san juan),1,0,independiente
 9059,2012,racing club,0,0,tigre
@@ -9063,7 +9063,7 @@ id,year,team1,score1,score2,team2
 9061,2012,atletico rafaela,3,0,banfield
 9062,2012,argentinos juniors,0,0,union (santa fe)
 9063,2012,colon (santa fe),0,0,arsenal
-9064,2012,olimpo,4,1,belgrano (cordoba)
+9064,2012,olimpo,4,1,belgrano (cba)
 9065,2012,banfield,0,4,velez sarsfield
 9066,2012,newell's old boys,1,0,argentinos juniors
 9067,2012,all boys,2,0,colon (santa fe)
@@ -9074,7 +9074,7 @@ id,year,team1,score1,score2,team2
 9072,2012,godoy cruz at,1,0,racing club
 9073,2012,tigre,3,1,san martin (san juan)
 9074,2012,atletico rafaela,0,1,all boys
-9075,2012,belgrano (cordoba),1,0,union (santa fe)
+9075,2012,belgrano (cba),1,0,union (santa fe)
 9076,2012,colon (santa fe),3,1,olimpo
 9077,2012,argentinos juniors,0,1,san lorenzo
 9078,2012,estudiantes lp,2,0,independiente
@@ -9083,7 +9083,7 @@ id,year,team1,score1,score2,team2
 9081,2012,velez sarsfield,3,2,arsenal
 9082,2012,boca juniors,2,0,newell's old boys
 9083,2012,lanus,1,3,san martin (san juan)
-9084,2012,newell's old boys,0,2,belgrano (cordoba)
+9084,2012,newell's old boys,0,2,belgrano (cba)
 9085,2012,banfield,1,1,godoy cruz at
 9086,2012,san martin (san juan),0,1,estudiantes lp
 9087,2012,independiente,1,3,argentinos juniors
@@ -9096,7 +9096,7 @@ id,year,team1,score1,score2,team2
 9094,2012,colon (santa fe),0,3,newell's old boys
 9095,2012,estudiantes lp,1,0,lanus
 9096,2012,racing club,3,0,all boys
-9097,2012,belgrano (cordoba),1,2,san lorenzo
+9097,2012,belgrano (cba),1,2,san lorenzo
 9098,2012,argentinos juniors,1,1,san martin (san juan)
 9099,2012,banfield,0,2,tigre
 9100,2012,godoy cruz at,0,1,arsenal
@@ -9106,7 +9106,7 @@ id,year,team1,score1,score2,team2
 9104,2012,lanus,0,1,argentinos juniors
 9105,2012,all boys,1,1,godoy cruz at
 9106,2012,tigre,1,1,estudiantes lp
-9107,2012,independiente,2,0,belgrano (cordoba)
+9107,2012,independiente,2,0,belgrano (cba)
 9108,2012,union (santa fe),3,3,velez sarsfield
 9109,2012,olimpo,0,3,racing club
 9110,2012,san martin (san juan),0,1,boca juniors
@@ -9116,14 +9116,14 @@ id,year,team1,score1,score2,team2
 9114,2012,banfield,0,0,all boys
 9115,2012,racing club,0,3,union (santa fe)
 9116,2012,atletico rafaela,2,1,san lorenzo
-9117,2012,belgrano (cordoba),1,1,san martin (san juan)
+9117,2012,belgrano (cba),1,1,san martin (san juan)
 9118,2012,arsenal,1,0,tigre
 9119,2012,colon (santa fe),3,0,independiente
 9120,2012,boca juniors,2,2,lanus
 9121,2012,argentinos juniors,1,2,estudiantes lp
 9122,2012,godoy cruz at,1,1,olimpo
 9123,2012,velez sarsfield,0,1,newell's old boys
-9124,2012,lanus,0,1,belgrano (cordoba)
+9124,2012,lanus,0,1,belgrano (cba)
 9125,2012,tigre,1,2,argentinos juniors
 9126,2012,independiente,2,0,atletico rafaela
 9127,2012,union (santa fe),1,1,godoy cruz at
@@ -9141,7 +9141,7 @@ id,year,team1,score1,score2,team2
 9139,2012,colon (santa fe),1,0,lanus
 9140,2012,boca juniors,2,1,argentinos juniors
 9141,2012,godoy cruz at,1,1,newell's old boys
-9142,2012,belgrano (cordoba),2,1,estudiantes lp
+9142,2012,belgrano (cba),2,1,estudiantes lp
 9143,2012,racing club,1,1,san lorenzo
 9144,2012,estudiantes lp,2,2,colon (santa fe)
 9145,2012,san martin (san juan),1,3,velez sarsfield
@@ -9149,7 +9149,7 @@ id,year,team1,score1,score2,team2
 9147,2012,san lorenzo,3,0,godoy cruz at
 9148,2012,olimpo,1,2,all boys
 9149,2012,tigre,2,1,boca juniors
-9150,2012,argentinos juniors,0,0,belgrano (cordoba)
+9150,2012,argentinos juniors,0,0,belgrano (cba)
 9151,2012,newell's old boys,3,0,banfield
 9152,2012,union (santa fe),1,0,arsenal
 9153,2012,lanus,1,0,atletico rafaela
@@ -9161,7 +9161,7 @@ id,year,team1,score1,score2,team2
 9159,2012,all boys,2,1,union (santa fe)
 9160,2012,banfield,1,1,san lorenzo
 9161,2012,godoy cruz at,0,0,independiente
-9162,2012,belgrano (cordoba),1,1,boca juniors
+9162,2012,belgrano (cba),1,1,boca juniors
 9163,2012,arsenal,1,1,newell's old boys
 9164,2012,estudiantes lp,0,2,velez sarsfield
 9165,2012,lanus,3,1,racing club
@@ -9172,7 +9172,7 @@ id,year,team1,score1,score2,team2
 9170,2012,argentinos juniors,0,0,atletico rafaela
 9171,2012,san lorenzo,2,0,arsenal
 9172,2012,union (santa fe),2,0,olimpo
-9173,2012,belgrano (cordoba),1,1,tigre
+9173,2012,belgrano (cba),1,1,tigre
 9174,2012,banfield,1,2,san martin (san juan)
 9175,2012,tigre,4,0,union (santa fe)
 9176,2012,arsenal,3,1,independiente
@@ -9182,10 +9182,10 @@ id,year,team1,score1,score2,team2
 9180,2012,godoy cruz at,0,1,lanus
 9181,2012,racing club,2,0,estudiantes lp
 9182,2012,atletico rafaela,2,2,boca juniors
-9183,2012,colon (santa fe),2,0,belgrano (cordoba)
+9183,2012,colon (santa fe),2,0,belgrano (cba)
 9184,2012,estudiantes lp,1,0,godoy cruz at
 9185,2012,san martin (san juan),1,4,arsenal
-9186,2012,belgrano (cordoba),1,1,atletico rafaela
+9186,2012,belgrano (cba),1,1,atletico rafaela
 9187,2012,independiente,0,3,all boys
 9188,2012,san lorenzo,1,1,olimpo
 9189,2012,newell's old boys,3,1,union (santa fe)
@@ -9200,11 +9200,11 @@ id,year,team1,score1,score2,team2
 9198,2012,banfield,0,3,estudiantes lp
 9199,2012,olimpo,2,1,independiente
 9200,2012,racing club,0,2,boca juniors
-9201,2012,velez sarsfield,0,1,belgrano (cordoba)
+9201,2012,velez sarsfield,0,1,belgrano (cba)
 9202,2012,atletico rafaela,0,0,colon (santa fe)
 9203,2012,arsenal,3,1,lanus
 9204,2012,san martin (san juan),3,2,olimpo
-9205,2012,belgrano (cordoba),0,1,racing club
+9205,2012,belgrano (cba),0,1,racing club
 9206,2012,argentinos juniors,1,0,banfield
 9207,2012,lanus,1,0,all boys
 9208,2012,atletico rafaela,1,1,tigre
@@ -9221,12 +9221,12 @@ id,year,team1,score1,score2,team2
 9219,2012,tigre,3,1,san lorenzo
 9220,2012,olimpo,2,2,lanus
 9221,2012,all boys,3,1,estudiantes lp
-9222,2012,godoy cruz at,2,1,belgrano (cordoba)
+9222,2012,godoy cruz at,2,1,belgrano (cba)
 9223,2012,racing club,1,1,colon (santa fe)
 9224,2012,lanus,0,0,union (santa fe)
 9225,2012,san martin (san juan),2,1,newell's old boys
 9226,2012,velez sarsfield,0,1,tigre
-9227,2012,belgrano (cordoba),3,1,banfield
+9227,2012,belgrano (cba),3,1,banfield
 9228,2012,estudiantes lp,1,0,olimpo
 9229,2012,atletico rafaela,4,2,racing club
 9230,2012,boca juniors,0,3,arsenal
@@ -9240,7 +9240,7 @@ id,year,team1,score1,score2,team2
 9238,2012,san lorenzo,3,1,san martin (san juan)
 9239,2012,union (santa fe),2,2,estudiantes lp
 9240,2012,all boys,3,1,boca juniors
-9241,2012,arsenal,1,0,belgrano (cordoba)
+9241,2012,arsenal,1,0,belgrano (cba)
 9242,2012,banfield,0,3,colon (santa fe)
 9243,2012,godoy cruz at,1,3,atletico rafaela
 9244,2012,rosario central,0,0,san martin (san juan)
@@ -9326,7 +9326,7 @@ id,year,team1,score1,score2,team2
 9324,2012,estudiantes lp,2,1,union (villa krause)
 9325,2012,chacarita juniors,2,1,union (santa fe)
 9326,2012,tigre,4,2,defensa y justicia
-9327,2012,belgrano (cordoba),3,0,sacachispas
+9327,2012,belgrano (cba),3,0,sacachispas
 9328,2012,central norte (salta),1,2,olimpo (bahia blanca)
 9329,2012,colon (santa fe),2,1,talleres (cordoba)
 9330,2012,sportivo desamparados (sj),0,1,gimnasia y esgrima lp
@@ -9342,7 +9342,7 @@ id,year,team1,score1,score2,team2
 9340,2012,arsenal,2,1,general lamadrid
 9341,2012,central cordoba (rosario),0,2,boca juniors
 9342,2012,sportivo belgrano (sfco),0,2,river plate
-9343,2012,belgrano (cordoba),2,0,independiente
+9343,2012,belgrano (cba),2,0,independiente
 9344,2012,colon (santa fe),0,1,sarmiento (junin)
 9345,2012,atlanta,1,2,quilmes
 9346,2012,atletico rafaela,2,0,banfield
@@ -9354,7 +9354,7 @@ id,year,team1,score1,score2,team2
 9352,2012,tigre,1,0,argentinos juniors
 9353,2012,racing club,2,0,sarmiento (resistencia)
 9354,2012,deportivo merlo,2,1,sarmiento (junin]
-9355,2012,belgrano (cordoba),1,2,rosario central
+9355,2012,belgrano (cba),1,2,rosario central
 9356,2012,atletico tucuman,0,1,racing club
 9357,2012,river plate,2,0,san lorenzo de almagro
 9358,2012,deportivo merlo,2,1,tigre
@@ -9754,13 +9754,13 @@ id,year,team1,score1,score2,team2
 9752,2013,quilmes atletico club,3,0,boca juniors
 9753,2013,racing club,1,1,atletico de rafaela
 9754,2013,godoy cruz antonio tomba,1,1,all boys (buenos aires)
-9755,2013,river plate,1,2,belgrano (cordoba)
+9755,2013,river plate,1,2,belgrano (cba)
 9756,2013,san lorenzo de almagro,2,1,san martin (san juan)
 9757,2013,tigre,1,2,estudiantes de la plata
 9758,2013,lanus,0,1,newell's old boys
 9759,2013,san martin (san juan),0,1,colon
 9760,2013,all boys (buenos aires),1,1,quilmes atletico club
-9761,2013,belgrano (cordoba),0,0,san lorenzo de almagro
+9761,2013,belgrano (cba),0,0,san lorenzo de almagro
 9762,2013,estudiantes de la plata,0,2,river plate
 9763,2013,argentinos juniors,0,2,racing club
 9764,2013,boca juniors,2,0,tigre
@@ -9768,7 +9768,7 @@ id,year,team1,score1,score2,team2
 9766,2013,atletico de rafaela,0,0,arsenal
 9767,2013,independiente (avellaneda),0,0,velez sarsfield
 9768,2013,boca juniors,3,1,all boys (buenos aires)
-9769,2013,colon,2,2,belgrano (cordoba)
+9769,2013,colon,2,2,belgrano (cba)
 9770,2013,san lorenzo de almagro,0,1,estudiantes de la plata
 9771,2013,godoy cruz antonio tomba,2,0,atletico de rafaela
 9772,2013,racing club,2,0,independiente (avellaneda)
@@ -9782,7 +9782,7 @@ id,year,team1,score1,score2,team2
 9780,2013,independiente (avellaneda),0,2,arsenal
 9781,2013,union (santa fe),1,2,boca juniors
 9782,2013,atletico de rafaela,1,1,quilmes atletico club
-9783,2013,belgrano (cordoba),0,0,newell's old boys
+9783,2013,belgrano (cba),0,0,newell's old boys
 9784,2013,lanus,1,1,racing club
 9785,2013,river plate,0,0,san lorenzo de almagro
 9786,2013,san martin (san juan),0,3,velez sarsfield
@@ -9790,7 +9790,7 @@ id,year,team1,score1,score2,team2
 9788,2013,all boys (buenos aires),3,1,union (santa fe)
 9789,2013,arsenal,1,0,lanus
 9790,2013,newell's old boys,1,0,estudiantes de la plata
-9791,2013,velez sarsfield,2,1,belgrano (cordoba)
+9791,2013,velez sarsfield,2,1,belgrano (cba)
 9792,2013,boca juniors,2,1,atletico de rafaela
 9793,2013,colon,1,1,river plate
 9794,2013,godoy cruz antonio tomba,2,1,independiente (avellaneda)
@@ -9802,7 +9802,7 @@ id,year,team1,score1,score2,team2
 9800,2013,san lorenzo de almagro,2,1,colon
 9801,2013,san martin (san juan),4,0,arsenal
 9802,2013,argentinos juniors,1,1,boca juniors
-9803,2013,belgrano (cordoba),1,0,racing club
+9803,2013,belgrano (cba),1,0,racing club
 9804,2013,independiente (avellaneda),1,1,quilmes atletico club
 9805,2013,river plate,3,3,newell's old boys
 9806,2013,lanus,2,0,godoy cruz antonio tomba
@@ -9811,14 +9811,14 @@ id,year,team1,score1,score2,team2
 9809,2013,godoy cruz antonio tomba,1,0,san martin (san juan)
 9810,2013,racing club,0,1,estudiantes de la plata
 9811,2013,tigre,2,2,colon
-9812,2013,arsenal,0,2,belgrano (cordoba)
+9812,2013,arsenal,0,2,belgrano (cba)
 9813,2013,boca juniors,2,1,independiente (avellaneda)
 9814,2013,newell's old boys,1,0,san lorenzo de almagro
 9815,2013,velez sarsfield,2,0,river plate
 9816,2013,quilmes atletico club,0,0,lanus
 9817,2013,union (santa fe),0,0,atletico de rafaela
 9818,2013,atletico de rafaela,3,0,tigre
-9819,2013,belgrano (cordoba),1,0,godoy cruz antonio tomba
+9819,2013,belgrano (cba),1,0,godoy cruz antonio tomba
 9820,2013,argentinos juniors,3,3,union (santa fe)
 9821,2013,independiente (avellaneda),1,1,all boys (buenos aires)
 9822,2013,san lorenzo de almagro,1,2,velez sarsfield
@@ -9827,7 +9827,7 @@ id,year,team1,score1,score2,team2
 9825,2013,river plate,0,1,racing club
 9826,2013,san martin (san juan),4,0,quilmes atletico club
 9827,2013,estudiantes de la plata,2,1,arsenal
-9828,2013,quilmes atletico club,1,1,belgrano (cordoba)
+9828,2013,quilmes atletico club,1,1,belgrano (cba)
 9829,2013,all boys (buenos aires),2,1,lanus
 9830,2013,atletico de rafaela,5,3,argentinos juniors
 9831,2013,godoy cruz antonio tomba,1,0,estudiantes de la plata
@@ -9843,13 +9843,13 @@ id,year,team1,score1,score2,team2
 9841,2013,estudiantes de la plata,2,1,quilmes atletico club
 9842,2013,san lorenzo de almagro,0,0,arsenal
 9843,2013,san martin (san juan),2,1,all boys (buenos aires)
-9844,2013,belgrano (cordoba),3,1,boca juniors
+9844,2013,belgrano (cba),3,1,boca juniors
 9845,2013,independiente (avellaneda),2,0,atletico de rafaela
 9846,2013,newell's old boys,1,0,velez sarsfield
 9847,2013,river plate,5,0,godoy cruz antonio tomba
 9848,2013,argentinos juniors,0,1,independiente (avellaneda)
 9849,2013,arsenal,2,0,colon
-9850,2013,all boys (buenos aires),1,0,belgrano (cordoba)
+9850,2013,all boys (buenos aires),1,0,belgrano (cba)
 9851,2013,godoy cruz antonio tomba,0,0,san lorenzo de almagro
 9852,2013,tigre,0,1,velez sarsfield
 9853,2013,union (santa fe),1,2,san martin (san juan)
@@ -9862,12 +9862,12 @@ id,year,team1,score1,score2,team2
 9860,2013,san lorenzo de almagro,2,2,quilmes atletico club
 9861,2013,san martin (san juan),1,2,atletico de rafaela
 9862,2013,velez sarsfield,1,0,racing club
-9863,2013,belgrano (cordoba),1,0,union (santa fe)
+9863,2013,belgrano (cba),1,0,union (santa fe)
 9864,2013,lanus,1,0,argentinos juniors
 9865,2013,river plate,2,2,boca juniors
 9866,2013,colon,1,1,godoy cruz antonio tomba
 9867,2013,independiente (avellaneda),1,1,tigre
-9868,2013,atletico de rafaela,1,3,belgrano (cordoba)
+9868,2013,atletico de rafaela,1,3,belgrano (cba)
 9869,2013,argentinos juniors,1,1,san martin (san juan)
 9870,2013,arsenal,1,5,velez sarsfield
 9871,2013,boca juniors,3,1,san lorenzo de almagro
@@ -9877,7 +9877,7 @@ id,year,team1,score1,score2,team2
 9875,2013,quilmes atletico club,2,2,colon
 9876,2013,tigre,1,1,racing club
 9877,2013,independiente (avellaneda),0,2,lanus
-9878,2013,belgrano (cordoba),0,0,argentinos juniors
+9878,2013,belgrano (cba),0,0,argentinos juniors
 9879,2013,newell's old boys,0,0,quilmes atletico club
 9880,2013,velez sarsfield,2,1,godoy cruz antonio tomba
 9881,2013,estudiantes de la plata,3,1,atletico de rafaela
@@ -9896,7 +9896,7 @@ id,year,team1,score1,score2,team2
 9894,2013,godoy cruz antonio tomba,0,1,racing club
 9895,2013,lanus,2,1,san martin (san juan)
 9896,2013,tigre,0,1,arsenal
-9897,2013,independiente (avellaneda),1,2,belgrano (cordoba)
+9897,2013,independiente (avellaneda),1,2,belgrano (cba)
 9898,2013,estudiantes de la plata,2,0,independiente (avellaneda)
 9899,2013,san lorenzo de almagro,1,0,atletico de rafaela
 9900,2013,arsenal,3,0,godoy cruz antonio tomba
@@ -9904,12 +9904,12 @@ id,year,team1,score1,score2,team2
 9902,2013,newell's old boys,1,2,all boys (buenos aires)
 9903,2013,san martin (san juan),2,2,tigre
 9904,2013,velez sarsfield,0,1,boca juniors
-9905,2013,belgrano (cordoba),0,2,lanus
+9905,2013,belgrano (cba),0,2,lanus
 9906,2013,racing club,4,0,quilmes atletico club
 9907,2013,river plate,0,0,argentinos juniors
 9908,2013,argentinos juniors,1,2,san lorenzo de almagro
 9909,2013,independiente (avellaneda),2,2,river plate
-9910,2013,san martin (san juan),1,1,belgrano (cordoba)
+9910,2013,san martin (san juan),1,1,belgrano (cba)
 9911,2013,union (santa fe),2,2,newell's old boys
 9912,2013,all boys (buenos aires),0,2,velez sarsfield
 9913,2013,boca juniors,3,1,racing club
@@ -9921,7 +9921,7 @@ id,year,team1,score1,score2,team2
 9919,2013,godoy cruz antonio tomba,0,0,quilmes atletico club
 9920,2013,racing club,3,1,all boys (buenos aires)
 9921,2013,arsenal,1,0,boca juniors
-9922,2013,belgrano (cordoba),1,0,tigre
+9922,2013,belgrano (cba),1,0,tigre
 9923,2013,river plate,1,0,lanus
 9924,2013,san lorenzo de almagro,2,1,independiente (avellaneda)
 9925,2013,velez sarsfield,2,0,union (santa fe)
@@ -9931,7 +9931,7 @@ id,year,team1,score1,score2,team2
 9929,2013,union (santa fe),1,1,racing club
 9930,2013,argentinos juniors,1,3,newell's old boys
 9931,2013,atletico de rafaela,0,3,velez sarsfield
-9932,2013,belgrano (cordoba),1,0,estudiantes de la plata
+9932,2013,belgrano (cba),1,0,estudiantes de la plata
 9933,2013,boca juniors,2,1,godoy cruz antonio tomba
 9934,2013,lanus,0,0,san lorenzo de almagro
 9935,2013,independiente (avellaneda),2,2,colon
@@ -9944,13 +9944,13 @@ id,year,team1,score1,score2,team2
 9942,2013,estudiantes de la plata,1,3,tigre
 9943,2013,san martin (san juan),0,0,san lorenzo de almagro
 9944,2013,atletico de rafaela,3,0,racing club
-9945,2013,belgrano (cordoba),1,2,river plate
+9945,2013,belgrano (cba),1,2,river plate
 9946,2013,independiente (avellaneda),1,3,newell's old boys
 9947,2013,lanus,4,0,colon
 9948,2013,racing club,2,0,argentinos juniors
 9949,2013,colon,1,1,san martin (san juan)
 9950,2013,godoy cruz antonio tomba,2,1,union (santa fe)
-9951,2013,san lorenzo de almagro,0,0,belgrano (cordoba)
+9951,2013,san lorenzo de almagro,0,0,belgrano (cba)
 9952,2013,velez sarsfield,0,1,independiente (avellaneda)
 9953,2013,newell's old boys,0,3,lanus
 9954,2013,quilmes,2,1,all boys (buenos aires)
@@ -9963,11 +9963,11 @@ id,year,team1,score1,score2,team2
 9961,2013,lanus,1,0,velez sarsfield
 9962,2013,union (santa fe),0,3,quilmes
 9963,2013,atletico de rafaela,1,2,godoy cruz antonio tomba
-9964,2013,belgrano (cordoba),2,1,colon
+9964,2013,belgrano (cba),2,1,colon
 9965,2013,independiente (avellaneda),2,0,racing club
 9966,2013,river plate,3,2,tigre
 9967,2013,san martin (san juan),1,1,newell's old boys
-9968,2013,newell's old boys,2,0,belgrano (cordoba)
+9968,2013,newell's old boys,2,0,belgrano (cba)
 9969,2013,quilmes,3,3,atletido de rafaela
 9970,2013,arsenal,1,0,independiente (avellaneda)
 9971,2013,colon,3,3,estudiantes de la plata
@@ -9977,7 +9977,7 @@ id,year,team1,score1,score2,team2
 9975,2013,san lorenzo de almagro,2,0,river plate
 9976,2013,tigre,2,1,all boys (buenos aires)
 9977,2013,velez sarsfield,3,0,san martin (san juan)
-9978,2013,belgrano (cordoba),1,0,velez sarsfield
+9978,2013,belgrano (cba),1,0,velez sarsfield
 9979,2013,independiente (avellaneda),0,1,godoy cruz antonio tomba
 9980,2013,estudiantes de la plata,2,4,newell's old boys
 9981,2013,san martin (san juan),0,3,racing club
@@ -9993,11 +9993,11 @@ id,year,team1,score1,score2,team2
 9991,2013,boca juniors,1,1,argentinos juniors
 9992,2013,godoy cruz antonio tomba,0,1,lanus
 9993,2013,newell's old boys,1,0,river plate
-9994,2013,racing club,1,1,belgrano (cordoba)
+9994,2013,racing club,1,1,belgrano (cba)
 9995,2013,velez sarsfield,1,1,estudiantes de la plata
 9996,2013,all boys (buenos aires),2,1,atletico de rafaela
 9997,2013,arsenal,3,2,san martin (san juan)
-9998,2013,belgrano (cordoba),1,1,arsenal
+9998,2013,belgrano (cba),1,1,arsenal
 9999,2013,colon,3,2,tigre
 10000,2013,argentinos juniors,1,0,all boys (buenos aires)
 10001,2013,estudiantes de la plata,0,1,racing club
@@ -10008,7 +10008,7 @@ id,year,team1,score1,score2,team2
 10006,2013,san martin (san juan),2,3,godoy cruz antonio tomba
 10007,2013,lanus,2,2,quilmes
 10008,2013,all boys (buenos aires),2,0,independiente (avellaneda)
-10009,2013,godoy cruz antonio tomba,0,0,belgrano (cordoba)
+10009,2013,godoy cruz antonio tomba,0,0,belgrano (cba)
 10010,2013,quilmes,0,0,san martin (san juan)
 10011,2013,tigre,1,3,atletico de rafaela
 10012,2013,union (santa fe),0,0,argentinos juniors
@@ -10026,14 +10026,14 @@ id,year,team1,score1,score2,team2
 10024,2013,estudiantes de la plata,0,0,godoy cruz antonio tomba
 10025,2013,newell's old boys,3,1,tigre
 10026,2013,river plate,1,1,arsenal
-10027,2013,belgrano (cordoba),3,0,quilmes
+10027,2013,belgrano (cba),3,0,quilmes
 10028,2013,racing club,1,1,colon
 10029,2013,velez sarsfield,1,3,newell's old boys
 10030,2013,all boys (buenos aires),1,1,san martin (san juan)
 10031,2013,quilmes,1,0,estudiantes de la plata
 10032,2013,arsenal,1,3,san lorenzo de almagro
 10033,2013,atletico de rafaela,2,0,independiente (avellaneda)
-10034,2013,boca juniors,0,0,belgrano (cordoba)
+10034,2013,boca juniors,0,0,belgrano (cba)
 10035,2013,godoy cruz antonio tomba,1,2,river plate
 10036,2013,tigre,1,0,argentinos juniors
 10037,2013,union (santa fe),0,0,lanus
@@ -10045,19 +10045,19 @@ id,year,team1,score1,score2,team2
 10043,2013,newell's old boys,4,3,racing club
 10044,2013,river plate,1,1,quilmes
 10045,2013,lanus,1,1,atletico de rafaela
-10046,2013,belgrano (cordoba),0,1,all boys (buenos aires)
+10046,2013,belgrano (cba),0,1,all boys (buenos aires)
 10047,2013,velez sarsfield,1,2,tigre
 10048,2013,godoy cruz antonio tomba,3,0,colon
 10049,2013,quilmes,1,2,san lorenzo de almagro
 10050,2013,argentinos juniors,1,2,lanus
 10051,2013,racing club,0,0,velez sarsfield
-10052,2013,union (santa fe),1,1,belgrano (cordoba)
+10052,2013,union (santa fe),1,1,belgrano (cba)
 10053,2013,atletico de rafaela,2,1,san martin (san juan)
 10054,2013,boca juniors,1,1,river plate
 10055,2013,tigre,0,2,independiente (avellaneda)
 10056,2013,all boys (buenos aires),0,0,estudiantes de la plata
 10057,2013,arsenal,2,0,newell's old boys
-10058,2013,belgrano (cordoba),0,0,atletico de rafaela
+10058,2013,belgrano (cba),0,0,atletico de rafaela
 10059,2013,newell's old boys,3,1,godoy cruz antonio tomba
 10060,2013,racing club,2,0,tigre
 10061,2013,san lorenzo de almagro,3,0,boca juniors
@@ -10075,11 +10075,11 @@ id,year,team1,score1,score2,team2
 10073,2013,all boys (buenos aires),0,3,san lorenzo de almagro
 10074,2013,independiente (avellaneda),3,1,san martin (san juan)
 10075,2013,union (santa fe),2,2,river plate
-10076,2013,argentinos juniors,1,3,belgrano (cordoba)
+10076,2013,argentinos juniors,1,3,belgrano (cba)
 10077,2013,tigre,0,0,lanus
 10078,2013,colon,2,0,all boys (buenos aires)
 10079,2013,velez sarsfield,2,0,quilmes
-10080,2013,belgrano (cordoba),0,0,independiente (avellaneda)
+10080,2013,belgrano (cba),0,0,independiente (avellaneda)
 10081,2013,newell's old boys,4,0,boca juniors
 10082,2013,racing club,1,1,godoy cruz antonio tomba
 10083,2013,river plate,3,0,atletico de rafaela
@@ -10093,12 +10093,12 @@ id,year,team1,score1,score2,team2
 10091,2013,independiente (avellaneda),0,0,estudiantes de la plata
 10092,2013,argentinos juniors,2,0,river plate
 10093,2013,boca juniors,1,1,velez sarsfield
-10094,2013,lanus,0,0,belgrano (cordoba)
+10094,2013,lanus,0,0,belgrano (cba)
 10095,2013,union (santa fe),1,0,colon
 10096,2013,all boys (buenos aires),2,1,newell's old boys
 10097,2013,tigre,1,3,san martin (san juan)
 10098,2013,arsenal,1,2,quilmes
-10099,2013,belgrano (cordoba),0,2,san martin (san juan)
+10099,2013,belgrano (cba),0,2,san martin (san juan)
 10100,2013,godoy cruz antonio tomba,0,1,tigre
 10101,2013,colon,2,2,atletico de rafaela
 10102,2013,racing club,2,0,boca juniors
@@ -10107,7 +10107,7 @@ id,year,team1,score1,score2,team2
 10105,2013,san lorenzo de almagro,1,1,argentinos juniors
 10106,2013,velez sarsfield,0,0,all boys (buenos aires)
 10107,2013,estudiantes de la plata,2,0,lanus
-10108,2013,tigre,0,0,belgrano (cordoba)
+10108,2013,tigre,0,0,belgrano (cba)
 10109,2013,argentinos juniors,1,0,colon
 10110,2013,independiente (avellaneda),0,1,san lorenzo de almagro
 10111,2013,san martin (san juan),2,0,estudiantes de la plata
@@ -10119,7 +10119,7 @@ id,year,team1,score1,score2,team2
 10117,2013,quilmes,0,0,godoy cruz antonio tomba
 10118,2013,racing club,3,0,union (santa fe)
 10119,2013,colon,1,1,independiente (avellaneda)
-10120,2013,estudiantes de la plata,1,1,belgrano (cordoba)
+10120,2013,estudiantes de la plata,1,1,belgrano (cba)
 10121,2013,tigre,2,3,quilmes
 10122,2013,arsenal,4,0,all boys (buenos aires)
 10123,2013,godoy cruz antonio tomba,1,1,boca juniors
@@ -10244,7 +10244,7 @@ id,year,team1,score1,score2,team2
 10242,2013,deportivo moron,2,1,instituto
 10243,2013,huracan (buenos aires),5,1,racing athletic club
 10244,2013,banfield,2,1,central norte
-10245,2013,belgrano (cordoba),0,1,talleres (cordoba)
+10245,2013,belgrano (cba),0,1,talleres (cordoba)
 10246,2013,boca unidos,1,0,jorge gibson brown
 10247,2013,lanus,1,0,uai urquiza
 10248,2013,tigre,0,1,juventud antoniana
@@ -10658,12 +10658,12 @@ id,year,team1,score1,score2,team2
 10656,2014,colon,1,1,racing club
 10657,2014,tigre,1,2,velez sarsfield
 10658,2014,gimnasia y esgrima la plata,1,0,river plate
-10659,2014,lanus,3,0,belgrano (cordoba)
+10659,2014,lanus,3,0,belgrano (cba)
 10660,2014,rosario central,2,0,quilmes
 10661,2014,san lorenzo de almagro,2,1,olimpo
 10662,2014,boca juniors,2,3,newell's old boys
 10663,2014,argentinos juniors,2,0,colon
-10664,2014,belgrano (cordoba),1,2,boca juniors
+10664,2014,belgrano (cba),1,2,boca juniors
 10665,2014,estudiantes de la plata,1,0,all boys (buenos aires)
 10666,2014,atletico de rafaela,2,1,lanus
 10667,2014,quilmes,1,0,godoy cruz antonio tomba
@@ -10678,12 +10678,12 @@ id,year,team1,score1,score2,team2
 10676,2014,gimnasia y esgrima la plata,3,1,rosario central
 10677,2014,boca juniors,2,1,atletico de rafaela
 10678,2014,godoy cruz antonio tomba,0,0,river plate
-10679,2014,newell's old boys,0,0,belgrano (cordoba)
+10679,2014,newell's old boys,0,0,belgrano (cba)
 10680,2014,tigre,3,1,racing club
 10681,2014,all boys (buenos aires),1,1,velez sarsfield
 10682,2014,lanus,1,1,estudiantes de la plata
 10683,2014,atletico de rafaela,0,2,newell's old boys
-10684,2014,belgrano (cordoba),1,2,gimnasia y esgrima la plata
+10684,2014,belgrano (cba),1,2,gimnasia y esgrima la plata
 10685,2014,racing club,0,2,arsenal
 10686,2014,argentinos juniors,1,0,tigre
 10687,2014,rosario central,1,0,godoy cruz antonio tomba
@@ -10700,19 +10700,19 @@ id,year,team1,score1,score2,team2
 10698,2014,gimnasia y esgrima la plata,0,0,godoy cruz antonio tomba
 10699,2014,san lorenzo de almagro,1,0,river plate
 10700,2014,arsenal,0,0,argentinos juniors
-10701,2014,belgrano (cordoba),3,2,atletico de rafaela
+10701,2014,belgrano (cba),3,2,atletico de rafaela
 10702,2014,lanus,3,0,olimpo
 10703,2014,velez sarsfield,3,0,newell's old boys
 10704,2014,argentinos juniors,1,0,all boys (buenos aires)
 10705,2014,atletico de rafaela,2,1,gimnasia y esgrima la plata
-10706,2014,estudiantes de la plata,1,1,belgrano (cordoba)
+10706,2014,estudiantes de la plata,1,1,belgrano (cba)
 10707,2014,godoy cruz antonio tomba,1,0,colon
 10708,2014,racing club,1,1,lanus
 10709,2014,olimpo,3,0,boca juniors
 10710,2014,quilmes,0,1,arsenal
 10711,2014,river plate,3,0,tigre
 10712,2014,rosario central,0,2,san lorenzo de almagro
-10713,2014,belgrano (cordoba),3,0,velez sarsfield
+10713,2014,belgrano (cba),3,0,velez sarsfield
 10714,2014,lanus,4,0,argentinos juniors
 10715,2014,all boys (buenos aires),4,0,quilmes
 10716,2014,newell's old boys,2,1,olimpo
@@ -10724,7 +10724,7 @@ id,year,team1,score1,score2,team2
 10722,2014,gimnasia y esgrima la plata,1,0,colon
 10723,2014,godoy cruz antonio tomba,2,0,tigre
 10724,2014,racing club,0,1,newell's old boys
-10725,2014,olimpo,1,1,belgrano (cordoba)
+10725,2014,olimpo,1,1,belgrano (cba)
 10726,2014,rosario central,1,1,arsenal
 10727,2014,argentinos juniors,0,0,boca juniors
 10728,2014,colon,0,2,san lorenzo de almagro
@@ -10737,12 +10737,12 @@ id,year,team1,score1,score2,team2
 10735,2014,estudiantes de la plata,0,0,velez sarsfield
 10736,2014,san lorenzo de almagro,3,0,gimnasia y esgrima la plata
 10737,2014,atletico de rafaela,2,0,olimpo
-10738,2014,belgrano (cordoba),3,0,racing club
+10738,2014,belgrano (cba),3,0,racing club
 10739,2014,boca juniors,2,0,quilmes
 10740,2014,lanus,0,1,river plate
 10741,2014,newell's old boys,2,0,argentinos juniors
 10742,2014,tigre,1,0,colon
-10743,2014,argentinos juniors,1,3,belgrano (cordoba)
+10743,2014,argentinos juniors,1,3,belgrano (cba)
 10744,2014,olimpo,1,1,estudiantes de la plata
 10745,2014,quilmes,0,2,newell's old boys
 10746,2014,san lorenzo de almagro,0,0,tigre
@@ -10755,7 +10755,7 @@ id,year,team1,score1,score2,team2
 10753,2014,all boys (buenos aires),0,0,colon
 10754,2014,arsenal,2,1,san lorenzo de almagro
 10755,2014,atletico de rafaela,1,0,argentinos juniors
-10756,2014,belgrano (cordoba),0,1,quilmes
+10756,2014,belgrano (cba),0,1,quilmes
 10757,2014,boca juniors,1,1,rosario central
 10758,2014,estudiantes de la plata,1,0,racing club
 10759,2014,newell's old boys,1,0,river plate
@@ -10769,7 +10769,7 @@ id,year,team1,score1,score2,team2
 10767,2014,san lorenzo de almagro,3,0,all boys (buenos aires)
 10768,2014,gimnasia y esgrima la plata,2,2,olimpo
 10769,2014,godoy cruz antonio tomba,2,2,boca juniors
-10770,2014,river plate,0,0,belgrano (cordoba)
+10770,2014,river plate,0,0,belgrano (cba)
 10771,2014,rosario central,2,1,newell's old boys
 10772,2014,tigre,2,1,arsenal
 10773,2014,velez sarsfield,2,0,argentinos juniors
@@ -10777,7 +10777,7 @@ id,year,team1,score1,score2,team2
 10775,2014,atletico de rafaela,0,0,river plate
 10776,2014,lanus,3,2,san lorenzo de almagro
 10777,2014,arsenal,1,1,gimnasia y esgrima la plata
-10778,2014,belgrano (cordoba),0,1,rosario central
+10778,2014,belgrano (cba),0,1,rosario central
 10779,2014,boca juniors,2,0,colon
 10780,2014,newell's old boys,1,1,godoy cruz antonio tomba
 10781,2014,estudiantes de la plata,1,0,quilmes
@@ -10786,7 +10786,7 @@ id,year,team1,score1,score2,team2
 10784,2014,colon,2,2,newell's old boys
 10785,2014,argentinos juniors,4,0,olimpo
 10786,2014,gimnasia y esgrima la plata,1,3,racing club
-10787,2014,godoy cruz antonio tomba,1,1,belgrano (cordoba)
+10787,2014,godoy cruz antonio tomba,1,1,belgrano (cba)
 10788,2014,rosario central,3,2,atletico de rafaela
 10789,2014,quilmes,1,1,velez sarsfield
 10790,2014,river plate,1,2,estudiantes de la plata
@@ -10797,7 +10797,7 @@ id,year,team1,score1,score2,team2
 10795,2014,estudiantes de la plata,1,1,rosario central
 10796,2014,newell's old boys,1,1,san lorenzo de almagro
 10797,2014,olimpo,0,1,quilmes
-10798,2014,belgrano (cordoba),2,0,colon
+10798,2014,belgrano (cba),2,0,colon
 10799,2014,boca juniors,2,1,tigre
 10800,2014,racing club,0,1,argentinos juniors
 10801,2014,velez sarsfield,0,0,river plate
@@ -10806,7 +10806,7 @@ id,year,team1,score1,score2,team2
 10804,2014,all boys (buenos aires),2,3,lanus
 10805,2014,godoy cruz antonio tomba,2,1,estudiantes de la plata
 10806,2014,quilmes,1,1,racing club
-10807,2014,san lorenzo de almagro,4,2,belgrano (cordoba)
+10807,2014,san lorenzo de almagro,4,2,belgrano (cba)
 10808,2014,arsenal,3,2,boca juniors
 10809,2014,river plate,1,3,olimpo
 10810,2014,rosario central,2,3,velez sarsfield
@@ -10820,19 +10820,19 @@ id,year,team1,score1,score2,team2
 10818,2014,lanus,0,0,gimnasia y esgrima la plata
 10819,2014,newell's old boys,1,1,arsenal
 10820,2014,racing club,1,0,river plate
-10821,2014,belgrano (cordoba),2,0,tigre
+10821,2014,belgrano (cba),2,0,tigre
 10822,2014,estudiantes de la plata,1,0,colon
 10823,2014,godoy cruz antonio tomba,0,1,olimpo
 10824,2014,rosario central,1,1,racing club
 10825,2014,all boys (buenos aires),3,1,newell's old boys
-10826,2014,arsenal,1,4,belgrano (cordoba)
+10826,2014,arsenal,1,4,belgrano (cba)
 10827,2014,colon,0,2,velez sarsfield
 10828,2014,tigre,3,1,atletico de rafaela
 10829,2014,gimnasia y esgrima la plata,3,2,quilmes
 10830,2014,lanus,2,2,boca juniors
 10831,2014,river plate,1,0,argentinos juniors
 10832,2014,san lorenzo de almagro,0,0,estudiantes de la plata
-10833,2014,belgrano (cordoba),1,0,all boys (buenos aires)
+10833,2014,belgrano (cba),1,0,all boys (buenos aires)
 10834,2014,racing club,2,0,godoy cruz antonio tomba
 10835,2014,argentinos juniors,1,2,rosario central
 10836,2014,atletico de rafaela,1,1,arsenal
@@ -10851,14 +10851,14 @@ id,year,team1,score1,score2,team2
 10849,2014,newell's old boys,0,0,boca juniors
 10850,2014,quilmes,0,1,rosario central
 10851,2014,river plate,1,0,gimnasia y esgrima la plata
-10852,2014,belgrano (cordoba),2,2,lanus
+10852,2014,belgrano (cba),2,2,lanus
 10853,2014,godoy cruz antonio tomba,2,0,quilmes
 10854,2014,all boys (buenos aires),0,1,estudiantes de la plata
 10855,2014,arsenal,1,3,velez sarsfield
 10856,2014,colon,1,0,argentinos juniors
 10857,2014,san lorenzo de almagro,1,0,racing club
 10858,2014,tigre,0,0,olimpo
-10859,2014,boca juniors,2,3,belgrano (cordoba)
+10859,2014,boca juniors,2,3,belgrano (cba)
 10860,2014,gimnasia y esgrima la plata,3,0,newell's old boys
 10861,2014,lanus,0,3,atletico de rafaela
 10862,2014,rosario central,1,1,river plate
@@ -10870,7 +10870,7 @@ id,year,team1,score1,score2,team2
 10868,2014,quilmes,0,2,colon
 10869,2014,river plate,1,2,godoy cruz antonio tomba
 10870,2014,atletico de rafaela,1,0,boca juniors
-10871,2014,belgrano (cordoba),1,1,newell's old boys
+10871,2014,belgrano (cba),1,1,newell's old boys
 10872,2014,rosario central,3,1,gimnasia y esgrima la plata
 10873,2014,all boys (buenos aires),1,0,olimpo
 10874,2014,arsenal,3,1,racing club
@@ -10879,13 +10879,13 @@ id,year,team1,score1,score2,team2
 10877,2014,colon,3,1,river plate
 10878,2014,newell's old boys,4,1,atletico de rafaela
 10879,2014,san lorenzo de almagro,1,0,quilmes
-10880,2014,gimnasia y esgrima la plata,2,2,belgrano (cordoba)
+10880,2014,gimnasia y esgrima la plata,2,2,belgrano (cba)
 10881,2014,godoy cruz antonio tomba,3,0,rosario central
 10882,2014,tigre,0,0,argentinos juniors
 10883,2014,godoy cruz antonio tomba,0,2,gimnasia y esgrima la plata
 10884,2014,racing club,1,1,all boys (buenos aires)
 10885,2014,argentinos juniors,2,0,arsenal
-10886,2014,atletico de rafaela,1,2,belgrano (cordoba)
+10886,2014,atletico de rafaela,1,2,belgrano (cba)
 10887,2014,rosario central,0,1,colon
 10888,2014,velez sarsfield,1,0,boca juniors
 10889,2014,estudiantes de la plata,0,0,newell's old boys
@@ -10895,7 +10895,7 @@ id,year,team1,score1,score2,team2
 10893,2014,all boys (buenos aires),0,0,argentinos juniors
 10894,2014,colon,1,1,godoy cruz antonio tomba
 10895,2014,gimnasia y esgrima la plata,1,1,atletico de rafaela
-10896,2014,belgrano (cordoba),1,1,estudiantes de la plata
+10896,2014,belgrano (cba),1,1,estudiantes de la plata
 10897,2014,boca juniors,2,0,olimpo
 10898,2014,lanus,1,0,racing club
 10899,2014,newell's old boys,4,1,velez sarsfield
@@ -10905,7 +10905,7 @@ id,year,team1,score1,score2,team2
 10903,2014,argentinos juniors,0,2,lanus
 10904,2014,colon,0,0,gimnasia y esgrima la plata
 10905,2014,estudiantes de la plata,0,0,atletico de rafaela
-10906,2014,velez sarsfield,3,1,belgrano (cordoba)
+10906,2014,velez sarsfield,3,1,belgrano (cba)
 10907,2014,godoy cruz antonio tomba,1,1,san lorenzo de almagro
 10908,2014,olimpo,1,0,newell's old boys
 10909,2014,racing club,1,2,boca juniors
@@ -10913,7 +10913,7 @@ id,year,team1,score1,score2,team2
 10911,2014,quilmes,1,2,all boys (buenos aires)
 10912,2014,rosario central,1,1,tigre
 10913,2014,atletico de rafaela,3,1,velez sarsfield
-10914,2014,belgrano (cordoba),1,1,olimpo
+10914,2014,belgrano (cba),1,1,olimpo
 10915,2014,san lorenzo de almagro,0,0,colon
 10916,2014,tigre,0,0,godoy cruz antonio tomba
 10917,2014,all boys (buenos aires),3,2,river plate
@@ -10925,7 +10925,7 @@ id,year,team1,score1,score2,team2
 10923,2014,colon,1,0,tigre
 10924,2014,olimpo,2,1,atletico de rafaela
 10925,2014,argentinos juniors,0,0,newell's old boys
-10926,2014,racing club,2,0,belgrano (cordoba)
+10926,2014,racing club,2,0,belgrano (cba)
 10927,2014,rosario central,2,0,all boys (buenos aires)
 10928,2014,velez sarsfield,1,1,estudiantes de la plata
 10929,2014,gimnasia y esgrima la plata,2,1,san lorenzo de almagro
@@ -10933,7 +10933,7 @@ id,year,team1,score1,score2,team2
 10931,2014,quilmes,0,0,boca juniors
 10932,2014,river plate,2,0,lanus
 10933,2014,all boys (buenos aires),0,0,godoy cruz antonio tomba
-10934,2014,belgrano (cordoba),0,0,argentinos juniors
+10934,2014,belgrano (cba),0,0,argentinos juniors
 10935,2014,estudiantes de la plata,0,0,olimpo
 10936,2014,atletico de rafaela,2,2,racing club
 10937,2014,newell's old boys,1,1,quilmes
@@ -10944,7 +10944,7 @@ id,year,team1,score1,score2,team2
 10942,2014,tigre,2,2,san lorenzo de almagro
 10943,2014,argentinos juniors,0,0,atletico de rafaela
 10944,2014,olimpo,1,2,velez sarsfield
-10945,2014,quilmes,1,0,belgrano (cordoba)
+10945,2014,quilmes,1,0,belgrano (cba)
 10946,2014,racing club,3,3,estudiantes de la plata
 10947,2014,colon,1,0,all boys (buenos aires)
 10948,2014,godoy cruz antonio tomba,1,0,lanus
@@ -10957,12 +10957,12 @@ id,year,team1,score1,score2,team2
 10955,2014,all boys (buenos aires),1,2,san lorenzo de almagro
 10956,2014,arsenal,0,1,tigre
 10957,2014,atletico de rafaela,2,2,quilmes
-10958,2014,belgrano (cordoba),2,1,river plate
+10958,2014,belgrano (cba),2,1,river plate
 10959,2014,boca juniors,3,0,godoy cruz antonio tomba
 10960,2014,newell's old boys,0,1,rosario central
 10961,2014,estudiantes de la plata,1,0,argentinos juniors
 10962,2014,olimpo,0,2,gimnasia y esgrima la plata
-10963,2014,rosario central,0,0,belgrano (cordoba)
+10963,2014,rosario central,0,0,belgrano (cba)
 10964,2014,tigre,2,0,all boys (buenos aires)
 10965,2014,argentinos juniors,2,1,velez sarsfield
 10966,2014,quilmes,1,3,estudiantes de la plata
@@ -10979,7 +10979,7 @@ id,year,team1,score1,score2,team2
 10977,2014,estudiantes de la plata,0,0,river plate
 10978,2014,newell's old boys,0,1,colon
 10979,2014,all boys (buenos aires),1,1,arsenal
-10980,2014,belgrano (cordoba),1,2,godoy cruz antonio tomba
+10980,2014,belgrano (cba),1,2,godoy cruz antonio tomba
 10981,2014,racing club,0,1,gimnasia y esgrima la plata
 10982,2014,lanus,0,0,tigre
 10983,2014,quilmes,0,1,olimpo
@@ -10987,7 +10987,7 @@ id,year,team1,score1,score2,team2
 10985,2014,san lorenzo de almagro,0,0,newell's old boys
 10986,2014,argentinos juniors,0,1,racing club
 10987,2014,arsenal,3,1,lanus
-10988,2014,colon,0,0,belgrano (cordoba)
+10988,2014,colon,0,0,belgrano (cba)
 10989,2014,river plate,1,0,velez sarsfield
 10990,2014,tigre,0,1,boca juniors
 10991,2014,gimnasia y esgrima la plata,2,1,all boys (buenos aires)
@@ -10995,7 +10995,7 @@ id,year,team1,score1,score2,team2
 10993,2014,newell's old boys,2,1,tigre
 10994,2014,argentinos juniors,0,2,gimnasia y esgrima la plata
 10995,2014,atletico de rafaela,1,1,colon
-10996,2014,belgrano (cordoba),0,0,san lorenzo de almagro
+10996,2014,belgrano (cba),0,0,san lorenzo de almagro
 10997,2014,racing club,0,1,quilmes
 10998,2014,velez sarsfield,4,1,rosario central
 10999,2014,boca juniors,4,2,arsenal
@@ -11011,7 +11011,7 @@ id,year,team1,score1,score2,team2
 11009,2014,arsenal,3,2,newell's old boys
 11010,2014,gimnasia y esgrima la plata,0,0,lanus
 11011,2014,river plate,3,2,racing club
-11012,2014,tigre,2,1,belgrano (cordoba)
+11012,2014,tigre,2,1,belgrano (cba)
 11013,2014,olimpo,3,1,godoy cruz antonio tomba
 11014,2014,atletico de rafaela,1,1,tigre
 11015,2014,estudiantes de la plata,3,0,san lorenzo de almagro
@@ -11019,10 +11019,10 @@ id,year,team1,score1,score2,team2
 11017,2014,racing club,0,0,rosario central
 11018,2014,velez sarsfield,2,0,colon
 11019,2014,argentinos juniors,0,2,river plate
-11020,2014,belgrano (cordoba),0,0,arsenal
+11020,2014,belgrano (cba),0,0,arsenal
 11021,2014,boca juniors,3,1,lanus
 11022,2014,quilmes,2,0,gimnasia y esgrima la plata
-11023,2014,all boys (buenos aires),0,0,belgrano (cordoba)
+11023,2014,all boys (buenos aires),0,0,belgrano (cba)
 11024,2014,rosario central,3,2,argentinos juniors
 11025,2014,arsenal,1,2,atletico de rafaela
 11026,2014,colon,2,1,olimpo
@@ -11185,7 +11185,7 @@ id,year,team1,score1,score2,team2
 11183,2014,rosario central,3,1,juventud unida universitario
 11184,2014,lanus,0,1,colon
 11185,2014,racing club,1,0,san martin (san juan)
-11186,2014,belgrano (cordoba),0,2,independiente (avellaneda)
+11186,2014,belgrano (cba),0,2,independiente (avellaneda)
 11187,2014,quilmes,0,4,banfield
 11188,2014,instituto,0,1,estudiantes (buenos aires)
 11189,2014,atletico de rafaela,2,1,talleres (cordoba)
