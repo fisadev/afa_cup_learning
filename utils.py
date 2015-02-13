@@ -13,7 +13,7 @@ RAW_MATCHES_FILE = 'raw_matches.csv'
 
 
 def get_matches(with_team_stats=False, duplicate_with_reversed=False,
-                exclude_ties=False):
+                exclude_ties=False, recent_years=1):
     """Create a dataframe with matches info."""
     matches = pd.DataFrame.from_csv(RAW_MATCHES_FILE)
 
@@ -46,7 +46,7 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
         matches = matches[matches['winner'] != 0]
 
     if with_team_stats:
-        stats = get_team_stats()
+        stats = get_team_stats(recent_years)
 
         matches = matches.join(stats, on='team1')\
                          .join(stats, on='team2', rsuffix='_2')
