@@ -9275,7 +9275,7 @@ id,year,team1,score1,score2,team2
 9273,2012,deportivo madryn (pto madryn),1,2,racing (trelew)
 9274,2012,huracan (comodoro rivadavia),1,0,jorge newbery (comodoro rivadavia)
 9275,2012,cipolletti (rio negro),2,3,deportivo roca
-9276,2012,cruz del sur (ingjacobacci),1,0,maronese (neuquen)
+9276,2012,cruz del sur,1,0,maronese (neuquen)
 9277,2012,villa mitre (bahia blanca),1,0,alvear fc (intendente alvear)
 9278,2012,rivadavia (lincoln),2,0,la emilia (san nicolas)
 9279,2012,douglas haig,2,1,ferro carril sud (tandil)
@@ -9294,7 +9294,7 @@ id,year,team1,score1,score2,team2
 9292,2012,gimnasia y esgrima (cdu),3,2,defensores (pronunciamiento)
 9293,2012,central cordoba (sgo estero),2,1,mitre (santiago del estero)
 9294,2012,sportivo belgrano (sfco),4,2,tiro federal (morteros)
-9295,2012,deportivo roca,1,0,cruz del sur (ingjacobacci)
+9295,2012,deportivo roca,1,0,cruz del sur
 9296,2012,ramon santamarina (tandil),1,0,villa mitre (bahia blanca)
 9297,2012,racing (olavarria),1,0,defensores de belgrano (villa ramallo)
 9298,2012,atletico parana,1,0,atletico san jorge (santa fe)
@@ -11866,7 +11866,7 @@ id,year,team1,score1,score2,team2
 11864,2015,club sportivo bella vista,0,1,club social y deportivo lastenia
 11865,2015,club sportivo desamparados,2,0,club sportivo penarol
 11866,2015,club sportivo juan b del bono,4,1,club atletico colon junior
-11867,2015,cs cultural y deportivo belgrano,0,1,ac club deportivo cruz del sur
+11867,2015,cs cultural y deportivo belgrano,0,1,ac cruz del sur
 11868,2015,club atletico trinidad,3,0,club atenas de pocito
 11869,2015,club bella vista soc civil,1,4,tiro federal argentino
 11870,2015,club villa mitre,1,2,club atletico liniers
