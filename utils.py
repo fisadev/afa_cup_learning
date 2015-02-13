@@ -38,6 +38,10 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
     """Create a dataframe with matches info."""
     matches = pd.DataFrame.from_csv(RAW_MATCHES_FILE)
 
+    if with_team_stats and recent_years < 1:
+        raise ValueError("To include team stats, you must have a number of"
+                         " recen_years greater than 1")
+
     if duplicate_with_reversed:
         id_offset = len(matches)
 
