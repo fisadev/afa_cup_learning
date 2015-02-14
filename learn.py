@@ -76,8 +76,8 @@ class CrystalBall(object):
             use_these_team_stats=self.team_stats,
         )
 
-    def process_data(self):
-        """Pre-process data for the learning needs."""
+    def prepare_learning(self):
+        """Pre-process data for the learning needs, build network + trainer."""
         print 'Separating inputs and outputs...'
         self.inputs, self.outputs = extract_samples(self.matches,
                                                     self.input_features,
