@@ -42,7 +42,7 @@ def team_year_key(*args):
 
 
 def get_matches(with_team_stats=False, duplicate_with_reversed=False,
-                exclude_ties=False, recent_years=1):
+                exclude_ties=False, recent_years=1, use_these_team_stats=None):
     """Create a dataframe with matches info."""
     matches = pd.DataFrame.from_csv(RAW_MATCHES_FILE)
 
@@ -75,7 +75,10 @@ def get_matches(with_team_stats=False, duplicate_with_reversed=False,
         matches = matches[matches.winner != 0]
 
     if with_team_stats:
-        stats = get_team_stats(recent_years)
+        if use_these_team_stats is None:
+            stats = get_team_stats(recent_years)
+        else:
+            stats = use_these_team_stats
 
         for team in (1, 2):
             # for the recent stats of team
