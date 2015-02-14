@@ -165,11 +165,12 @@ class CrystalBall(object):
         train_accuracy = 100 - percentError(map(self.neural_result,
                                                 self.train_inputs),
                                             self.train_outputs)
-        print 'Train accuracy:'
-        print ' ' * int(train_accuracy), 'TR', train_accuracy
+        print 'Train accuracy:', train_accuracy
 
         test_accuracy = 100 - percentError(map(self.neural_result,
                                                self.test_inputs),
                                            self.test_outputs)
-        print 'Test accuracy:'
-        print ' ' * int(test_accuracy), 'TE', test_accuracy
+        print 'Test accuracy:', test_accuracy
+
+        print '#' * int(train_accuracy), 'TR'
+        print '#' * int(test_accuracy), 'TE'
