@@ -64,17 +64,17 @@ class CrystalBall(object):
 
     def read_data(self):
         """Read matches and stats."""
+        print 'Getting team stats...'
+        self.team_stats = get_team_stats(self.recent_years)
+
         print 'Getting matches...'
         self.matches = get_matches(
             with_team_stats=True,
             duplicate_with_reversed=self.duplicate_with_reversed,
             exclude_ties=self.exclude_ties,
-            recent_years=self.recent_years
+            recent_years=self.recent_years,
+            use_these_team_stats=self.team_stats,
         )
-
-        # will need them in the predict phase
-        print 'Getting team stats...'
-        self.team_stats = get_team_stats(self.recent_years)
 
     def process_data(self):
         """Pre-process data for the learning needs."""
