@@ -100,7 +100,8 @@ class CrystalBall(object):
         self.train_set = ClassificationDataSet(len(self.input_features))
 
         for i, input_line in enumerate(self.train_inputs):
-            self.train_set.addSample(self.train_inputs[i], [self.train_outputs[i] - 1])
+            self.train_set.addSample(self.train_inputs[i],
+                                     [self.train_outputs[i] - 1])
 
         self.trainer = BackpropTrainer(self.network, dataset=self.train_set,
                                        momentum=0.5, weightdecay=0.0)
