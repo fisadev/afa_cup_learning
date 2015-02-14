@@ -6,7 +6,7 @@ from pybrain.datasets import ClassificationDataSet
 from pybrain.utilities import percentError
 
 from utils import (get_matches, get_team_stats, extract_samples, normalize,
-                   split_samples)
+                   split_samples, team_year_key)
 
 
 class CrystalBall(object):
@@ -123,12 +123,20 @@ class CrystalBall(object):
         inputs = []
 
         for feature in self.input_features:
-            from_team_2 = '_2' in feature
-            feature = feature.replace('_2', '')
+            stat_name = feature.replace('_1', '')\
+                               .replace('_2', '')\
+                               .replace('_recent', '')\
+                               .replace('_all_time', '')
 
-            if feature in self.team_stats.columns.values:
-                team = team2 if from_team_2 else team1
-                value = self.team_stats.loc[team, feature]
+            if stat_name in self.team_stats.columns.values:
+                # it's a team stat
+                if 'all_time' in feature:
+                    stat_year = 'all_time'
+                else:
+                    stat_year = year
+                team = team1 if '_1' in feature else team2
+                team_year = team_year_key(team, stat_year)
+                value = self.team_stats.loc[team_year, stat_name]
             elif feature == 'year':
                 value = year
             else:
