@@ -91,8 +91,8 @@ class CrystalBall(object):
 
         print 'Building neural network...'
         self.network = buildNetwork(len(self.input_features),
-                                    10 * len(self.input_features),
-                                    10 * len(self.input_features),
+                                    2 * len(self.input_features),
+                                    2 * len(self.input_features),
                                     1,
                                     outclass=SigmoidLayer,
                                     bias=True)
