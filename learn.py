@@ -162,9 +162,14 @@ class CrystalBall(object):
 
     def test_network(self):
         """Calculate train and test sets errors."""
-        print 'Train accuracy:', 100 - percentError(map(self.neural_result,
-                                                        self.train_inputs),
-                                                    self.train_outputs)
-        print 'Test accuracy:', 100 - percentError(map(self.neural_result,
-                                                       self.test_inputs),
-                                                   self.test_outputs)
+        train_accuracy = 100 - percentError(map(self.neural_result,
+                                                self.train_inputs),
+                                            self.train_outputs)
+        print 'Train accuracy:'
+        print ' ' * int(train_accuracy), 'TR', train_accuracy
+
+        test_accuracy = 100 - percentError(map(self.neural_result,
+                                               self.test_inputs),
+                                           self.test_outputs)
+        print 'Test accuracy:'
+        print ' ' * int(test_accuracy), 'TE', test_accuracy
